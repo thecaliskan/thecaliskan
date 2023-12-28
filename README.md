@@ -5,18 +5,24 @@
 - [spatie/package-skeleton-php](https://github.com/spatie/package-skeleton-php) - A skeleton repository for Spatie&#39;s PHP Packages (4 days ago)
 - [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie&#39;s Laravel Packages (4 days ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (1 week ago)
+- [spatie/http-status-check](https://github.com/spatie/http-status-check) - CLI tool to crawl a website and check HTTP status codes (1 week ago)
+- [spatie/crawler](https://github.com/spatie/crawler) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript. (1 week ago)
 
 #### 🌱 My latest projects
 
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - 
 - [thecaliskan/spring-boot-benchmark](https://github.com/thecaliskan/spring-boot-benchmark) - 
 - [thecaliskan/traefik-nginx-benchmark](https://github.com/thecaliskan/traefik-nginx-benchmark) - 
+- [thecaliskan/symfony-swoole-docker-example](https://github.com/thecaliskan/symfony-swoole-docker-example) - 
+- [thecaliskan/symfony-swoole-docker](https://github.com/thecaliskan/symfony-swoole-docker) - Swoole Runtime based Docker image for your Symfony application
 
 #### 🔭 Latest releases I've contributed to
 
 - [spatie/docker](https://github.com/spatie/docker) ([1.12.0](https://github.com/spatie/docker/releases/tag/1.12.0), today) - Manage docker containers with PHP
 - [spatie/dns](https://github.com/spatie/dns) ([2.5.5](https://github.com/spatie/dns/releases/tag/2.5.5), 2 days ago) - Retrieve DNS records
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.2](https://github.com/dunglas/frankenphp/releases/tag/v1.0.2), 3 days ago) - The modern PHP app server 🧟
+- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.4.2](https://github.com/spatie/db-dumper/releases/tag/3.4.2), 3 days ago) - Dump the contents of a database
+- [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.0.0](https://github.com/spatie/php-structure-discoverer/releases/tag/2.0.0), 1 week ago) - Automatically discover classes within your PHP application
 
 #### 📜 My recent [blog posts](https://caliskanemre.medium.com/)
 
