@@ -15,6 +15,11 @@
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
+#### 📜 My recent [blog posts](https://caliskanemre.medium.com/)
+{{range rss "https://caliskanemre.medium.com/feed" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/thecaliskan) (thank you!)
 {{range sponsors 3}}
 - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
