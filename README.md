@@ -23,11 +23,11 @@
 
 #### 🌱 My latest projects
 
-- [thecaliskan/laravel-benchmark](https://github.com/thecaliskan/laravel-benchmark) - Laravel Benchmark Project for Laravel Octane Servers
+- [thecaliskan/laravel-benchmark](https://github.com/thecaliskan/laravel-benchmark) - Laravel Benchmark Example Project for Laravel Octane Servers
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - 
-- [thecaliskan/spring-boot-benchmark](https://github.com/thecaliskan/spring-boot-benchmark) - 
-- [thecaliskan/traefik-nginx-benchmark](https://github.com/thecaliskan/traefik-nginx-benchmark) - 
-- [thecaliskan/symfony-swoole-docker-example](https://github.com/thecaliskan/symfony-swoole-docker-example) - 
+- [thecaliskan/spring-boot-benchmark](https://github.com/thecaliskan/spring-boot-benchmark) - Spring Boot Benchmark Example Project
+- [thecaliskan/traefik-nginx-benchmark](https://github.com/thecaliskan/traefik-nginx-benchmark) - Traefik vs Nginx Benchmark Example Project
+- [thecaliskan/symfony-swoole-docker-example](https://github.com/thecaliskan/symfony-swoole-docker-example) - Symfony Swoole Docker Example Project
 
 #### 👯 Check out some of my recent followers
 
