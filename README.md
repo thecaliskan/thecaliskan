@@ -18,4 +18,9 @@
 - [spatie/dns](https://github.com/spatie/dns) ([2.5.5](https://github.com/spatie/dns/releases/tag/2.5.5), 2 days ago) - Retrieve DNS records
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.2](https://github.com/dunglas/frankenphp/releases/tag/v1.0.2), 3 days ago) - The modern PHP app server 🧟
 
+#### 📜 My recent [blog posts](https://caliskanemre.medium.com/)
+
+- [Is Nginx dead? Is Traefik v3 20% faster than Traefik v2?](https://medium.com/beyn-technology/is-nginx-dead-is-traefik-v3-20-faster-than-traefik-v2-f28ffb7eed3e?source=rss-cf41ab240584------2) (8 months ago)
+- [Serving High Performance the Symfony App with Swoole/Docker](https://medium.com/beyn-technology/serving-high-performance-the-symfony-app-with-swoole-docker-758d8f176889?source=rss-cf41ab240584------2) (1 year ago)
+
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/thecaliskan) (thank you!)
