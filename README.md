@@ -7,11 +7,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/browsershot](https://github.com/spatie/browsershot) ([4.0.0](https://github.com/spatie/browsershot/releases/tag/4.0.0), today) - Convert HTML to an image, PDF or string
 - [spatie/docker](https://github.com/spatie/docker) ([1.12.0](https://github.com/spatie/docker/releases/tag/1.12.0), 1 day ago) - Manage docker containers with PHP
 - [spatie/dns](https://github.com/spatie/dns) ([2.5.5](https://github.com/spatie/dns/releases/tag/2.5.5), 3 days ago) - Retrieve DNS records
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.2](https://github.com/dunglas/frankenphp/releases/tag/v1.0.2), 4 days ago) - The modern PHP app server 🧟
 - [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.4.2](https://github.com/spatie/db-dumper/releases/tag/3.4.2), 4 days ago) - Dump the contents of a database
-- [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.0.0](https://github.com/spatie/php-structure-discoverer/releases/tag/2.0.0), 1 week ago) - Automatically discover classes within your PHP application
 
 #### 👷 Check out what I'm currently working on
 
