@@ -7,10 +7,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/crawler](https://github.com/spatie/crawler) ([8.0.4](https://github.com/spatie/crawler/releases/tag/8.0.4), 3 days ago) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
-- [spatie/browsershot](https://github.com/spatie/browsershot) ([4.0.0](https://github.com/spatie/browsershot/releases/tag/4.0.0), 3 days ago) - Convert HTML to an image, PDF or string
-- [spatie/docker](https://github.com/spatie/docker) ([1.12.0](https://github.com/spatie/docker/releases/tag/1.12.0), 4 days ago) - Manage docker containers with PHP
-- [spatie/dns](https://github.com/spatie/dns) ([2.5.5](https://github.com/spatie/dns/releases/tag/2.5.5), 6 days ago) - Retrieve DNS records
+- [spatie/crawler](https://github.com/spatie/crawler) ([8.0.4](https://github.com/spatie/crawler/releases/tag/8.0.4), 4 days ago) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
+- [spatie/browsershot](https://github.com/spatie/browsershot) ([4.0.0](https://github.com/spatie/browsershot/releases/tag/4.0.0), 4 days ago) - Convert HTML to an image, PDF or string
+- [spatie/docker](https://github.com/spatie/docker) ([1.12.0](https://github.com/spatie/docker/releases/tag/1.12.0), 5 days ago) - Manage docker containers with PHP
+- [spatie/dns](https://github.com/spatie/dns) ([2.5.5](https://github.com/spatie/dns/releases/tag/2.5.5), 1 week ago) - Retrieve DNS records
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.2](https://github.com/dunglas/frankenphp/releases/tag/v1.0.2), 1 week ago) - The modern PHP app server 🧟
 
 #### 👷 Check out what I'm currently working on
