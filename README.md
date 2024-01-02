@@ -7,9 +7,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/browsershot](https://github.com/spatie/browsershot) ([4.0.1](https://github.com/spatie/browsershot/releases/tag/4.0.1), today) - Convert HTML to an image, PDF or string
 - [PHP-FFMpeg/PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) ([v1.2.0](https://github.com/PHP-FFMpeg/PHP-FFMpeg/releases/tag/v1.2.0), today) - An object oriented PHP driver for FFMpeg binary
 - [spatie/crawler](https://github.com/spatie/crawler) ([8.1.0](https://github.com/spatie/crawler/releases/tag/8.1.0), today) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
-- [spatie/browsershot](https://github.com/spatie/browsershot) ([4.0.0](https://github.com/spatie/browsershot/releases/tag/4.0.0), 4 days ago) - Convert HTML to an image, PDF or string
 - [spatie/docker](https://github.com/spatie/docker) ([1.12.0](https://github.com/spatie/docker/releases/tag/1.12.0), 5 days ago) - Manage docker containers with PHP
 - [spatie/dns](https://github.com/spatie/dns) ([2.5.5](https://github.com/spatie/dns/releases/tag/2.5.5), 1 week ago) - Retrieve DNS records
 
