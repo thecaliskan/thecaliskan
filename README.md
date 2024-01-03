@@ -7,19 +7,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/browsershot](https://github.com/spatie/browsershot) ([4.0.1](https://github.com/spatie/browsershot/releases/tag/4.0.1), today) - Convert HTML to an image, PDF or string
-- [PHP-FFMpeg/PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) ([v1.2.0](https://github.com/PHP-FFMpeg/PHP-FFMpeg/releases/tag/v1.2.0), today) - An object oriented PHP driver for FFMpeg binary
-- [spatie/crawler](https://github.com/spatie/crawler) ([8.1.0](https://github.com/spatie/crawler/releases/tag/8.1.0), today) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
-- [spatie/docker](https://github.com/spatie/docker) ([1.12.0](https://github.com/spatie/docker/releases/tag/1.12.0), 5 days ago) - Manage docker containers with PHP
+- [spatie/browsershot](https://github.com/spatie/browsershot) ([4.0.1](https://github.com/spatie/browsershot/releases/tag/4.0.1), 1 day ago) - Convert HTML to an image, PDF or string
+- [PHP-FFMpeg/PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) ([v1.2.0](https://github.com/PHP-FFMpeg/PHP-FFMpeg/releases/tag/v1.2.0), 1 day ago) - An object oriented PHP driver for FFMpeg binary
+- [spatie/crawler](https://github.com/spatie/crawler) ([8.1.0](https://github.com/spatie/crawler/releases/tag/8.1.0), 1 day ago) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
+- [spatie/docker](https://github.com/spatie/docker) ([1.12.0](https://github.com/spatie/docker/releases/tag/1.12.0), 6 days ago) - Manage docker containers with PHP
 - [spatie/dns](https://github.com/spatie/dns) ([2.5.5](https://github.com/spatie/dns/releases/tag/2.5.5), 1 week ago) - Retrieve DNS records
 
 #### 👷 Check out what I'm currently working on
 
-- [PHP-FFMpeg/PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) - An object oriented PHP driver for FFMpeg binary (today)
+- [thecaliskan/laravel-benchmark](https://github.com/thecaliskan/laravel-benchmark) - Laravel Benchmark Example Project for Laravel Octane Servers (today)
+- [PHP-FFMpeg/PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) - An object oriented PHP driver for FFMpeg binary (1 day ago)
 - [spatie/package-skeleton-php](https://github.com/spatie/package-skeleton-php) - A skeleton repository for Spatie&#39;s PHP Packages (1 week ago)
 - [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie&#39;s Laravel Packages (1 week ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (1 week ago)
-- [spatie/crawler](https://github.com/spatie/crawler) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript. (2 weeks ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (2 weeks ago)
 
 #### 🌱 My latest projects
 
