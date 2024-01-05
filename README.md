@@ -24,7 +24,7 @@
 
 #### 🌱 My latest projects
 
-- [thecaliskan/symfony-benchmark](https://github.com/thecaliskan/symfony-benchmark) - 
+- [thecaliskan/symfony-benchmark](https://github.com/thecaliskan/symfony-benchmark) - Symfony Benchmark Example Project for Symfony Runtime Servers 
 - [thecaliskan/laravel-benchmark](https://github.com/thecaliskan/laravel-benchmark) - Laravel Benchmark Example Project for Laravel Octane Servers
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - 
 - [thecaliskan/spring-boot-benchmark](https://github.com/thecaliskan/spring-boot-benchmark) - Spring Boot Benchmark Example Project
