@@ -8,11 +8,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [outl1ne/nova-menu-builder](https://github.com/outl1ne/nova-menu-builder) ([7.1.4](https://github.com/outl1ne/nova-menu-builder/releases/tag/7.1.4), today) - This Laravel Nova package allows you to create and manage menus and menu items.
 - [spatie/browsershot](https://github.com/spatie/browsershot) ([4.0.1](https://github.com/spatie/browsershot/releases/tag/4.0.1), 3 days ago) - Convert HTML to an image, PDF or string
 - [PHP-FFMpeg/PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) ([v1.2.0](https://github.com/PHP-FFMpeg/PHP-FFMpeg/releases/tag/v1.2.0), 3 days ago) - An object oriented PHP driver for FFMpeg binary
 - [spatie/crawler](https://github.com/spatie/crawler) ([8.1.0](https://github.com/spatie/crawler/releases/tag/8.1.0), 3 days ago) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
 - [spatie/docker](https://github.com/spatie/docker) ([1.12.0](https://github.com/spatie/docker/releases/tag/1.12.0), 1 week ago) - Manage docker containers with PHP
-- [spatie/dns](https://github.com/spatie/dns) ([2.5.5](https://github.com/spatie/dns/releases/tag/2.5.5), 1 week ago) - Retrieve DNS records
 
 #### 👷 Check out what I'm currently working on
 
