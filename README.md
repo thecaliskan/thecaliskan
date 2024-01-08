@@ -8,11 +8,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.0.1](https://github.com/spatie/php-structure-discoverer/releases/tag/2.0.1), today) - Automatically discover classes within your PHP application
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.3](https://github.com/dunglas/frankenphp/releases/tag/v1.0.3), 2 days ago) - The modern PHP app server 🧟
 - [outl1ne/nova-menu-builder](https://github.com/outl1ne/nova-menu-builder) ([7.1.4](https://github.com/outl1ne/nova-menu-builder/releases/tag/7.1.4), 3 days ago) - This Laravel Nova package allows you to create and manage menus and menu items.
 - [spatie/browsershot](https://github.com/spatie/browsershot) ([4.0.1](https://github.com/spatie/browsershot/releases/tag/4.0.1), 6 days ago) - Convert HTML to an image, PDF or string
 - [PHP-FFMpeg/PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) ([v1.2.0](https://github.com/PHP-FFMpeg/PHP-FFMpeg/releases/tag/v1.2.0), 6 days ago) - An object oriented PHP driver for FFMpeg binary
-- [spatie/crawler](https://github.com/spatie/crawler) ([8.1.0](https://github.com/spatie/crawler/releases/tag/8.1.0), 6 days ago) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
 
 #### 👷 Check out what I'm currently working on
 
