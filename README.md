@@ -32,11 +32,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [onursimsek](https://github.com/onursimsek)
 - [RazielRodrigues](https://github.com/RazielRodrigues)
 - [ertanusta](https://github.com/ertanusta)
 - [BozkurtBerkay](https://github.com/BozkurtBerkay)
 - [ilyasozkurt](https://github.com/ilyasozkurt)
-- [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/thecaliskan) (thank you!)
 
