@@ -11,15 +11,15 @@
 - [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.0.1](https://github.com/spatie/php-structure-discoverer/releases/tag/2.0.1), 1 week ago) - Automatically discover classes within your PHP application
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.3](https://github.com/dunglas/frankenphp/releases/tag/v1.0.3), 1 week ago) - The modern PHP app server 🧟
 - [outl1ne/nova-menu-builder](https://github.com/outl1ne/nova-menu-builder) ([7.1.4](https://github.com/outl1ne/nova-menu-builder/releases/tag/7.1.4), 1 week ago) - This Laravel Nova package allows you to create and manage menus and menu items.
-- [spatie/browsershot](https://github.com/spatie/browsershot) ([4.0.1](https://github.com/spatie/browsershot/releases/tag/4.0.1), 1 week ago) - Convert HTML to an image, PDF or string
-- [PHP-FFMpeg/PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) ([v1.2.0](https://github.com/PHP-FFMpeg/PHP-FFMpeg/releases/tag/v1.2.0), 1 week ago) - An object oriented PHP driver for FFMpeg binary
+- [spatie/browsershot](https://github.com/spatie/browsershot) ([4.0.1](https://github.com/spatie/browsershot/releases/tag/4.0.1), 2 weeks ago) - Convert HTML to an image, PDF or string
+- [PHP-FFMpeg/PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) ([v1.2.0](https://github.com/PHP-FFMpeg/PHP-FFMpeg/releases/tag/v1.2.0), 2 weeks ago) - An object oriented PHP driver for FFMpeg binary
 
 #### 👷 Check out what I'm currently working on
 
 - [thecaliskan/laravel-benchmark](https://github.com/thecaliskan/laravel-benchmark) - Laravel Benchmark Example Project for Laravel Octane Servers (1 week ago)
 - [thecaliskan/symfony-benchmark](https://github.com/thecaliskan/symfony-benchmark) - Symfony Benchmark Example Project for Symfony Runtime Servers  (1 week ago)
 - [gitonomy/gitlib](https://github.com/gitonomy/gitlib) - Library for accessing Git repositories with PHP (1 week ago)
-- [PHP-FFMpeg/PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) - An object oriented PHP driver for FFMpeg binary (1 week ago)
+- [PHP-FFMpeg/PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) - An object oriented PHP driver for FFMpeg binary (2 weeks ago)
 - [spatie/package-skeleton-php](https://github.com/spatie/package-skeleton-php) - A skeleton repository for Spatie&#39;s PHP Packages (3 weeks ago)
 
 #### 🌱 My latest projects
