@@ -8,19 +8,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/holidays](https://github.com/spatie/holidays) ([1.1.0](https://github.com/spatie/holidays/releases/tag/1.1.0), 2 days ago) - Calculate which days you don&#39;t have to work!
 - [spatie/dns](https://github.com/spatie/dns) ([2.5.6](https://github.com/spatie/dns/releases/tag/2.5.6), 2 days ago) - Retrieve DNS records
 - [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.0.1](https://github.com/spatie/php-structure-discoverer/releases/tag/2.0.1), 1 week ago) - Automatically discover classes within your PHP application
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.3](https://github.com/dunglas/frankenphp/releases/tag/v1.0.3), 2 weeks ago) - The modern PHP app server 🧟
 - [outl1ne/nova-menu-builder](https://github.com/outl1ne/nova-menu-builder) ([7.1.4](https://github.com/outl1ne/nova-menu-builder/releases/tag/7.1.4), 2 weeks ago) - This Laravel Nova package allows you to create and manage menus and menu items.
-- [spatie/browsershot](https://github.com/spatie/browsershot) ([4.0.1](https://github.com/spatie/browsershot/releases/tag/4.0.1), 2 weeks ago) - Convert HTML to an image, PDF or string
 
 #### 👷 Check out what I'm currently working on
 
+- [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (1 day ago)
 - [thecaliskan/laravel-benchmark](https://github.com/thecaliskan/laravel-benchmark) - Laravel Benchmark Example Project for Laravel Octane Servers (1 week ago)
 - [thecaliskan/symfony-benchmark](https://github.com/thecaliskan/symfony-benchmark) - Symfony Benchmark Example Project for Symfony Runtime Servers  (1 week ago)
 - [gitonomy/gitlib](https://github.com/gitonomy/gitlib) - Library for accessing Git repositories with PHP (2 weeks ago)
 - [PHP-FFMpeg/PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) - An object oriented PHP driver for FFMpeg binary (2 weeks ago)
-- [spatie/package-skeleton-php](https://github.com/spatie/package-skeleton-php) - A skeleton repository for Spatie&#39;s PHP Packages (4 weeks ago)
 
 #### 🌱 My latest projects
 
