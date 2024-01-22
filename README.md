@@ -8,11 +8,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/mjml-php](https://github.com/spatie/mjml-php) ([1.1.0](https://github.com/spatie/mjml-php/releases/tag/1.1.0), today) - Convert MJML to HTML using PHP
 - [spatie/holidays](https://github.com/spatie/holidays) ([1.1.0](https://github.com/spatie/holidays/releases/tag/1.1.0), 3 days ago) - Calculate which days you don&#39;t have to work!
 - [spatie/dns](https://github.com/spatie/dns) ([2.5.6](https://github.com/spatie/dns/releases/tag/2.5.6), 3 days ago) - Retrieve DNS records
 - [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.0.1](https://github.com/spatie/php-structure-discoverer/releases/tag/2.0.1), 2 weeks ago) - Automatically discover classes within your PHP application
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.3](https://github.com/dunglas/frankenphp/releases/tag/v1.0.3), 2 weeks ago) - The modern PHP app server 🧟
-- [outl1ne/nova-menu-builder](https://github.com/outl1ne/nova-menu-builder) ([7.1.4](https://github.com/outl1ne/nova-menu-builder/releases/tag/7.1.4), 2 weeks ago) - This Laravel Nova package allows you to create and manage menus and menu items.
 
 #### 👷 Check out what I'm currently working on
 
