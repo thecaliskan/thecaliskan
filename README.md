@@ -16,19 +16,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) -  (today)
 - [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (2 days ago)
 - [thecaliskan/laravel-benchmark](https://github.com/thecaliskan/laravel-benchmark) - Laravel Benchmark Example Project for Laravel Octane Servers (2 weeks ago)
 - [thecaliskan/symfony-benchmark](https://github.com/thecaliskan/symfony-benchmark) - Symfony Benchmark Example Project for Symfony Runtime Servers  (2 weeks ago)
 - [gitonomy/gitlib](https://github.com/gitonomy/gitlib) - Library for accessing Git repositories with PHP (2 weeks ago)
-- [PHP-FFMpeg/PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) - An object oriented PHP driver for FFMpeg binary (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) - 
 - [thecaliskan/symfony-benchmark](https://github.com/thecaliskan/symfony-benchmark) - Symfony Benchmark Example Project for Symfony Runtime Servers 
 - [thecaliskan/laravel-benchmark](https://github.com/thecaliskan/laravel-benchmark) - Laravel Benchmark Example Project for Laravel Octane Servers
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - 
 - [thecaliskan/spring-boot-benchmark](https://github.com/thecaliskan/spring-boot-benchmark) - Spring Boot Benchmark Example Project
-- [thecaliskan/traefik-nginx-benchmark](https://github.com/thecaliskan/traefik-nginx-benchmark) - Traefik vs Nginx Benchmark Example Project
 
 #### 👯 Check out some of my recent followers
 
