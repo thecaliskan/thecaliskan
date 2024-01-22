@@ -18,8 +18,8 @@
 
 - [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) -  (today)
 - [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (2 days ago)
-- [thecaliskan/laravel-benchmark](https://github.com/thecaliskan/laravel-benchmark) - Laravel Benchmark Example Project for Laravel Octane Servers (2 weeks ago)
 - [thecaliskan/symfony-benchmark](https://github.com/thecaliskan/symfony-benchmark) - Symfony Benchmark Example Project for Symfony Runtime Servers  (2 weeks ago)
+- [thecaliskan/laravel-benchmark](https://github.com/thecaliskan/laravel-benchmark) - Laravel Benchmark Example Project for Laravel Octane Servers (2 weeks ago)
 - [gitonomy/gitlib](https://github.com/gitonomy/gitlib) - Library for accessing Git repositories with PHP (2 weeks ago)
 
 #### 🌱 My latest projects
