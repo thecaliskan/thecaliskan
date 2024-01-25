@@ -8,8 +8,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/holidays](https://github.com/spatie/holidays) ([1.3.0](https://github.com/spatie/holidays/releases/tag/1.3.0), today) - Calculate which days you don&#39;t have to work!
 - [spatie/ray](https://github.com/spatie/ray) ([1.41.1](https://github.com/spatie/ray/releases/tag/1.41.1), today) - Debug with Ray to fix problems faster
-- [spatie/holidays](https://github.com/spatie/holidays) ([1.2.0](https://github.com/spatie/holidays/releases/tag/1.2.0), 2 days ago) - Calculate which days you don&#39;t have to work!
 - [spatie/mjml-php](https://github.com/spatie/mjml-php) ([1.1.0](https://github.com/spatie/mjml-php/releases/tag/1.1.0), 3 days ago) - Convert MJML to HTML using PHP
 - [spatie/dns](https://github.com/spatie/dns) ([2.5.6](https://github.com/spatie/dns/releases/tag/2.5.6), 6 days ago) - Retrieve DNS records
 - [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.0.1](https://github.com/spatie/php-structure-discoverer/releases/tag/2.0.1), 2 weeks ago) - Automatically discover classes within your PHP application
