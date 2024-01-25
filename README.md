@@ -8,7 +8,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/ray](https://github.com/spatie/ray) ([1.41.0](https://github.com/spatie/ray/releases/tag/1.41.0), 1 day ago) - Debug with Ray to fix problems faster
+- [spatie/ray](https://github.com/spatie/ray) ([1.41.1](https://github.com/spatie/ray/releases/tag/1.41.1), today) - Debug with Ray to fix problems faster
 - [spatie/holidays](https://github.com/spatie/holidays) ([1.2.0](https://github.com/spatie/holidays/releases/tag/1.2.0), 2 days ago) - Calculate which days you don&#39;t have to work!
 - [spatie/mjml-php](https://github.com/spatie/mjml-php) ([1.1.0](https://github.com/spatie/mjml-php/releases/tag/1.1.0), 3 days ago) - Convert MJML to HTML using PHP
 - [spatie/dns](https://github.com/spatie/dns) ([2.5.6](https://github.com/spatie/dns/releases/tag/2.5.6), 6 days ago) - Retrieve DNS records
