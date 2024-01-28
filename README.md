@@ -16,7 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) -  (2 days ago)
+- [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) -  (today)
 - [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (5 days ago)
 - [thecaliskan/laravel-benchmark](https://github.com/thecaliskan/laravel-benchmark) - Laravel Benchmark Example Project for Laravel Octane Servers (2 weeks ago)
 - [thecaliskan/symfony-benchmark](https://github.com/thecaliskan/symfony-benchmark) - Symfony Benchmark Example Project for Symfony Runtime Servers  (2 weeks ago)
