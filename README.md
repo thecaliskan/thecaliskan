@@ -18,18 +18,18 @@
 #### 👷 Check out what I'm currently working on
 
 - [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) -  (today)
+- [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) - Laravel Stock, Forex, Crypto Data API (today)
 - [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (1 week ago)
 - [thecaliskan/laravel-benchmark](https://github.com/thecaliskan/laravel-benchmark) - Laravel Benchmark Example Project for Laravel Octane Servers (3 weeks ago)
 - [thecaliskan/symfony-benchmark](https://github.com/thecaliskan/symfony-benchmark) - Symfony Benchmark Example Project for Symfony Runtime Servers  (3 weeks ago)
-- [gitonomy/gitlib](https://github.com/gitonomy/gitlib) - Library for accessing Git repositories with PHP (4 weeks ago)
 
 #### 🌱 My latest projects
 
+- [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) - Laravel Stock, Forex, Crypto Data API
 - [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) - 
 - [thecaliskan/symfony-benchmark](https://github.com/thecaliskan/symfony-benchmark) - Symfony Benchmark Example Project for Symfony Runtime Servers 
 - [thecaliskan/laravel-benchmark](https://github.com/thecaliskan/laravel-benchmark) - Laravel Benchmark Example Project for Laravel Octane Servers
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - 
-- [thecaliskan/spring-boot-benchmark](https://github.com/thecaliskan/spring-boot-benchmark) - Spring Boot Benchmark Example Project
 
 #### 👯 Check out some of my recent followers
 
