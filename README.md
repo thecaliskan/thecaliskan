@@ -17,11 +17,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) -  (today)
 - [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) - Laravel Stock, Forex, Crypto Data API (today)
+- [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) -  (today)
+- [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie&#39;s Laravel Packages (1 day ago)
 - [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (1 week ago)
 - [thecaliskan/laravel-benchmark](https://github.com/thecaliskan/laravel-benchmark) - Laravel Benchmark Example Project for Laravel Octane Servers (3 weeks ago)
-- [thecaliskan/symfony-benchmark](https://github.com/thecaliskan/symfony-benchmark) - Symfony Benchmark Example Project for Symfony Runtime Servers  (3 weeks ago)
 
 #### 🌱 My latest projects
 
