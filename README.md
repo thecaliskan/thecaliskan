@@ -9,8 +9,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/holidays](https://github.com/spatie/holidays) ([1.6.0](https://github.com/spatie/holidays/releases/tag/1.6.0), today) - Calculate which days you don&#39;t have to work!
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.0](https://github.com/dunglas/frankenphp/releases/tag/v1.1.0), 3 days ago) - The modern PHP app server 🧟
-- [spatie/holidays](https://github.com/spatie/holidays) ([1.5.1](https://github.com/spatie/holidays/releases/tag/1.5.1), 6 days ago) - Calculate which days you don&#39;t have to work!
 - [spatie/ray](https://github.com/spatie/ray) ([1.41.1](https://github.com/spatie/ray/releases/tag/1.41.1), 1 week ago) - Debug with Ray to fix problems faster
 - [spatie/mjml-php](https://github.com/spatie/mjml-php) ([1.1.0](https://github.com/spatie/mjml-php/releases/tag/1.1.0), 2 weeks ago) - Convert MJML to HTML using PHP
 - [spatie/dns](https://github.com/spatie/dns) ([2.5.6](https://github.com/spatie/dns/releases/tag/2.5.6), 2 weeks ago) - Retrieve DNS records
