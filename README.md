@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Jeroen-G/Explorer](https://github.com/Jeroen-G/Explorer) ([3.12.0](https://github.com/Jeroen-G/Explorer/releases/tag/3.12.0), today) - 🗺️ Next-gen Elasticsearch driver for Laravel Scout.
 - [spatie/holidays](https://github.com/spatie/holidays) ([1.7.0](https://github.com/spatie/holidays/releases/tag/1.7.0), 6 days ago) - Calculate which days you don&#39;t have to work!
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.0](https://github.com/dunglas/frankenphp/releases/tag/v1.1.0), 1 week ago) - The modern PHP app server 🧟
 - [spatie/ray](https://github.com/spatie/ray) ([1.41.1](https://github.com/spatie/ray/releases/tag/1.41.1), 2 weeks ago) - Debug with Ray to fix problems faster
 - [spatie/mjml-php](https://github.com/spatie/mjml-php) ([1.1.0](https://github.com/spatie/mjml-php/releases/tag/1.1.0), 3 weeks ago) - Convert MJML to HTML using PHP
-- [spatie/dns](https://github.com/spatie/dns) ([2.5.6](https://github.com/spatie/dns/releases/tag/2.5.6), 3 weeks ago) - Retrieve DNS records
 
 #### 👷 Check out what I'm currently working on
 
