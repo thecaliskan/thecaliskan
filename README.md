@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.1.0](https://github.com/spatie/php-structure-discoverer/releases/tag/2.1.0), today) - Automatically discover classes within your PHP application
 - [spatie/crawler](https://github.com/spatie/crawler) ([8.2.0](https://github.com/spatie/crawler/releases/tag/8.2.0), 1 day ago) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
 - [Jeroen-G/Explorer](https://github.com/Jeroen-G/Explorer) ([3.12.0](https://github.com/Jeroen-G/Explorer/releases/tag/3.12.0), 2 days ago) - 🗺️ Next-gen Elasticsearch driver for Laravel Scout.
 - [spatie/holidays](https://github.com/spatie/holidays) ([1.7.0](https://github.com/spatie/holidays/releases/tag/1.7.0), 1 week ago) - Calculate which days you don&#39;t have to work!
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.0](https://github.com/dunglas/frankenphp/releases/tag/v1.1.0), 1 week ago) - The modern PHP app server 🧟
-- [spatie/ray](https://github.com/spatie/ray) ([1.41.1](https://github.com/spatie/ray/releases/tag/1.41.1), 3 weeks ago) - Debug with Ray to fix problems faster
 
 #### 👷 Check out what I'm currently working on
 
