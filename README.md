@@ -9,16 +9,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.1.0](https://github.com/spatie/php-structure-discoverer/releases/tag/2.1.0), today) - Automatically discover classes within your PHP application
-- [spatie/crawler](https://github.com/spatie/crawler) ([8.2.0](https://github.com/spatie/crawler/releases/tag/8.2.0), 1 day ago) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
-- [Jeroen-G/Explorer](https://github.com/Jeroen-G/Explorer) ([3.12.0](https://github.com/Jeroen-G/Explorer/releases/tag/3.12.0), 2 days ago) - 🗺️ Next-gen Elasticsearch driver for Laravel Scout.
+- [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.1.0](https://github.com/spatie/php-structure-discoverer/releases/tag/2.1.0), 1 day ago) - Automatically discover classes within your PHP application
+- [spatie/crawler](https://github.com/spatie/crawler) ([8.2.0](https://github.com/spatie/crawler/releases/tag/8.2.0), 2 days ago) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
+- [Jeroen-G/Explorer](https://github.com/Jeroen-G/Explorer) ([3.12.0](https://github.com/Jeroen-G/Explorer/releases/tag/3.12.0), 3 days ago) - 🗺️ Next-gen Elasticsearch driver for Laravel Scout.
 - [spatie/holidays](https://github.com/spatie/holidays) ([1.7.0](https://github.com/spatie/holidays/releases/tag/1.7.0), 1 week ago) - Calculate which days you don&#39;t have to work!
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.0](https://github.com/dunglas/frankenphp/releases/tag/v1.1.0), 1 week ago) - The modern PHP app server 🧟
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) - Laravel Stock, Forex, Crypto Data API (1 week ago)
-- [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) -  (1 week ago)
+- [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) - Laravel Stock, Forex, Crypto Data API (2 weeks ago)
+- [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) -  (2 weeks ago)
 - [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie&#39;s Laravel Packages (2 weeks ago)
 - [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (3 weeks ago)
 - [thecaliskan/laravel-benchmark](https://github.com/thecaliskan/laravel-benchmark) - Laravel Benchmark Example Project for Laravel Octane Servers (1 month ago)
