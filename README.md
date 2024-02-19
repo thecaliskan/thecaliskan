@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/commonmark-shiki-highlighter](https://github.com/spatie/commonmark-shiki-highlighter) ([2.2.0](https://github.com/spatie/commonmark-shiki-highlighter/releases/tag/2.2.0), 2 days ago) - Highlight code blocks with league/commonmark and Shiki
+- [spatie/commonmark-shiki-highlighter](https://github.com/spatie/commonmark-shiki-highlighter) ([2.3.0](https://github.com/spatie/commonmark-shiki-highlighter/releases/tag/2.3.0), today) - Highlight code blocks with league/commonmark and Shiki
 - [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.1.0](https://github.com/spatie/php-structure-discoverer/releases/tag/2.1.0), 3 days ago) - Automatically discover classes within your PHP application
 - [spatie/crawler](https://github.com/spatie/crawler) ([8.2.0](https://github.com/spatie/crawler/releases/tag/8.2.0), 4 days ago) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
 - [Jeroen-G/Explorer](https://github.com/Jeroen-G/Explorer) ([3.12.0](https://github.com/Jeroen-G/Explorer/releases/tag/3.12.0), 5 days ago) - 🗺️ Next-gen Elasticsearch driver for Laravel Scout.
