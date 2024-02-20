@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/mailcoach-mailer](https://github.com/spatie/mailcoach-mailer) ([1.1.0](https://github.com/spatie/mailcoach-mailer/releases/tag/1.1.0), today) - The Mailcoach transport for Symfony Mailer
 - [spatie/commonmark-shiki-highlighter](https://github.com/spatie/commonmark-shiki-highlighter) ([2.3.0](https://github.com/spatie/commonmark-shiki-highlighter/releases/tag/2.3.0), 1 day ago) - Highlight code blocks with league/commonmark and Shiki
 - [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.1.0](https://github.com/spatie/php-structure-discoverer/releases/tag/2.1.0), 4 days ago) - Automatically discover classes within your PHP application
 - [spatie/crawler](https://github.com/spatie/crawler) ([8.2.0](https://github.com/spatie/crawler/releases/tag/8.2.0), 5 days ago) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
 - [Jeroen-G/Explorer](https://github.com/Jeroen-G/Explorer) ([3.12.0](https://github.com/Jeroen-G/Explorer/releases/tag/3.12.0), 6 days ago) - 🗺️ Next-gen Elasticsearch driver for Laravel Scout.
-- [spatie/holidays](https://github.com/spatie/holidays) ([1.7.0](https://github.com/spatie/holidays/releases/tag/1.7.0), 1 week ago) - Calculate which days you don&#39;t have to work!
 
 #### 👷 Check out what I'm currently working on
 
