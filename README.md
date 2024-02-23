@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.4.1](https://github.com/composer/ca-bundle/releases/tag/1.4.1), today) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
 - [spatie/sheets](https://github.com/spatie/sheets) ([1.11.1](https://github.com/spatie/sheets/releases/tag/1.11.1), 1 day ago) - Store &amp; retrieve your static content in plain text files
 - [spatie/ssh](https://github.com/spatie/ssh) ([1.10.0](https://github.com/spatie/ssh/releases/tag/1.10.0), 2 days ago) - A lightweight package to execute commands over an SSH connection
 - [spatie/mailcoach-mailer](https://github.com/spatie/mailcoach-mailer) ([1.1.0](https://github.com/spatie/mailcoach-mailer/releases/tag/1.1.0), 3 days ago) - The Mailcoach transport for Symfony Mailer
 - [spatie/commonmark-shiki-highlighter](https://github.com/spatie/commonmark-shiki-highlighter) ([2.3.0](https://github.com/spatie/commonmark-shiki-highlighter/releases/tag/2.3.0), 4 days ago) - Highlight code blocks with league/commonmark and Shiki
-- [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.1.0](https://github.com/spatie/php-structure-discoverer/releases/tag/2.1.0), 1 week ago) - Automatically discover classes within your PHP application
 
 #### 👷 Check out what I'm currently working on
 
