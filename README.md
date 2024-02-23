@@ -9,17 +9,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/sheets](https://github.com/spatie/sheets) ([1.11.1](https://github.com/spatie/sheets/releases/tag/1.11.1), today) - Store &amp; retrieve your static content in plain text files
-- [spatie/ssh](https://github.com/spatie/ssh) ([1.10.0](https://github.com/spatie/ssh/releases/tag/1.10.0), 1 day ago) - A lightweight package to execute commands over an SSH connection
-- [spatie/mailcoach-mailer](https://github.com/spatie/mailcoach-mailer) ([1.1.0](https://github.com/spatie/mailcoach-mailer/releases/tag/1.1.0), 2 days ago) - The Mailcoach transport for Symfony Mailer
-- [spatie/commonmark-shiki-highlighter](https://github.com/spatie/commonmark-shiki-highlighter) ([2.3.0](https://github.com/spatie/commonmark-shiki-highlighter/releases/tag/2.3.0), 3 days ago) - Highlight code blocks with league/commonmark and Shiki
-- [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.1.0](https://github.com/spatie/php-structure-discoverer/releases/tag/2.1.0), 6 days ago) - Automatically discover classes within your PHP application
+- [spatie/sheets](https://github.com/spatie/sheets) ([1.11.1](https://github.com/spatie/sheets/releases/tag/1.11.1), 1 day ago) - Store &amp; retrieve your static content in plain text files
+- [spatie/ssh](https://github.com/spatie/ssh) ([1.10.0](https://github.com/spatie/ssh/releases/tag/1.10.0), 2 days ago) - A lightweight package to execute commands over an SSH connection
+- [spatie/mailcoach-mailer](https://github.com/spatie/mailcoach-mailer) ([1.1.0](https://github.com/spatie/mailcoach-mailer/releases/tag/1.1.0), 3 days ago) - The Mailcoach transport for Symfony Mailer
+- [spatie/commonmark-shiki-highlighter](https://github.com/spatie/commonmark-shiki-highlighter) ([2.3.0](https://github.com/spatie/commonmark-shiki-highlighter/releases/tag/2.3.0), 4 days ago) - Highlight code blocks with league/commonmark and Shiki
+- [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.1.0](https://github.com/spatie/php-structure-discoverer/releases/tag/2.1.0), 1 week ago) - Automatically discover classes within your PHP application
 
 #### 👷 Check out what I'm currently working on
 
 - [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) - Laravel Stock, Forex, Crypto Data API (2 weeks ago)
 - [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) -  (2 weeks ago)
-- [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie&#39;s Laravel Packages (2 weeks ago)
+- [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie&#39;s Laravel Packages (3 weeks ago)
 - [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (1 month ago)
 - [thecaliskan/laravel-benchmark](https://github.com/thecaliskan/laravel-benchmark) - Laravel Benchmark Example Project for Laravel Octane Servers (1 month ago)
 
