@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) ([1.0.0](https://github.com/thecaliskan/laravel-stock/releases/tag/1.0.0), 1 day ago) - Laravel Stock, Forex, Crypto Data API
-- [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.4.1](https://github.com/composer/ca-bundle/releases/tag/1.4.1), 3 days ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
-- [spatie/sheets](https://github.com/spatie/sheets) ([1.11.1](https://github.com/spatie/sheets/releases/tag/1.11.1), 4 days ago) - Store &amp; retrieve your static content in plain text files
-- [spatie/ssh](https://github.com/spatie/ssh) ([1.10.0](https://github.com/spatie/ssh/releases/tag/1.10.0), 5 days ago) - A lightweight package to execute commands over an SSH connection
-- [spatie/mailcoach-mailer](https://github.com/spatie/mailcoach-mailer) ([1.1.0](https://github.com/spatie/mailcoach-mailer/releases/tag/1.1.0), 6 days ago) - The Mailcoach transport for Symfony Mailer
+- [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) ([1.0.0](https://github.com/thecaliskan/laravel-stock/releases/tag/1.0.0), 2 days ago) - Laravel Stock, Forex, Crypto Data API
+- [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.4.1](https://github.com/composer/ca-bundle/releases/tag/1.4.1), 4 days ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
+- [spatie/sheets](https://github.com/spatie/sheets) ([1.11.1](https://github.com/spatie/sheets/releases/tag/1.11.1), 5 days ago) - Store &amp; retrieve your static content in plain text files
+- [spatie/ssh](https://github.com/spatie/ssh) ([1.10.0](https://github.com/spatie/ssh/releases/tag/1.10.0), 6 days ago) - A lightweight package to execute commands over an SSH connection
+- [spatie/mailcoach-mailer](https://github.com/spatie/mailcoach-mailer) ([1.1.0](https://github.com/spatie/mailcoach-mailer/releases/tag/1.1.0), 1 week ago) - The Mailcoach transport for Symfony Mailer
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) - Laravel Stock, Forex, Crypto Data API (1 day ago)
+- [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) - Laravel Stock, Forex, Crypto Data API (2 days ago)
 - [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) -  (3 weeks ago)
 - [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie&#39;s Laravel Packages (3 weeks ago)
 - [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (1 month ago)
