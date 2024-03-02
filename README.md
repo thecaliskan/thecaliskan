@@ -9,9 +9,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/sheets](https://github.com/spatie/sheets) ([1.12.0](https://github.com/spatie/sheets/releases/tag/1.12.0), today) - Store &amp; retrieve your static content in plain text files
 - [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) ([1.0.0](https://github.com/thecaliskan/laravel-stock/releases/tag/1.0.0), 6 days ago) - Laravel Stock, Forex, Crypto Data API
 - [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.4.1](https://github.com/composer/ca-bundle/releases/tag/1.4.1), 1 week ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
-- [spatie/sheets](https://github.com/spatie/sheets) ([1.11.1](https://github.com/spatie/sheets/releases/tag/1.11.1), 1 week ago) - Store &amp; retrieve your static content in plain text files
 - [spatie/ssh](https://github.com/spatie/ssh) ([1.10.0](https://github.com/spatie/ssh/releases/tag/1.10.0), 1 week ago) - A lightweight package to execute commands over an SSH connection
 - [spatie/mailcoach-mailer](https://github.com/spatie/mailcoach-mailer) ([1.1.0](https://github.com/spatie/mailcoach-mailer/releases/tag/1.1.0), 1 week ago) - The Mailcoach transport for Symfony Mailer
 
