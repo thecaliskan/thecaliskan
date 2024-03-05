@@ -9,8 +9,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/file-system-watcher](https://github.com/spatie/file-system-watcher) ([1.2.0](https://github.com/spatie/file-system-watcher/releases/tag/1.2.0), today) - Watch changes in the file system using PHP
-- [spatie/sheets](https://github.com/spatie/sheets) ([1.12.0](https://github.com/spatie/sheets/releases/tag/1.12.0), 2 days ago) - Store &amp; retrieve your static content in plain text files
+- [spatie/file-system-watcher](https://github.com/spatie/file-system-watcher) ([1.2.0](https://github.com/spatie/file-system-watcher/releases/tag/1.2.0), 1 day ago) - Watch changes in the file system using PHP
+- [spatie/sheets](https://github.com/spatie/sheets) ([1.12.0](https://github.com/spatie/sheets/releases/tag/1.12.0), 3 days ago) - Store &amp; retrieve your static content in plain text files
 - [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) ([1.0.0](https://github.com/thecaliskan/laravel-stock/releases/tag/1.0.0), 1 week ago) - Laravel Stock, Forex, Crypto Data API
 - [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.4.1](https://github.com/composer/ca-bundle/releases/tag/1.4.1), 1 week ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
 - [spatie/ssh](https://github.com/spatie/ssh) ([1.10.0](https://github.com/spatie/ssh/releases/tag/1.10.0), 1 week ago) - A lightweight package to execute commands over an SSH connection
