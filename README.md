@@ -9,10 +9,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/file-system-watcher](https://github.com/spatie/file-system-watcher) ([1.2.0](https://github.com/spatie/file-system-watcher/releases/tag/1.2.0), 3 days ago) - Watch changes in the file system using PHP
-- [spatie/sheets](https://github.com/spatie/sheets) ([1.12.0](https://github.com/spatie/sheets/releases/tag/1.12.0), 5 days ago) - Store &amp; retrieve your static content in plain text files
+- [spatie/file-system-watcher](https://github.com/spatie/file-system-watcher) ([1.2.0](https://github.com/spatie/file-system-watcher/releases/tag/1.2.0), 4 days ago) - Watch changes in the file system using PHP
+- [spatie/sheets](https://github.com/spatie/sheets) ([1.12.0](https://github.com/spatie/sheets/releases/tag/1.12.0), 6 days ago) - Store &amp; retrieve your static content in plain text files
 - [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) ([1.0.0](https://github.com/thecaliskan/laravel-stock/releases/tag/1.0.0), 1 week ago) - Laravel Stock, Forex, Crypto Data API
-- [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.4.1](https://github.com/composer/ca-bundle/releases/tag/1.4.1), 1 week ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
+- [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.4.1](https://github.com/composer/ca-bundle/releases/tag/1.4.1), 2 weeks ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
 - [spatie/ssh](https://github.com/spatie/ssh) ([1.10.0](https://github.com/spatie/ssh/releases/tag/1.10.0), 2 weeks ago) - A lightweight package to execute commands over an SSH connection
 
 #### 👷 Check out what I'm currently working on
@@ -21,7 +21,7 @@
 - [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) -  (1 month ago)
 - [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie&#39;s Laravel Packages (1 month ago)
 - [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (1 month ago)
-- [thecaliskan/laravel-benchmark](https://github.com/thecaliskan/laravel-benchmark) - Laravel Benchmark Example Project for Laravel Octane Servers (1 month ago)
+- [thecaliskan/laravel-benchmark](https://github.com/thecaliskan/laravel-benchmark) - Laravel Benchmark Example Project for Laravel Octane Servers (2 months ago)
 
 #### 🌱 My latest projects
 
