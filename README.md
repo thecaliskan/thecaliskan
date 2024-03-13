@@ -9,8 +9,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/lighthouse-php](https://github.com/spatie/lighthouse-php) ([1.2.1](https://github.com/spatie/lighthouse-php/releases/tag/1.2.1), 1 day ago) - Run Google Lighthouse using PHP
-- [spatie/holidays](https://github.com/spatie/holidays) ([1.8.0](https://github.com/spatie/holidays/releases/tag/1.8.0), 4 days ago) - Calculate which days you don&#39;t have to work!
+- [spatie/lighthouse-php](https://github.com/spatie/lighthouse-php) ([1.2.1](https://github.com/spatie/lighthouse-php/releases/tag/1.2.1), 2 days ago) - Run Google Lighthouse using PHP
+- [spatie/holidays](https://github.com/spatie/holidays) ([1.8.0](https://github.com/spatie/holidays/releases/tag/1.8.0), 5 days ago) - Calculate which days you don&#39;t have to work!
 - [spatie/file-system-watcher](https://github.com/spatie/file-system-watcher) ([1.2.0](https://github.com/spatie/file-system-watcher/releases/tag/1.2.0), 1 week ago) - Watch changes in the file system using PHP
 - [spatie/sheets](https://github.com/spatie/sheets) ([1.12.0](https://github.com/spatie/sheets/releases/tag/1.12.0), 1 week ago) - Store &amp; retrieve your static content in plain text files
 - [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) ([1.0.0](https://github.com/thecaliskan/laravel-stock/releases/tag/1.0.0), 2 weeks ago) - Laravel Stock, Forex, Crypto Data API
