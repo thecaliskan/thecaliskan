@@ -9,9 +9,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.0](https://github.com/composer/ca-bundle/releases/tag/1.5.0), today) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
-- [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.1.1](https://github.com/spatie/php-structure-discoverer/releases/tag/2.1.1), 2 days ago) - Automatically discover classes within your PHP application
-- [spatie/lighthouse-php](https://github.com/spatie/lighthouse-php) ([1.2.1](https://github.com/spatie/lighthouse-php/releases/tag/1.2.1), 4 days ago) - Run Google Lighthouse using PHP
+- [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.0](https://github.com/composer/ca-bundle/releases/tag/1.5.0), 1 day ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
+- [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.1.1](https://github.com/spatie/php-structure-discoverer/releases/tag/2.1.1), 3 days ago) - Automatically discover classes within your PHP application
+- [spatie/lighthouse-php](https://github.com/spatie/lighthouse-php) ([1.2.1](https://github.com/spatie/lighthouse-php/releases/tag/1.2.1), 5 days ago) - Run Google Lighthouse using PHP
 - [spatie/holidays](https://github.com/spatie/holidays) ([1.8.0](https://github.com/spatie/holidays/releases/tag/1.8.0), 1 week ago) - Calculate which days you don&#39;t have to work!
 - [spatie/file-system-watcher](https://github.com/spatie/file-system-watcher) ([1.2.0](https://github.com/spatie/file-system-watcher/releases/tag/1.2.0), 1 week ago) - Watch changes in the file system using PHP
 
