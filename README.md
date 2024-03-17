@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Jeroen-G/Explorer](https://github.com/Jeroen-G/Explorer) ([3.13.0](https://github.com/Jeroen-G/Explorer/releases/tag/3.13.0), today) - 🗺️ Next-gen Elasticsearch driver for Laravel Scout.
-- [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.0](https://github.com/composer/ca-bundle/releases/tag/1.5.0), 1 day ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
-- [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.1.1](https://github.com/spatie/php-structure-discoverer/releases/tag/2.1.1), 3 days ago) - Automatically discover classes within your PHP application
-- [spatie/lighthouse-php](https://github.com/spatie/lighthouse-php) ([1.2.1](https://github.com/spatie/lighthouse-php/releases/tag/1.2.1), 5 days ago) - Run Google Lighthouse using PHP
+- [Jeroen-G/Explorer](https://github.com/Jeroen-G/Explorer) ([3.13.0](https://github.com/Jeroen-G/Explorer/releases/tag/3.13.0), 1 day ago) - 🗺️ Next-gen Elasticsearch driver for Laravel Scout.
+- [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.0](https://github.com/composer/ca-bundle/releases/tag/1.5.0), 2 days ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
+- [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.1.1](https://github.com/spatie/php-structure-discoverer/releases/tag/2.1.1), 4 days ago) - Automatically discover classes within your PHP application
+- [spatie/lighthouse-php](https://github.com/spatie/lighthouse-php) ([1.2.1](https://github.com/spatie/lighthouse-php/releases/tag/1.2.1), 6 days ago) - Run Google Lighthouse using PHP
 - [spatie/holidays](https://github.com/spatie/holidays) ([1.8.0](https://github.com/spatie/holidays/releases/tag/1.8.0), 1 week ago) - Calculate which days you don&#39;t have to work!
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) - Laravel Stock, Forex, Crypto Data API (2 weeks ago)
+- [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) - Laravel Stock, Forex, Crypto Data API (3 weeks ago)
 - [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) -  (1 month ago)
 - [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie&#39;s Laravel Packages (1 month ago)
 - [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (1 month ago)
