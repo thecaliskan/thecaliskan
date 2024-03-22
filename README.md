@@ -9,9 +9,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.1](https://github.com/dunglas/frankenphp/releases/tag/v1.1.1), 2 days ago) - 🧟 The modern PHP app server
-- [Jeroen-G/Explorer](https://github.com/Jeroen-G/Explorer) ([3.13.0](https://github.com/Jeroen-G/Explorer/releases/tag/3.13.0), 5 days ago) - 🗺️ Next-gen Elasticsearch driver for Laravel Scout.
-- [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.0](https://github.com/composer/ca-bundle/releases/tag/1.5.0), 6 days ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.1](https://github.com/dunglas/frankenphp/releases/tag/v1.1.1), 3 days ago) - 🧟 The modern PHP app server
+- [Jeroen-G/Explorer](https://github.com/Jeroen-G/Explorer) ([3.13.0](https://github.com/Jeroen-G/Explorer/releases/tag/3.13.0), 6 days ago) - 🗺️ Next-gen Elasticsearch driver for Laravel Scout.
+- [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.0](https://github.com/composer/ca-bundle/releases/tag/1.5.0), 1 week ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
 - [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.1.1](https://github.com/spatie/php-structure-discoverer/releases/tag/2.1.1), 1 week ago) - Automatically discover classes within your PHP application
 - [spatie/lighthouse-php](https://github.com/spatie/lighthouse-php) ([1.2.1](https://github.com/spatie/lighthouse-php/releases/tag/1.2.1), 1 week ago) - Run Google Lighthouse using PHP
 
