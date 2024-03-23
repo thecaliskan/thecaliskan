@@ -9,9 +9,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/holidays](https://github.com/spatie/holidays) ([1.9.0](https://github.com/spatie/holidays/releases/tag/1.9.0), today) - Calculate which days you don&#39;t have to work!
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.1](https://github.com/dunglas/frankenphp/releases/tag/v1.1.1), 3 days ago) - 🧟 The modern PHP app server
-- [Jeroen-G/Explorer](https://github.com/Jeroen-G/Explorer) ([3.13.0](https://github.com/Jeroen-G/Explorer/releases/tag/3.13.0), 6 days ago) - 🗺️ Next-gen Elasticsearch driver for Laravel Scout.
+- [spatie/holidays](https://github.com/spatie/holidays) ([1.9.0](https://github.com/spatie/holidays/releases/tag/1.9.0), 1 day ago) - Calculate which days you don&#39;t have to work!
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.1](https://github.com/dunglas/frankenphp/releases/tag/v1.1.1), 4 days ago) - 🧟 The modern PHP app server
+- [Jeroen-G/Explorer](https://github.com/Jeroen-G/Explorer) ([3.13.0](https://github.com/Jeroen-G/Explorer/releases/tag/3.13.0), 1 week ago) - 🗺️ Next-gen Elasticsearch driver for Laravel Scout.
 - [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.0](https://github.com/composer/ca-bundle/releases/tag/1.5.0), 1 week ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
 - [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.1.1](https://github.com/spatie/php-structure-discoverer/releases/tag/2.1.1), 1 week ago) - Automatically discover classes within your PHP application
 
@@ -20,7 +20,7 @@
 - [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) - Laravel Stock, Forex, Crypto Data API (3 weeks ago)
 - [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) -  (1 month ago)
 - [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie&#39;s Laravel Packages (1 month ago)
-- [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (1 month ago)
+- [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (2 months ago)
 - [thecaliskan/laravel-benchmark](https://github.com/thecaliskan/laravel-benchmark) - Laravel Benchmark Example Project for Laravel Octane Servers (2 months ago)
 
 #### 🌱 My latest projects
