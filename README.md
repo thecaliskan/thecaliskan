@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.4.3](https://github.com/spatie/db-dumper/releases/tag/3.4.3), today) - Dump the contents of a database
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.2](https://github.com/dunglas/frankenphp/releases/tag/v1.1.2), 1 week ago) - 🧟 The modern PHP app server
 - [spatie/dns](https://github.com/spatie/dns) ([2.6.0](https://github.com/spatie/dns/releases/tag/2.6.0), 1 week ago) - Retrieve DNS records
 - [spatie/holidays](https://github.com/spatie/holidays) ([1.9.0](https://github.com/spatie/holidays/releases/tag/1.9.0), 1 week ago) - Calculate which days you don&#39;t have to work!
 - [Jeroen-G/Explorer](https://github.com/Jeroen-G/Explorer) ([3.13.0](https://github.com/Jeroen-G/Explorer/releases/tag/3.13.0), 2 weeks ago) - 🗺️ Next-gen Elasticsearch driver for Laravel Scout.
-- [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.0](https://github.com/composer/ca-bundle/releases/tag/1.5.0), 2 weeks ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
 
 #### 👷 Check out what I'm currently working on
 
