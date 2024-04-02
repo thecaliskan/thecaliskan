@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/holidays](https://github.com/spatie/holidays) ([1.9.1](https://github.com/spatie/holidays/releases/tag/1.9.1), today) - Calculate which days you don&#39;t have to work!
 - [spatie/browsershot](https://github.com/spatie/browsershot) ([4.0.2](https://github.com/spatie/browsershot/releases/tag/4.0.2), 1 day ago) - Convert HTML to an image, PDF or string
 - [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.4.3](https://github.com/spatie/db-dumper/releases/tag/3.4.3), 1 day ago) - Dump the contents of a database
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.2](https://github.com/dunglas/frankenphp/releases/tag/v1.1.2), 1 week ago) - 🧟 The modern PHP app server
 - [spatie/dns](https://github.com/spatie/dns) ([2.6.0](https://github.com/spatie/dns/releases/tag/2.6.0), 1 week ago) - Retrieve DNS records
-- [spatie/holidays](https://github.com/spatie/holidays) ([1.9.0](https://github.com/spatie/holidays/releases/tag/1.9.0), 1 week ago) - Calculate which days you don&#39;t have to work!
 
 #### 👷 Check out what I'm currently working on
 
