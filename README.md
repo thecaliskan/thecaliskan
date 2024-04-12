@@ -9,9 +9,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/commonmark-shiki-highlighter](https://github.com/spatie/commonmark-shiki-highlighter) ([2.4.0](https://github.com/spatie/commonmark-shiki-highlighter/releases/tag/2.4.0), today) - Highlight code blocks with league/commonmark and Shiki
-- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.5.0](https://github.com/spatie/db-dumper/releases/tag/3.5.0), 3 days ago) - Dump the contents of a database
-- [spatie/ssh](https://github.com/spatie/ssh) ([1.10.1](https://github.com/spatie/ssh/releases/tag/1.10.1), 6 days ago) - A lightweight package to execute commands over an SSH connection
+- [spatie/commonmark-shiki-highlighter](https://github.com/spatie/commonmark-shiki-highlighter) ([2.4.0](https://github.com/spatie/commonmark-shiki-highlighter/releases/tag/2.4.0), 1 day ago) - Highlight code blocks with league/commonmark and Shiki
+- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.5.0](https://github.com/spatie/db-dumper/releases/tag/3.5.0), 4 days ago) - Dump the contents of a database
+- [spatie/ssh](https://github.com/spatie/ssh) ([1.10.1](https://github.com/spatie/ssh/releases/tag/1.10.1), 1 week ago) - A lightweight package to execute commands over an SSH connection
 - [spatie/holidays](https://github.com/spatie/holidays) ([1.9.1](https://github.com/spatie/holidays/releases/tag/1.9.1), 1 week ago) - Calculate which days you don&#39;t have to work!
 - [spatie/browsershot](https://github.com/spatie/browsershot) ([4.0.2](https://github.com/spatie/browsershot/releases/tag/4.0.2), 1 week ago) - Convert HTML to an image, PDF or string
 
