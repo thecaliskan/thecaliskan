@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dompdf/dompdf](https://github.com/dompdf/dompdf) ([v2.0.5](https://github.com/dompdf/dompdf/releases/tag/v2.0.5), today) - HTML to PDF converter for PHP
 - [spatie/pixelmatch-php](https://github.com/spatie/pixelmatch-php) ([1.1.0](https://github.com/spatie/pixelmatch-php/releases/tag/1.1.0), 2 days ago) - Compare images using PHP
 - [spatie/commonmark-shiki-highlighter](https://github.com/spatie/commonmark-shiki-highlighter) ([2.4.0](https://github.com/spatie/commonmark-shiki-highlighter/releases/tag/2.4.0), 3 days ago) - Highlight code blocks with league/commonmark and Shiki
 - [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.5.0](https://github.com/spatie/db-dumper/releases/tag/3.5.0), 6 days ago) - Dump the contents of a database
 - [spatie/ssh](https://github.com/spatie/ssh) ([1.10.1](https://github.com/spatie/ssh/releases/tag/1.10.1), 1 week ago) - A lightweight package to execute commands over an SSH connection
-- [spatie/holidays](https://github.com/spatie/holidays) ([1.9.1](https://github.com/spatie/holidays/releases/tag/1.9.1), 1 week ago) - Calculate which days you don&#39;t have to work!
 
 #### 👷 Check out what I'm currently working on
 
