@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dompdf/dompdf](https://github.com/dompdf/dompdf) ([v2.0.7](https://github.com/dompdf/dompdf/releases/tag/v2.0.7), 5 days ago) - HTML to PDF converter for PHP
+- [dompdf/dompdf](https://github.com/dompdf/dompdf) ([v2.0.7](https://github.com/dompdf/dompdf/releases/tag/v2.0.7), 6 days ago) - HTML to PDF converter for PHP
 - [spatie/pixelmatch-php](https://github.com/spatie/pixelmatch-php) ([1.1.0](https://github.com/spatie/pixelmatch-php/releases/tag/1.1.0), 1 week ago) - Compare images using PHP
 - [spatie/commonmark-shiki-highlighter](https://github.com/spatie/commonmark-shiki-highlighter) ([2.4.0](https://github.com/spatie/commonmark-shiki-highlighter/releases/tag/2.4.0), 1 week ago) - Highlight code blocks with league/commonmark and Shiki
 - [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.5.0](https://github.com/spatie/db-dumper/releases/tag/3.5.0), 1 week ago) - Dump the contents of a database
