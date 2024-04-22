@@ -9,10 +9,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dompdf/dompdf](https://github.com/dompdf/dompdf) ([v2.0.7](https://github.com/dompdf/dompdf/releases/tag/v2.0.7), 6 days ago) - HTML to PDF converter for PHP
+- [dompdf/dompdf](https://github.com/dompdf/dompdf) ([v2.0.7](https://github.com/dompdf/dompdf/releases/tag/v2.0.7), 1 week ago) - HTML to PDF converter for PHP
 - [spatie/pixelmatch-php](https://github.com/spatie/pixelmatch-php) ([1.1.0](https://github.com/spatie/pixelmatch-php/releases/tag/1.1.0), 1 week ago) - Compare images using PHP
 - [spatie/commonmark-shiki-highlighter](https://github.com/spatie/commonmark-shiki-highlighter) ([2.4.0](https://github.com/spatie/commonmark-shiki-highlighter/releases/tag/2.4.0), 1 week ago) - Highlight code blocks with league/commonmark and Shiki
-- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.5.0](https://github.com/spatie/db-dumper/releases/tag/3.5.0), 1 week ago) - Dump the contents of a database
+- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.5.0](https://github.com/spatie/db-dumper/releases/tag/3.5.0), 2 weeks ago) - Dump the contents of a database
 - [spatie/ssh](https://github.com/spatie/ssh) ([1.10.1](https://github.com/spatie/ssh/releases/tag/1.10.1), 2 weeks ago) - A lightweight package to execute commands over an SSH connection
 
 #### 👷 Check out what I'm currently working on
@@ -20,7 +20,7 @@
 - [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) - Laravel Stock, Forex, Crypto Data API (1 month ago)
 - [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) -  (2 months ago)
 - [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie&#39;s Laravel Packages (2 months ago)
-- [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (2 months ago)
+- [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (3 months ago)
 - [thecaliskan/laravel-benchmark](https://github.com/thecaliskan/laravel-benchmark) - Laravel Benchmark Example Project for Laravel Octane Servers (3 months ago)
 
 #### 🌱 My latest projects
