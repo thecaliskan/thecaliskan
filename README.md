@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.6.0](https://github.com/spatie/db-dumper/releases/tag/3.6.0), today) - Dump the contents of a database
-- [spatie/ray](https://github.com/spatie/ray) ([1.41.2](https://github.com/spatie/ray/releases/tag/1.41.2), today) - Debug with Ray to fix problems faster
+- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.6.0](https://github.com/spatie/db-dumper/releases/tag/3.6.0), 1 day ago) - Dump the contents of a database
+- [spatie/ray](https://github.com/spatie/ray) ([1.41.2](https://github.com/spatie/ray/releases/tag/1.41.2), 1 day ago) - Debug with Ray to fix problems faster
 - [dompdf/dompdf](https://github.com/dompdf/dompdf) ([v2.0.7](https://github.com/dompdf/dompdf/releases/tag/v2.0.7), 1 week ago) - HTML to PDF converter for PHP
 - [spatie/pixelmatch-php](https://github.com/spatie/pixelmatch-php) ([1.1.0](https://github.com/spatie/pixelmatch-php/releases/tag/1.1.0), 1 week ago) - Compare images using PHP
-- [spatie/commonmark-shiki-highlighter](https://github.com/spatie/commonmark-shiki-highlighter) ([2.4.0](https://github.com/spatie/commonmark-shiki-highlighter/releases/tag/2.4.0), 1 week ago) - Highlight code blocks with league/commonmark and Shiki
+- [spatie/commonmark-shiki-highlighter](https://github.com/spatie/commonmark-shiki-highlighter) ([2.4.0](https://github.com/spatie/commonmark-shiki-highlighter/releases/tag/2.4.0), 2 weeks ago) - Highlight code blocks with league/commonmark and Shiki
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) - Laravel Stock, Forex, Crypto Data API (1 month ago)
+- [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) - Laravel Stock, Forex, Crypto Data API (2 months ago)
 - [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) -  (2 months ago)
 - [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie&#39;s Laravel Packages (2 months ago)
 - [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (3 months ago)
