@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.4](https://github.com/dunglas/frankenphp/releases/tag/v1.1.4), today) - 🧟 The modern PHP app server
 - [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.6.0](https://github.com/spatie/db-dumper/releases/tag/3.6.0), 1 day ago) - Dump the contents of a database
 - [spatie/ray](https://github.com/spatie/ray) ([1.41.2](https://github.com/spatie/ray/releases/tag/1.41.2), 1 day ago) - Debug with Ray to fix problems faster
 - [dompdf/dompdf](https://github.com/dompdf/dompdf) ([v2.0.7](https://github.com/dompdf/dompdf/releases/tag/v2.0.7), 1 week ago) - HTML to PDF converter for PHP
 - [spatie/pixelmatch-php](https://github.com/spatie/pixelmatch-php) ([1.1.0](https://github.com/spatie/pixelmatch-php/releases/tag/1.1.0), 1 week ago) - Compare images using PHP
-- [spatie/commonmark-shiki-highlighter](https://github.com/spatie/commonmark-shiki-highlighter) ([2.4.0](https://github.com/spatie/commonmark-shiki-highlighter/releases/tag/2.4.0), 2 weeks ago) - Highlight code blocks with league/commonmark and Shiki
 
 #### 👷 Check out what I'm currently working on
 
