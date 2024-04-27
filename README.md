@@ -9,10 +9,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Jeroen-G/Explorer](https://github.com/Jeroen-G/Explorer) ([3.14.0](https://github.com/Jeroen-G/Explorer/releases/tag/3.14.0), today) - 🗺️ Next-gen Elasticsearch driver for Laravel Scout.
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.4](https://github.com/dunglas/frankenphp/releases/tag/v1.1.4), 1 day ago) - 🧟 The modern PHP app server
-- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.6.0](https://github.com/spatie/db-dumper/releases/tag/3.6.0), 2 days ago) - Dump the contents of a database
-- [spatie/ray](https://github.com/spatie/ray) ([1.41.2](https://github.com/spatie/ray/releases/tag/1.41.2), 2 days ago) - Debug with Ray to fix problems faster
+- [Jeroen-G/Explorer](https://github.com/Jeroen-G/Explorer) ([3.14.0](https://github.com/Jeroen-G/Explorer/releases/tag/3.14.0), 1 day ago) - 🗺️ Next-gen Elasticsearch driver for Laravel Scout.
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.4](https://github.com/dunglas/frankenphp/releases/tag/v1.1.4), 2 days ago) - 🧟 The modern PHP app server
+- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.6.0](https://github.com/spatie/db-dumper/releases/tag/3.6.0), 3 days ago) - Dump the contents of a database
+- [spatie/ray](https://github.com/spatie/ray) ([1.41.2](https://github.com/spatie/ray/releases/tag/1.41.2), 3 days ago) - Debug with Ray to fix problems faster
 - [dompdf/dompdf](https://github.com/dompdf/dompdf) ([v2.0.7](https://github.com/dompdf/dompdf/releases/tag/v2.0.7), 1 week ago) - HTML to PDF converter for PHP
 
 #### 👷 Check out what I'm currently working on
