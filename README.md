@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) ([1.1.0](https://github.com/thecaliskan/laravel-stock/releases/tag/1.1.0), today) - Laravel Stock, Forex, Crypto Data API
 - [spatie/mailcoach-mailer](https://github.com/spatie/mailcoach-mailer) ([1.2.0](https://github.com/spatie/mailcoach-mailer/releases/tag/1.2.0), today) - The Mailcoach transport for Symfony Mailer
 - [dompdf/dompdf](https://github.com/dompdf/dompdf) ([v2.0.8](https://github.com/dompdf/dompdf/releases/tag/v2.0.8), 3 days ago) - HTML to PDF converter for PHP
 - [spatie/holidays](https://github.com/spatie/holidays) ([1.10.0](https://github.com/spatie/holidays/releases/tag/1.10.0), 3 days ago) - Calculate which days you don&#39;t have to work!
 - [Jeroen-G/Explorer](https://github.com/Jeroen-G/Explorer) ([3.14.0](https://github.com/Jeroen-G/Explorer/releases/tag/3.14.0), 6 days ago) - 🗺️ Next-gen Elasticsearch driver for Laravel Scout.
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.4](https://github.com/dunglas/frankenphp/releases/tag/v1.1.4), 1 week ago) - 🧟 The modern PHP app server
 
 #### 👷 Check out what I'm currently working on
 
@@ -33,11 +33,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [sammorozov](https://github.com/sammorozov)
 - [ahmmedsabbirbd](https://github.com/ahmmedsabbirbd)
 - [luu123](https://github.com/luu123)
 - [onursimsek](https://github.com/onursimsek)
 - [RazielRodrigues](https://github.com/RazielRodrigues)
-- [ertanusta](https://github.com/ertanusta)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/thecaliskan) (thank you!)
 
