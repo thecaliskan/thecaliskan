@@ -9,9 +9,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/lighthouse-php](https://github.com/spatie/lighthouse-php) ([1.2.2](https://github.com/spatie/lighthouse-php/releases/tag/1.2.2), today) - Run Google Lighthouse using PHP
-- [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) ([1.1.0](https://github.com/thecaliskan/laravel-stock/releases/tag/1.1.0), 4 days ago) - Laravel Stock, Forex, Crypto Data API
-- [spatie/mailcoach-mailer](https://github.com/spatie/mailcoach-mailer) ([1.2.0](https://github.com/spatie/mailcoach-mailer/releases/tag/1.2.0), 4 days ago) - The Mailcoach transport for Symfony Mailer
+- [spatie/lighthouse-php](https://github.com/spatie/lighthouse-php) ([1.2.2](https://github.com/spatie/lighthouse-php/releases/tag/1.2.2), 1 day ago) - Run Google Lighthouse using PHP
+- [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) ([1.1.0](https://github.com/thecaliskan/laravel-stock/releases/tag/1.1.0), 5 days ago) - Laravel Stock, Forex, Crypto Data API
+- [spatie/mailcoach-mailer](https://github.com/spatie/mailcoach-mailer) ([1.2.0](https://github.com/spatie/mailcoach-mailer/releases/tag/1.2.0), 5 days ago) - The Mailcoach transport for Symfony Mailer
 - [dompdf/dompdf](https://github.com/dompdf/dompdf) ([v2.0.8](https://github.com/dompdf/dompdf/releases/tag/v2.0.8), 1 week ago) - HTML to PDF converter for PHP
 - [spatie/holidays](https://github.com/spatie/holidays) ([1.10.0](https://github.com/spatie/holidays/releases/tag/1.10.0), 1 week ago) - Calculate which days you don&#39;t have to work!
 
@@ -21,7 +21,7 @@
 - [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) -  (3 months ago)
 - [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie&#39;s Laravel Packages (3 months ago)
 - [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (3 months ago)
-- [thecaliskan/laravel-benchmark](https://github.com/thecaliskan/laravel-benchmark) - Laravel Benchmark Example Project for Laravel Octane Servers (3 months ago)
+- [thecaliskan/laravel-benchmark](https://github.com/thecaliskan/laravel-benchmark) - Laravel Benchmark Example Project for Laravel Octane Servers (4 months ago)
 
 #### 🌱 My latest projects
 
