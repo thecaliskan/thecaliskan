@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dompdf/dompdf](https://github.com/dompdf/dompdf) ([v3.0.0](https://github.com/dompdf/dompdf/releases/tag/v3.0.0), today) - HTML to PDF converter for PHP
+- [dompdf/dompdf](https://github.com/dompdf/dompdf) ([v3.0.0](https://github.com/dompdf/dompdf/releases/tag/v3.0.0), 1 day ago) - HTML to PDF converter for PHP
 - [spatie/lighthouse-php](https://github.com/spatie/lighthouse-php) ([1.2.2](https://github.com/spatie/lighthouse-php/releases/tag/1.2.2), 1 week ago) - Run Google Lighthouse using PHP
 - [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) ([1.1.0](https://github.com/thecaliskan/laravel-stock/releases/tag/1.1.0), 1 week ago) - Laravel Stock, Forex, Crypto Data API
 - [spatie/mailcoach-mailer](https://github.com/spatie/mailcoach-mailer) ([1.2.0](https://github.com/spatie/mailcoach-mailer/releases/tag/1.2.0), 1 week ago) - The Mailcoach transport for Symfony Mailer
