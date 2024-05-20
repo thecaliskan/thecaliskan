@@ -17,7 +17,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/casino-proxy-api](https://github.com/thecaliskan/casino-proxy-api) -  (today)
+- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for POST Form Data Request (today)
 - [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) - Laravel Stock, Forex, Crypto Data API (2 months ago)
 - [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) -  (3 months ago)
 - [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie&#39;s Laravel Packages (3 months ago)
@@ -25,7 +25,7 @@
 
 #### 🌱 My latest projects
 
-- [thecaliskan/casino-proxy-api](https://github.com/thecaliskan/casino-proxy-api) - 
+- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for POST Form Data Request
 - [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) - Laravel Stock, Forex, Crypto Data API
 - [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) - 
 - [thecaliskan/symfony-benchmark](https://github.com/thecaliskan/symfony-benchmark) - Symfony Benchmark Example Project for Symfony Runtime Servers 
