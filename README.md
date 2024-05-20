@@ -9,9 +9,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.5](https://github.com/dunglas/frankenphp/releases/tag/v1.1.5), 5 days ago) - 🧟 The modern PHP app server
-- [dompdf/dompdf](https://github.com/dompdf/dompdf) ([v3.0.0](https://github.com/dompdf/dompdf/releases/tag/v3.0.0), 6 days ago) - HTML to PDF converter for PHP
-- [spatie/lighthouse-php](https://github.com/spatie/lighthouse-php) ([1.2.2](https://github.com/spatie/lighthouse-php/releases/tag/1.2.2), 1 week ago) - Run Google Lighthouse using PHP
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.5](https://github.com/dunglas/frankenphp/releases/tag/v1.1.5), 6 days ago) - 🧟 The modern PHP app server
+- [dompdf/dompdf](https://github.com/dompdf/dompdf) ([v3.0.0](https://github.com/dompdf/dompdf/releases/tag/v3.0.0), 1 week ago) - HTML to PDF converter for PHP
+- [spatie/lighthouse-php](https://github.com/spatie/lighthouse-php) ([1.2.2](https://github.com/spatie/lighthouse-php/releases/tag/1.2.2), 2 weeks ago) - Run Google Lighthouse using PHP
 - [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) ([1.1.0](https://github.com/thecaliskan/laravel-stock/releases/tag/1.1.0), 2 weeks ago) - Laravel Stock, Forex, Crypto Data API
 - [spatie/mailcoach-mailer](https://github.com/spatie/mailcoach-mailer) ([1.2.0](https://github.com/spatie/mailcoach-mailer/releases/tag/1.2.0), 2 weeks ago) - The Mailcoach transport for Symfony Mailer
 
