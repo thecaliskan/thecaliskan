@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) ([v1.0.0](https://github.com/thecaliskan/proxy-api/releases/tag/v1.0.0), today) - Proxy API for POST Form Data Request
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.5](https://github.com/dunglas/frankenphp/releases/tag/v1.1.5), 6 days ago) - 🧟 The modern PHP app server
+- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) ([v1.0.0](https://github.com/thecaliskan/proxy-api/releases/tag/v1.0.0), 1 day ago) - Proxy API for POST Form Data Request
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.5](https://github.com/dunglas/frankenphp/releases/tag/v1.1.5), 1 week ago) - 🧟 The modern PHP app server
 - [dompdf/dompdf](https://github.com/dompdf/dompdf) ([v3.0.0](https://github.com/dompdf/dompdf/releases/tag/v3.0.0), 1 week ago) - HTML to PDF converter for PHP
 - [spatie/lighthouse-php](https://github.com/spatie/lighthouse-php) ([1.2.2](https://github.com/spatie/lighthouse-php/releases/tag/1.2.2), 2 weeks ago) - Run Google Lighthouse using PHP
 - [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) ([1.1.0](https://github.com/thecaliskan/laravel-stock/releases/tag/1.1.0), 2 weeks ago) - Laravel Stock, Forex, Crypto Data API
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for POST Form Data Request (today)
+- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for POST Form Data Request (1 day ago)
 - [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) - Laravel Stock, Forex, Crypto Data API (2 months ago)
 - [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) -  (3 months ago)
 - [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie&#39;s Laravel Packages (3 months ago)
