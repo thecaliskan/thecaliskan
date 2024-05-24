@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/browsershot](https://github.com/spatie/browsershot) ([4.0.3](https://github.com/spatie/browsershot/releases/tag/4.0.3), 2 days ago) - Convert HTML to an image, PDF or string
-- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) ([v1.0.1](https://github.com/thecaliskan/proxy-api/releases/tag/v1.0.1), 2 days ago) - Proxy API for HTTP Request
+- [spatie/browsershot](https://github.com/spatie/browsershot) ([4.0.3](https://github.com/spatie/browsershot/releases/tag/4.0.3), 3 days ago) - Convert HTML to an image, PDF or string
+- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) ([v1.0.1](https://github.com/thecaliskan/proxy-api/releases/tag/v1.0.1), 3 days ago) - Proxy API for HTTP Request
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.5](https://github.com/dunglas/frankenphp/releases/tag/v1.1.5), 1 week ago) - 🧟 The modern PHP app server
 - [dompdf/dompdf](https://github.com/dompdf/dompdf) ([v3.0.0](https://github.com/dompdf/dompdf/releases/tag/v3.0.0), 1 week ago) - HTML to PDF converter for PHP
 - [spatie/lighthouse-php](https://github.com/spatie/lighthouse-php) ([1.2.2](https://github.com/spatie/lighthouse-php/releases/tag/1.2.2), 2 weeks ago) - Run Google Lighthouse using PHP
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (3 days ago)
+- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (4 days ago)
 - [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) - Laravel Stock, Forex, Crypto Data API (2 months ago)
 - [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) -  (3 months ago)
 - [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie&#39;s Laravel Packages (3 months ago)
