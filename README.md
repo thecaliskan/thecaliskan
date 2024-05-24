@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/browsershot](https://github.com/spatie/browsershot) ([4.0.3](https://github.com/spatie/browsershot/releases/tag/4.0.3), 3 days ago) - Convert HTML to an image, PDF or string
+- [spatie/browsershot](https://github.com/spatie/browsershot) ([4.0.4](https://github.com/spatie/browsershot/releases/tag/4.0.4), today) - Convert HTML to an image, PDF or string
 - [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) ([v1.0.1](https://github.com/thecaliskan/proxy-api/releases/tag/v1.0.1), 3 days ago) - Proxy API for HTTP Request
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.5](https://github.com/dunglas/frankenphp/releases/tag/v1.1.5), 1 week ago) - 🧟 The modern PHP app server
 - [dompdf/dompdf](https://github.com/dompdf/dompdf) ([v3.0.0](https://github.com/dompdf/dompdf/releases/tag/v3.0.0), 1 week ago) - HTML to PDF converter for PHP
