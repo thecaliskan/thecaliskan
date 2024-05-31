@@ -2,16 +2,16 @@
 
 #### 📜 My recent [blog posts](https://caliskanemre.medium.com/)
 
-- [Wars of Symfony Runtimes: A Performance Odyssey](https://medium.com/beyn-technology/wars-of-symfony-runtimes-a-performance-odyssey-7b0120e8f9e1?source=rss-cf41ab240584------2) (3 months ago)
+- [Wars of Symfony Runtimes: A Performance Odyssey](https://medium.com/beyn-technology/wars-of-symfony-runtimes-a-performance-odyssey-7b0120e8f9e1?source=rss-cf41ab240584------2) (4 months ago)
 - [Hola FrankenPHP! Laravel Octane Servers Comparison: Pushing the Boundaries of Performance](https://medium.com/beyn-technology/hola-frankenphp-laravel-octane-servers-comparison-pushing-the-boundaries-of-performance-d3e7ad8e652c?source=rss-cf41ab240584------2) (4 months ago)
 - [Is Nginx dead? Is Traefik v3 20% faster than Traefik v2?](https://medium.com/beyn-technology/is-nginx-dead-is-traefik-v3-20-faster-than-traefik-v2-f28ffb7eed3e?source=rss-cf41ab240584------2) (1 year ago)
 - [Serving High Performance the Symfony App with Swoole/Docker](https://medium.com/beyn-technology/serving-high-performance-the-symfony-app-with-swoole-docker-758d8f176889?source=rss-cf41ab240584------2) (2 years ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/global-ray](https://github.com/spatie/global-ray) ([1.1.1](https://github.com/spatie/global-ray/releases/tag/1.1.1), today) - Enable Ray in all PHP files on your system
-- [spatie/docker](https://github.com/spatie/docker) ([1.13.0](https://github.com/spatie/docker/releases/tag/1.13.0), 3 days ago) - Manage docker containers with PHP
-- [spatie/browsershot](https://github.com/spatie/browsershot) ([4.0.4](https://github.com/spatie/browsershot/releases/tag/4.0.4), 6 days ago) - Convert HTML to an image, PDF or string
+- [spatie/global-ray](https://github.com/spatie/global-ray) ([1.1.1](https://github.com/spatie/global-ray/releases/tag/1.1.1), 1 day ago) - Enable Ray in all PHP files on your system
+- [spatie/docker](https://github.com/spatie/docker) ([1.13.0](https://github.com/spatie/docker/releases/tag/1.13.0), 4 days ago) - Manage docker containers with PHP
+- [spatie/browsershot](https://github.com/spatie/browsershot) ([4.0.4](https://github.com/spatie/browsershot/releases/tag/4.0.4), 1 week ago) - Convert HTML to an image, PDF or string
 - [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) ([v1.0.1](https://github.com/thecaliskan/proxy-api/releases/tag/v1.0.1), 1 week ago) - Proxy API for HTTP Request
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.5](https://github.com/dunglas/frankenphp/releases/tag/v1.1.5), 2 weeks ago) - 🧟 The modern PHP app server
 
