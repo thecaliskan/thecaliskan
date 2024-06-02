@@ -9,8 +9,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/global-ray](https://github.com/spatie/global-ray) ([1.1.1](https://github.com/spatie/global-ray/releases/tag/1.1.1), 2 days ago) - Enable Ray in all PHP files on your system
-- [spatie/docker](https://github.com/spatie/docker) ([1.13.0](https://github.com/spatie/docker/releases/tag/1.13.0), 5 days ago) - Manage docker containers with PHP
+- [spatie/global-ray](https://github.com/spatie/global-ray) ([1.1.1](https://github.com/spatie/global-ray/releases/tag/1.1.1), 3 days ago) - Enable Ray in all PHP files on your system
+- [spatie/docker](https://github.com/spatie/docker) ([1.13.0](https://github.com/spatie/docker/releases/tag/1.13.0), 6 days ago) - Manage docker containers with PHP
 - [spatie/browsershot](https://github.com/spatie/browsershot) ([4.0.4](https://github.com/spatie/browsershot/releases/tag/4.0.4), 1 week ago) - Convert HTML to an image, PDF or string
 - [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) ([v1.0.1](https://github.com/thecaliskan/proxy-api/releases/tag/v1.0.1), 1 week ago) - Proxy API for HTTP Request
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.5](https://github.com/dunglas/frankenphp/releases/tag/v1.1.5), 2 weeks ago) - 🧟 The modern PHP app server
@@ -19,7 +19,7 @@
 
 - [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (1 week ago)
 - [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) - Laravel Stock, Forex, Crypto Data API (3 months ago)
-- [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) -  (3 months ago)
+- [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) -  (4 months ago)
 - [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie&#39;s Laravel Packages (4 months ago)
 - [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (4 months ago)
 
