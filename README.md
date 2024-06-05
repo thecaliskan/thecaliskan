@@ -9,8 +9,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/browsershot](https://github.com/spatie/browsershot) ([4.0.5](https://github.com/spatie/browsershot/releases/tag/4.0.5), today) - Convert HTML to an image, PDF or string
-- [spatie/global-ray](https://github.com/spatie/global-ray) ([1.1.1](https://github.com/spatie/global-ray/releases/tag/1.1.1), 5 days ago) - Enable Ray in all PHP files on your system
+- [spatie/browsershot](https://github.com/spatie/browsershot) ([4.0.5](https://github.com/spatie/browsershot/releases/tag/4.0.5), 1 day ago) - Convert HTML to an image, PDF or string
+- [spatie/global-ray](https://github.com/spatie/global-ray) ([1.1.1](https://github.com/spatie/global-ray/releases/tag/1.1.1), 6 days ago) - Enable Ray in all PHP files on your system
 - [spatie/docker](https://github.com/spatie/docker) ([1.13.0](https://github.com/spatie/docker/releases/tag/1.13.0), 1 week ago) - Manage docker containers with PHP
 - [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) ([v1.0.1](https://github.com/thecaliskan/proxy-api/releases/tag/v1.0.1), 2 weeks ago) - Proxy API for HTTP Request
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.5](https://github.com/dunglas/frankenphp/releases/tag/v1.1.5), 3 weeks ago) - 🧟 The modern PHP app server
