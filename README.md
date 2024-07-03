@@ -11,13 +11,13 @@
 
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.1](https://github.com/dunglas/frankenphp/releases/tag/v1.2.1), 1 week ago) - 🧟 The modern PHP app server
 - [spatie/holidays](https://github.com/spatie/holidays) ([1.13.0](https://github.com/spatie/holidays/releases/tag/1.13.0), 1 week ago) - Calculate which days you don&#39;t have to work!
-- [spatie/browsershot](https://github.com/spatie/browsershot) ([4.1.0](https://github.com/spatie/browsershot/releases/tag/4.1.0), 2 weeks ago) - Convert HTML to an image, PDF or string
+- [spatie/browsershot](https://github.com/spatie/browsershot) ([4.1.0](https://github.com/spatie/browsershot/releases/tag/4.1.0), 3 weeks ago) - Convert HTML to an image, PDF or string
 - [spatie/global-ray](https://github.com/spatie/global-ray) ([1.1.2](https://github.com/spatie/global-ray/releases/tag/1.1.2), 3 weeks ago) - Enable Ray in all PHP files on your system
 - [spatie/docker](https://github.com/spatie/docker) ([1.13.0](https://github.com/spatie/docker/releases/tag/1.13.0), 1 month ago) - Manage docker containers with PHP
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website) - The website of FrankenPHP (5 days ago)
+- [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website) - The website of FrankenPHP (6 days ago)
 - [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (1 month ago)
 - [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) - Laravel Stock, Forex, Crypto Data API (4 months ago)
 - [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) -  (5 months ago)
