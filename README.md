@@ -9,9 +9,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/mjml-php](https://github.com/spatie/mjml-php) ([1.2.0](https://github.com/spatie/mjml-php/releases/tag/1.2.0), today) - Convert MJML to HTML using PHP
-- [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.1](https://github.com/composer/ca-bundle/releases/tag/1.5.1), 1 day ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
-- [spatie/browsershot](https://github.com/spatie/browsershot) ([4.1.1](https://github.com/spatie/browsershot/releases/tag/4.1.1), 6 days ago) - Convert HTML to an image, PDF or string
+- [spatie/mjml-php](https://github.com/spatie/mjml-php) ([1.2.0](https://github.com/spatie/mjml-php/releases/tag/1.2.0), 1 day ago) - Convert MJML to HTML using PHP
+- [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.1](https://github.com/composer/ca-bundle/releases/tag/1.5.1), 2 days ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
+- [spatie/browsershot](https://github.com/spatie/browsershot) ([4.1.1](https://github.com/spatie/browsershot/releases/tag/4.1.1), 1 week ago) - Convert HTML to an image, PDF or string
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.1](https://github.com/dunglas/frankenphp/releases/tag/v1.2.1), 2 weeks ago) - 🧟 The modern PHP app server
 - [spatie/holidays](https://github.com/spatie/holidays) ([1.13.0](https://github.com/spatie/holidays/releases/tag/1.13.0), 2 weeks ago) - Calculate which days you don&#39;t have to work!
 
