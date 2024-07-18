@@ -35,9 +35,9 @@
 
 - [nilportugues](https://github.com/nilportugues)
 - [sammorozov](https://github.com/sammorozov)
-- [ahmmedsabbirbd](https://github.com/ahmmedsabbirbd)
 - [luu123](https://github.com/luu123)
 - [onursimsek](https://github.com/onursimsek)
+- [RazielRodrigues](https://github.com/RazielRodrigues)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/thecaliskan) (thank you!)
 
