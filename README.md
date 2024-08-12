@@ -9,9 +9,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.3](https://github.com/dunglas/frankenphp/releases/tag/v1.2.3), 5 days ago) - 🧟 The modern PHP app server
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.3](https://github.com/dunglas/frankenphp/releases/tag/v1.2.3), 6 days ago) - 🧟 The modern PHP app server
 - [spatie/crawler](https://github.com/spatie/crawler) ([8.2.3](https://github.com/spatie/crawler/releases/tag/8.2.3), 1 week ago) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
-- [spatie/browsershot](https://github.com/spatie/browsershot) ([4.1.3](https://github.com/spatie/browsershot/releases/tag/4.1.3), 3 weeks ago) - Convert HTML to an image, PDF or string
+- [spatie/browsershot](https://github.com/spatie/browsershot) ([4.1.3](https://github.com/spatie/browsershot/releases/tag/4.1.3), 4 weeks ago) - Convert HTML to an image, PDF or string
 - [spatie/mjml-php](https://github.com/spatie/mjml-php) ([1.2.0](https://github.com/spatie/mjml-php/releases/tag/1.2.0), 1 month ago) - Convert MJML to HTML using PHP
 - [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.1](https://github.com/composer/ca-bundle/releases/tag/1.5.1), 1 month ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
 
