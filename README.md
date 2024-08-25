@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/browsershot](https://github.com/spatie/browsershot) ([4.3.0](https://github.com/spatie/browsershot/releases/tag/4.3.0), 2 days ago) - Convert HTML to an image, PDF or string
+- [spatie/browsershot](https://github.com/spatie/browsershot) ([4.3.0](https://github.com/spatie/browsershot/releases/tag/4.3.0), 3 days ago) - Convert HTML to an image, PDF or string
 - [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.1.2](https://github.com/spatie/php-structure-discoverer/releases/tag/2.1.2), 1 week ago) - Automatically discover classes within your PHP application
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.4](https://github.com/dunglas/frankenphp/releases/tag/v1.2.4), 1 week ago) - 🧟 The modern PHP app server
 - [spatie/crawler](https://github.com/spatie/crawler) ([8.2.3](https://github.com/spatie/crawler/releases/tag/8.2.3), 3 weeks ago) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
