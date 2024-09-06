@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/mjml-php](https://github.com/spatie/mjml-php) ([1.2.1](https://github.com/spatie/mjml-php/releases/tag/1.2.1), 4 days ago) - Convert MJML to HTML using PHP
+- [spatie/mjml-php](https://github.com/spatie/mjml-php) ([1.2.1](https://github.com/spatie/mjml-php/releases/tag/1.2.1), 5 days ago) - Convert MJML to HTML using PHP
 - [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.2.0](https://github.com/spatie/php-structure-discoverer/releases/tag/2.2.0), 1 week ago) - Automatically discover classes within your PHP application
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.5](https://github.com/dunglas/frankenphp/releases/tag/v1.2.5), 1 week ago) - 🧟 The modern PHP app server
 - [spatie/browsershot](https://github.com/spatie/browsershot) ([4.3.0](https://github.com/spatie/browsershot/releases/tag/4.3.0), 2 weeks ago) - Convert HTML to an image, PDF or string
