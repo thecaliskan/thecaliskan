@@ -4,12 +4,12 @@
 
 - [Wars of Symfony Runtimes: A Performance Odyssey](https://medium.com/beyn-technology/wars-of-symfony-runtimes-a-performance-odyssey-7b0120e8f9e1?source=rss-cf41ab240584------2) (8 months ago)
 - [Hola FrankenPHP! Laravel Octane Servers Comparison: Pushing the Boundaries of Performance](https://medium.com/beyn-technology/hola-frankenphp-laravel-octane-servers-comparison-pushing-the-boundaries-of-performance-d3e7ad8e652c?source=rss-cf41ab240584------2) (9 months ago)
-- [Is Nginx dead? Is Traefik v3 20% faster than Traefik v2?](https://medium.com/beyn-technology/is-nginx-dead-is-traefik-v3-20-faster-than-traefik-v2-f28ffb7eed3e?source=rss-cf41ab240584------2) (1 year ago)
+- [Is Nginx dead? Is Traefik v3 20% faster than Traefik v2?](https://medium.com/beyn-technology/is-nginx-dead-is-traefik-v3-20-faster-than-traefik-v2-f28ffb7eed3e?source=rss-cf41ab240584------2) (2 years ago)
 - [Serving High Performance the Symfony App with Swoole/Docker](https://medium.com/beyn-technology/serving-high-performance-the-symfony-app-with-swoole-docker-758d8f176889?source=rss-cf41ab240584------2) (2 years ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/holidays](https://github.com/spatie/holidays) ([1.14.0](https://github.com/spatie/holidays/releases/tag/1.14.0), 1 day ago) - Calculate which days you don&#39;t have to work!
+- [spatie/holidays](https://github.com/spatie/holidays) ([1.14.0](https://github.com/spatie/holidays/releases/tag/1.14.0), 2 days ago) - Calculate which days you don&#39;t have to work!
 - [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.2](https://github.com/composer/ca-bundle/releases/tag/1.5.2), 1 week ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
 - [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.7.0](https://github.com/spatie/db-dumper/releases/tag/3.7.0), 1 week ago) - Dump the contents of a database
 - [spatie/mjml-php](https://github.com/spatie/mjml-php) ([1.2.1](https://github.com/spatie/mjml-php/releases/tag/1.2.1), 1 month ago) - Convert MJML to HTML using PHP
