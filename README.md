@@ -10,7 +10,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [spatie/holidays](https://github.com/spatie/holidays) ([1.14.0](https://github.com/spatie/holidays/releases/tag/1.14.0), 1 week ago) - Calculate which days you don&#39;t have to work!
-- [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.2](https://github.com/composer/ca-bundle/releases/tag/1.5.2), 1 week ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
+- [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.2](https://github.com/composer/ca-bundle/releases/tag/1.5.2), 2 weeks ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
 - [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.7.0](https://github.com/spatie/db-dumper/releases/tag/3.7.0), 2 weeks ago) - Dump the contents of a database
 - [spatie/mjml-php](https://github.com/spatie/mjml-php) ([1.2.1](https://github.com/spatie/mjml-php/releases/tag/1.2.1), 1 month ago) - Convert MJML to HTML using PHP
 - [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.2.0](https://github.com/spatie/php-structure-discoverer/releases/tag/2.2.0), 1 month ago) - Automatically discover classes within your PHP application
