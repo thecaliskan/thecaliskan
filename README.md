@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/holidays](https://github.com/spatie/holidays) ([1.14.1](https://github.com/spatie/holidays/releases/tag/1.14.1), 6 days ago) - Calculate which days you don&#39;t have to work!
+- [spatie/holidays](https://github.com/spatie/holidays) ([1.14.1](https://github.com/spatie/holidays/releases/tag/1.14.1), 1 week ago) - Calculate which days you don&#39;t have to work!
 - [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.2](https://github.com/composer/ca-bundle/releases/tag/1.5.2), 3 weeks ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
 - [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.7.0](https://github.com/spatie/db-dumper/releases/tag/3.7.0), 3 weeks ago) - Dump the contents of a database
 - [spatie/mjml-php](https://github.com/spatie/mjml-php) ([1.2.1](https://github.com/spatie/mjml-php/releases/tag/1.2.1), 1 month ago) - Convert MJML to HTML using PHP
@@ -18,7 +18,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website) - The website of FrankenPHP (3 months ago)
-- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (4 months ago)
+- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (5 months ago)
 - [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) - Laravel Stock, Forex, Crypto Data API (7 months ago)
 - [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) -  (8 months ago)
 - [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie&#39;s Laravel Packages (8 months ago)
