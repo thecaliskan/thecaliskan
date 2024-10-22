@@ -9,9 +9,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/holidays](https://github.com/spatie/holidays) ([1.15.0](https://github.com/spatie/holidays/releases/tag/1.15.0), 2 days ago) - Calculate which days you don&#39;t have to work!
-- [spatie/server-side-rendering](https://github.com/spatie/server-side-rendering) ([0.4.0](https://github.com/spatie/server-side-rendering/releases/tag/0.4.0), 3 days ago) - Server side rendering JavaScript in a PHP application
-- [spatie/ssh](https://github.com/spatie/ssh) ([1.11.0](https://github.com/spatie/ssh/releases/tag/1.11.0), 3 days ago) - A lightweight package to execute commands over an SSH connection
+- [spatie/holidays](https://github.com/spatie/holidays) ([1.15.0](https://github.com/spatie/holidays/releases/tag/1.15.0), 3 days ago) - Calculate which days you don&#39;t have to work!
+- [spatie/server-side-rendering](https://github.com/spatie/server-side-rendering) ([0.4.0](https://github.com/spatie/server-side-rendering/releases/tag/0.4.0), 4 days ago) - Server side rendering JavaScript in a PHP application
+- [spatie/ssh](https://github.com/spatie/ssh) ([1.11.0](https://github.com/spatie/ssh/releases/tag/1.11.0), 4 days ago) - A lightweight package to execute commands over an SSH connection
 - [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.2](https://github.com/composer/ca-bundle/releases/tag/1.5.2), 3 weeks ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
 - [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.7.0](https://github.com/spatie/db-dumper/releases/tag/3.7.0), 4 weeks ago) - Dump the contents of a database
 
@@ -19,7 +19,7 @@
 
 - [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website) - The website of FrankenPHP (3 months ago)
 - [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (5 months ago)
-- [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) - Laravel Stock, Forex, Crypto Data API (7 months ago)
+- [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) - Laravel Stock, Forex, Crypto Data API (8 months ago)
 - [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) -  (8 months ago)
 - [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie&#39;s Laravel Packages (8 months ago)
 
