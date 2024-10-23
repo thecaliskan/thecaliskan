@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/holidays](https://github.com/spatie/holidays) ([1.15.0](https://github.com/spatie/holidays/releases/tag/1.15.0), 3 days ago) - Calculate which days you don&#39;t have to work!
-- [spatie/server-side-rendering](https://github.com/spatie/server-side-rendering) ([0.4.0](https://github.com/spatie/server-side-rendering/releases/tag/0.4.0), 4 days ago) - Server side rendering JavaScript in a PHP application
-- [spatie/ssh](https://github.com/spatie/ssh) ([1.11.0](https://github.com/spatie/ssh/releases/tag/1.11.0), 4 days ago) - A lightweight package to execute commands over an SSH connection
-- [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.2](https://github.com/composer/ca-bundle/releases/tag/1.5.2), 3 weeks ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
-- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.7.0](https://github.com/spatie/db-dumper/releases/tag/3.7.0), 4 weeks ago) - Dump the contents of a database
+- [spatie/holidays](https://github.com/spatie/holidays) ([1.15.0](https://github.com/spatie/holidays/releases/tag/1.15.0), 4 days ago) - Calculate which days you don&#39;t have to work!
+- [spatie/server-side-rendering](https://github.com/spatie/server-side-rendering) ([0.4.0](https://github.com/spatie/server-side-rendering/releases/tag/0.4.0), 5 days ago) - Server side rendering JavaScript in a PHP application
+- [spatie/ssh](https://github.com/spatie/ssh) ([1.11.0](https://github.com/spatie/ssh/releases/tag/1.11.0), 5 days ago) - A lightweight package to execute commands over an SSH connection
+- [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.2](https://github.com/composer/ca-bundle/releases/tag/1.5.2), 4 weeks ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
+- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.7.0](https://github.com/spatie/db-dumper/releases/tag/3.7.0), 1 month ago) - Dump the contents of a database
 
 #### 👷 Check out what I'm currently working on
 
