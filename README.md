@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gitonomy/gitlib](https://github.com/gitonomy/gitlib) ([v1.5.0](https://github.com/gitonomy/gitlib/releases/tag/v1.5.0), today) - Library for accessing Git repositories with PHP
+- [gitonomy/gitlib](https://github.com/gitonomy/gitlib) ([v1.5.0](https://github.com/gitonomy/gitlib/releases/tag/v1.5.0), 1 day ago) - Library for accessing Git repositories with PHP
 - [spatie/holidays](https://github.com/spatie/holidays) ([1.15.0](https://github.com/spatie/holidays/releases/tag/1.15.0), 2 weeks ago) - Calculate which days you don&#39;t have to work!
 - [spatie/server-side-rendering](https://github.com/spatie/server-side-rendering) ([0.4.0](https://github.com/spatie/server-side-rendering/releases/tag/0.4.0), 2 weeks ago) - Server side rendering JavaScript in a PHP application
 - [spatie/ssh](https://github.com/spatie/ssh) ([1.11.0](https://github.com/spatie/ssh/releases/tag/1.11.0), 2 weeks ago) - A lightweight package to execute commands over an SSH connection
