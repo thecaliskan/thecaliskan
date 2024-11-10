@@ -9,9 +9,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/ssh](https://github.com/spatie/ssh) ([1.12.0](https://github.com/spatie/ssh/releases/tag/1.12.0), 2 days ago) - A lightweight package to execute commands over an SSH connection
-- [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.3](https://github.com/composer/ca-bundle/releases/tag/1.5.3), 5 days ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
-- [gitonomy/gitlib](https://github.com/gitonomy/gitlib) ([v1.5.0](https://github.com/gitonomy/gitlib/releases/tag/v1.5.0), 6 days ago) - Library for accessing Git repositories with PHP
+- [spatie/ssh](https://github.com/spatie/ssh) ([1.12.0](https://github.com/spatie/ssh/releases/tag/1.12.0), 3 days ago) - A lightweight package to execute commands over an SSH connection
+- [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.3](https://github.com/composer/ca-bundle/releases/tag/1.5.3), 6 days ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
+- [gitonomy/gitlib](https://github.com/gitonomy/gitlib) ([v1.5.0](https://github.com/gitonomy/gitlib/releases/tag/v1.5.0), 1 week ago) - Library for accessing Git repositories with PHP
 - [spatie/holidays](https://github.com/spatie/holidays) ([1.15.0](https://github.com/spatie/holidays/releases/tag/1.15.0), 3 weeks ago) - Calculate which days you don&#39;t have to work!
 - [spatie/server-side-rendering](https://github.com/spatie/server-side-rendering) ([0.4.0](https://github.com/spatie/server-side-rendering/releases/tag/0.4.0), 3 weeks ago) - Server side rendering JavaScript in a PHP application
 
