@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/x-ray](https://github.com/spatie/x-ray) ([1.2.0](https://github.com/spatie/x-ray/releases/tag/1.2.0), today) - Scan source code for calls to ray() and related calls.
+- [spatie/server-side-rendering](https://github.com/spatie/server-side-rendering) ([0.4.1](https://github.com/spatie/server-side-rendering/releases/tag/0.4.1), today) - Server side rendering JavaScript in a PHP application
 - [spatie/commonmark-shiki-highlighter](https://github.com/spatie/commonmark-shiki-highlighter) ([2.5.0](https://github.com/spatie/commonmark-shiki-highlighter/releases/tag/2.5.0), today) - Highlight code blocks with league/commonmark and Shiki
 - [spatie/ssh](https://github.com/spatie/ssh) ([1.12.0](https://github.com/spatie/ssh/releases/tag/1.12.0), 5 days ago) - A lightweight package to execute commands over an SSH connection
 - [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.3](https://github.com/composer/ca-bundle/releases/tag/1.5.3), 1 week ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
-- [gitonomy/gitlib](https://github.com/gitonomy/gitlib) ([v1.5.0](https://github.com/gitonomy/gitlib/releases/tag/v1.5.0), 1 week ago) - Library for accessing Git repositories with PHP
-- [spatie/holidays](https://github.com/spatie/holidays) ([1.15.0](https://github.com/spatie/holidays/releases/tag/1.15.0), 3 weeks ago) - Calculate which days you don&#39;t have to work!
 
 #### 👷 Check out what I'm currently working on
 
