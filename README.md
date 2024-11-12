@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-FFMpeg/PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) ([v1.3.0](https://github.com/PHP-FFMpeg/PHP-FFMpeg/releases/tag/v1.3.0), today) - An object oriented PHP driver for FFMpeg binary
 - [spatie/x-ray](https://github.com/spatie/x-ray) ([1.2.0](https://github.com/spatie/x-ray/releases/tag/1.2.0), today) - Scan source code for calls to ray() and related calls.
 - [spatie/server-side-rendering](https://github.com/spatie/server-side-rendering) ([0.4.1](https://github.com/spatie/server-side-rendering/releases/tag/0.4.1), today) - Server side rendering JavaScript in a PHP application
 - [spatie/commonmark-shiki-highlighter](https://github.com/spatie/commonmark-shiki-highlighter) ([2.5.0](https://github.com/spatie/commonmark-shiki-highlighter/releases/tag/2.5.0), today) - Highlight code blocks with league/commonmark and Shiki
 - [spatie/ssh](https://github.com/spatie/ssh) ([1.12.0](https://github.com/spatie/ssh/releases/tag/1.12.0), 5 days ago) - A lightweight package to execute commands over an SSH connection
-- [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.3](https://github.com/composer/ca-bundle/releases/tag/1.5.3), 1 week ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
 
 #### 👷 Check out what I'm currently working on
 
