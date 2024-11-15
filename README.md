@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.0](https://github.com/dunglas/frankenphp/releases/tag/v1.3.0), 1 day ago) - 🧟 The modern PHP app server
-- [PHP-FFMpeg/PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) ([v1.3.0](https://github.com/PHP-FFMpeg/PHP-FFMpeg/releases/tag/v1.3.0), 2 days ago) - An object oriented PHP driver for FFMpeg binary
-- [spatie/x-ray](https://github.com/spatie/x-ray) ([1.2.0](https://github.com/spatie/x-ray/releases/tag/1.2.0), 2 days ago) - Scan source code for calls to ray() and related calls.
-- [spatie/server-side-rendering](https://github.com/spatie/server-side-rendering) ([0.4.1](https://github.com/spatie/server-side-rendering/releases/tag/0.4.1), 2 days ago) - Server side rendering JavaScript in a PHP application
-- [spatie/commonmark-shiki-highlighter](https://github.com/spatie/commonmark-shiki-highlighter) ([2.5.0](https://github.com/spatie/commonmark-shiki-highlighter/releases/tag/2.5.0), 2 days ago) - Highlight code blocks with league/commonmark and Shiki
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.1](https://github.com/dunglas/frankenphp/releases/tag/v1.3.1), 1 day ago) - 🧟 The modern PHP app server
+- [PHP-FFMpeg/PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) ([v1.3.0](https://github.com/PHP-FFMpeg/PHP-FFMpeg/releases/tag/v1.3.0), 3 days ago) - An object oriented PHP driver for FFMpeg binary
+- [spatie/x-ray](https://github.com/spatie/x-ray) ([1.2.0](https://github.com/spatie/x-ray/releases/tag/1.2.0), 3 days ago) - Scan source code for calls to ray() and related calls.
+- [spatie/server-side-rendering](https://github.com/spatie/server-side-rendering) ([0.4.1](https://github.com/spatie/server-side-rendering/releases/tag/0.4.1), 3 days ago) - Server side rendering JavaScript in a PHP application
+- [spatie/commonmark-shiki-highlighter](https://github.com/spatie/commonmark-shiki-highlighter) ([2.5.0](https://github.com/spatie/commonmark-shiki-highlighter/releases/tag/2.5.0), 3 days ago) - Highlight code blocks with league/commonmark and Shiki
 
 #### 👷 Check out what I'm currently working on
 
