@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.7.1](https://github.com/spatie/db-dumper/releases/tag/3.7.1), today) - Dump the contents of a database
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.1](https://github.com/dunglas/frankenphp/releases/tag/v1.3.1), 4 days ago) - 🧟 The modern PHP app server
-- [PHP-FFMpeg/PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) ([v1.3.0](https://github.com/PHP-FFMpeg/PHP-FFMpeg/releases/tag/v1.3.0), 6 days ago) - An object oriented PHP driver for FFMpeg binary
-- [spatie/x-ray](https://github.com/spatie/x-ray) ([1.2.0](https://github.com/spatie/x-ray/releases/tag/1.2.0), 6 days ago) - Scan source code for calls to ray() and related calls.
-- [spatie/server-side-rendering](https://github.com/spatie/server-side-rendering) ([0.4.1](https://github.com/spatie/server-side-rendering/releases/tag/0.4.1), 6 days ago) - Server side rendering JavaScript in a PHP application
+- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.7.1](https://github.com/spatie/db-dumper/releases/tag/3.7.1), 1 day ago) - Dump the contents of a database
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.1](https://github.com/dunglas/frankenphp/releases/tag/v1.3.1), 5 days ago) - 🧟 The modern PHP app server
+- [PHP-FFMpeg/PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) ([v1.3.0](https://github.com/PHP-FFMpeg/PHP-FFMpeg/releases/tag/v1.3.0), 1 week ago) - An object oriented PHP driver for FFMpeg binary
+- [spatie/x-ray](https://github.com/spatie/x-ray) ([1.2.0](https://github.com/spatie/x-ray/releases/tag/1.2.0), 1 week ago) - Scan source code for calls to ray() and related calls.
+- [spatie/server-side-rendering](https://github.com/spatie/server-side-rendering) ([0.4.1](https://github.com/spatie/server-side-rendering/releases/tag/0.4.1), 1 week ago) - Server side rendering JavaScript in a PHP application
 
 #### 👷 Check out what I'm currently working on
 
