@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.4](https://github.com/composer/ca-bundle/releases/tag/1.5.4), today) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
 - [spatie/browsershot](https://github.com/spatie/browsershot) ([5.0.0](https://github.com/spatie/browsershot/releases/tag/5.0.0), 2 days ago) - Convert HTML to an image, PDF or string
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.2](https://github.com/dunglas/frankenphp/releases/tag/v1.3.2), 4 days ago) - 🧟 The modern PHP app server
 - [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.7.1](https://github.com/spatie/db-dumper/releases/tag/3.7.1), 1 week ago) - Dump the contents of a database
 - [PHP-FFMpeg/PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) ([v1.3.0](https://github.com/PHP-FFMpeg/PHP-FFMpeg/releases/tag/v1.3.0), 2 weeks ago) - An object oriented PHP driver for FFMpeg binary
-- [spatie/x-ray](https://github.com/spatie/x-ray) ([1.2.0](https://github.com/spatie/x-ray/releases/tag/1.2.0), 2 weeks ago) - Scan source code for calls to ray() and related calls.
 
 #### 👷 Check out what I'm currently working on
 
