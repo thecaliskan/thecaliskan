@@ -9,10 +9,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.3](https://github.com/dunglas/frankenphp/releases/tag/v1.3.3), 2 days ago) - 🧟 The modern PHP app server
-- [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.4](https://github.com/composer/ca-bundle/releases/tag/1.5.4), 4 days ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
-- [spatie/browsershot](https://github.com/spatie/browsershot) ([5.0.0](https://github.com/spatie/browsershot/releases/tag/5.0.0), 6 days ago) - Convert HTML to an image, PDF or string
-- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.7.1](https://github.com/spatie/db-dumper/releases/tag/3.7.1), 1 week ago) - Dump the contents of a database
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.3](https://github.com/dunglas/frankenphp/releases/tag/v1.3.3), 3 days ago) - 🧟 The modern PHP app server
+- [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.4](https://github.com/composer/ca-bundle/releases/tag/1.5.4), 5 days ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
+- [spatie/browsershot](https://github.com/spatie/browsershot) ([5.0.0](https://github.com/spatie/browsershot/releases/tag/5.0.0), 1 week ago) - Convert HTML to an image, PDF or string
+- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.7.1](https://github.com/spatie/db-dumper/releases/tag/3.7.1), 2 weeks ago) - Dump the contents of a database
 - [PHP-FFMpeg/PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) ([v1.3.0](https://github.com/PHP-FFMpeg/PHP-FFMpeg/releases/tag/v1.3.0), 2 weeks ago) - An object oriented PHP driver for FFMpeg binary
 
 #### 👷 Check out what I'm currently working on
