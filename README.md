@@ -9,10 +9,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dompdf/dompdf](https://github.com/dompdf/dompdf) ([v3.0.1](https://github.com/dompdf/dompdf/releases/tag/v3.0.1), today) - HTML to PDF converter for PHP
-- [spatie/ray](https://github.com/spatie/ray) ([1.41.3](https://github.com/spatie/ray/releases/tag/1.41.3), 3 days ago) - Debug with Ray to fix problems faster
-- [spatie/crawler](https://github.com/spatie/crawler) ([8.3.0](https://github.com/spatie/crawler/releases/tag/8.3.0), 3 days ago) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.3](https://github.com/dunglas/frankenphp/releases/tag/v1.3.3), 6 days ago) - 🧟 The modern PHP app server
+- [dompdf/dompdf](https://github.com/dompdf/dompdf) ([v3.0.1](https://github.com/dompdf/dompdf/releases/tag/v3.0.1), 1 day ago) - HTML to PDF converter for PHP
+- [spatie/ray](https://github.com/spatie/ray) ([1.41.3](https://github.com/spatie/ray/releases/tag/1.41.3), 4 days ago) - Debug with Ray to fix problems faster
+- [spatie/crawler](https://github.com/spatie/crawler) ([8.3.0](https://github.com/spatie/crawler/releases/tag/8.3.0), 4 days ago) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.3](https://github.com/dunglas/frankenphp/releases/tag/v1.3.3), 1 week ago) - 🧟 The modern PHP app server
 - [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.4](https://github.com/composer/ca-bundle/releases/tag/1.5.4), 1 week ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
 
 #### 👷 Check out what I'm currently working on
