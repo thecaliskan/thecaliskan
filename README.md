@@ -9,8 +9,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/ray](https://github.com/spatie/ray) ([1.41.4](https://github.com/spatie/ray/releases/tag/1.41.4), today) - Debug with Ray to fix problems faster
 - [dompdf/dompdf](https://github.com/dompdf/dompdf) ([v3.0.1](https://github.com/dompdf/dompdf/releases/tag/v3.0.1), 4 days ago) - HTML to PDF converter for PHP
-- [spatie/ray](https://github.com/spatie/ray) ([1.41.3](https://github.com/spatie/ray/releases/tag/1.41.3), 1 week ago) - Debug with Ray to fix problems faster
 - [spatie/crawler](https://github.com/spatie/crawler) ([8.3.0](https://github.com/spatie/crawler/releases/tag/8.3.0), 1 week ago) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.3](https://github.com/dunglas/frankenphp/releases/tag/v1.3.3), 1 week ago) - 🧟 The modern PHP app server
 - [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.4](https://github.com/composer/ca-bundle/releases/tag/1.5.4), 1 week ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
