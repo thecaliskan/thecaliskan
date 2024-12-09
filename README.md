@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/mailcoach-mailer](https://github.com/spatie/mailcoach-mailer) ([1.3.0](https://github.com/spatie/mailcoach-mailer/releases/tag/1.3.0), today) - The Mailcoach transport for Symfony Mailer
 - [spatie/crawler](https://github.com/spatie/crawler) ([8.3.1](https://github.com/spatie/crawler/releases/tag/8.3.1), today) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
 - [spatie/ray](https://github.com/spatie/ray) ([1.41.4](https://github.com/spatie/ray/releases/tag/1.41.4), today) - Debug with Ray to fix problems faster
 - [dompdf/dompdf](https://github.com/dompdf/dompdf) ([v3.0.1](https://github.com/dompdf/dompdf/releases/tag/v3.0.1), 4 days ago) - HTML to PDF converter for PHP
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.3](https://github.com/dunglas/frankenphp/releases/tag/v1.3.3), 1 week ago) - 🧟 The modern PHP app server
-- [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.4](https://github.com/composer/ca-bundle/releases/tag/1.5.4), 1 week ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
 
 #### 👷 Check out what I'm currently working on
 
