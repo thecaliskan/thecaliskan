@@ -9,10 +9,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/mailcoach-mailer](https://github.com/spatie/mailcoach-mailer) ([1.3.0](https://github.com/spatie/mailcoach-mailer/releases/tag/1.3.0), 1 day ago) - The Mailcoach transport for Symfony Mailer
-- [spatie/crawler](https://github.com/spatie/crawler) ([8.3.1](https://github.com/spatie/crawler/releases/tag/8.3.1), 1 day ago) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
-- [spatie/ray](https://github.com/spatie/ray) ([1.41.4](https://github.com/spatie/ray/releases/tag/1.41.4), 1 day ago) - Debug with Ray to fix problems faster
-- [dompdf/dompdf](https://github.com/dompdf/dompdf) ([v3.0.1](https://github.com/dompdf/dompdf/releases/tag/v3.0.1), 5 days ago) - HTML to PDF converter for PHP
+- [spatie/mailcoach-mailer](https://github.com/spatie/mailcoach-mailer) ([1.3.0](https://github.com/spatie/mailcoach-mailer/releases/tag/1.3.0), 2 days ago) - The Mailcoach transport for Symfony Mailer
+- [spatie/crawler](https://github.com/spatie/crawler) ([8.3.1](https://github.com/spatie/crawler/releases/tag/8.3.1), 2 days ago) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
+- [spatie/ray](https://github.com/spatie/ray) ([1.41.4](https://github.com/spatie/ray/releases/tag/1.41.4), 2 days ago) - Debug with Ray to fix problems faster
+- [dompdf/dompdf](https://github.com/dompdf/dompdf) ([v3.0.1](https://github.com/dompdf/dompdf/releases/tag/v3.0.1), 6 days ago) - HTML to PDF converter for PHP
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.3](https://github.com/dunglas/frankenphp/releases/tag/v1.3.3), 1 week ago) - 🧟 The modern PHP app server
 
 #### 👷 Check out what I'm currently working on
