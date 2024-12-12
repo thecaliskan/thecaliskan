@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/global-ray](https://github.com/spatie/global-ray) ([1.1.3](https://github.com/spatie/global-ray/releases/tag/1.1.3), today) - Enable Ray in all PHP files on your system
-- [spatie/browsershot](https://github.com/spatie/browsershot) ([5.0.1](https://github.com/spatie/browsershot/releases/tag/5.0.1), today) - Convert HTML to an image, PDF or string
-- [spatie/mailcoach-mailer](https://github.com/spatie/mailcoach-mailer) ([1.3.0](https://github.com/spatie/mailcoach-mailer/releases/tag/1.3.0), 2 days ago) - The Mailcoach transport for Symfony Mailer
-- [spatie/crawler](https://github.com/spatie/crawler) ([8.3.1](https://github.com/spatie/crawler/releases/tag/8.3.1), 2 days ago) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
-- [spatie/ray](https://github.com/spatie/ray) ([1.41.4](https://github.com/spatie/ray/releases/tag/1.41.4), 2 days ago) - Debug with Ray to fix problems faster
+- [spatie/global-ray](https://github.com/spatie/global-ray) ([1.1.3](https://github.com/spatie/global-ray/releases/tag/1.1.3), 1 day ago) - Enable Ray in all PHP files on your system
+- [spatie/browsershot](https://github.com/spatie/browsershot) ([5.0.1](https://github.com/spatie/browsershot/releases/tag/5.0.1), 1 day ago) - Convert HTML to an image, PDF or string
+- [spatie/mailcoach-mailer](https://github.com/spatie/mailcoach-mailer) ([1.3.0](https://github.com/spatie/mailcoach-mailer/releases/tag/1.3.0), 3 days ago) - The Mailcoach transport for Symfony Mailer
+- [spatie/crawler](https://github.com/spatie/crawler) ([8.3.1](https://github.com/spatie/crawler/releases/tag/8.3.1), 3 days ago) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
+- [spatie/ray](https://github.com/spatie/ray) ([1.41.4](https://github.com/spatie/ray/releases/tag/1.41.4), 3 days ago) - Debug with Ray to fix problems faster
 
 #### 👷 Check out what I'm currently working on
 
