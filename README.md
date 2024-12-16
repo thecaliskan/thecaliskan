@@ -10,10 +10,10 @@
 #### 🔭 Latest releases I've contributed to
 
 - [spatie/crawler](https://github.com/spatie/crawler) ([8.4.0](https://github.com/spatie/crawler/releases/tag/8.4.0), today) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
-- [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.2.1](https://github.com/spatie/php-structure-discoverer/releases/tag/2.2.1), today) - Automatically discover classes within your PHP application
-- [spatie/browsershot](https://github.com/spatie/browsershot) ([5.0.3](https://github.com/spatie/browsershot/releases/tag/5.0.3), today) - Convert HTML to an image, PDF or string
-- [spatie/global-ray](https://github.com/spatie/global-ray) ([1.1.3](https://github.com/spatie/global-ray/releases/tag/1.1.3), 5 days ago) - Enable Ray in all PHP files on your system
-- [spatie/mailcoach-mailer](https://github.com/spatie/mailcoach-mailer) ([1.3.0](https://github.com/spatie/mailcoach-mailer/releases/tag/1.3.0), 1 week ago) - The Mailcoach transport for Symfony Mailer
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.3](https://github.com/dunglas/frankenphp/releases/tag/v1.3.3), 2 weeks ago) - 🧟 The modern PHP app server
+- [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.4](https://github.com/composer/ca-bundle/releases/tag/1.5.4), 2 weeks ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
+- [PHP-FFMpeg/PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) ([v1.3.0](https://github.com/PHP-FFMpeg/PHP-FFMpeg/releases/tag/v1.3.0), 1 month ago) - An object oriented PHP driver for FFMpeg binary
+- [spatie/x-ray](https://github.com/spatie/x-ray) ([1.2.0](https://github.com/spatie/x-ray/releases/tag/1.2.0), 1 month ago) - Scan source code for calls to ray() and related calls.
 
 #### 👷 Check out what I'm currently working on
 
