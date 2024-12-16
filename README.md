@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/crawler](https://github.com/spatie/crawler) ([8.4.0](https://github.com/spatie/crawler/releases/tag/8.4.0), today) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
 - [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.2.1](https://github.com/spatie/php-structure-discoverer/releases/tag/2.2.1), today) - Automatically discover classes within your PHP application
 - [spatie/browsershot](https://github.com/spatie/browsershot) ([5.0.3](https://github.com/spatie/browsershot/releases/tag/5.0.3), today) - Convert HTML to an image, PDF or string
 - [spatie/global-ray](https://github.com/spatie/global-ray) ([1.1.3](https://github.com/spatie/global-ray/releases/tag/1.1.3), 5 days ago) - Enable Ray in all PHP files on your system
 - [spatie/mailcoach-mailer](https://github.com/spatie/mailcoach-mailer) ([1.3.0](https://github.com/spatie/mailcoach-mailer/releases/tag/1.3.0), 1 week ago) - The Mailcoach transport for Symfony Mailer
-- [spatie/crawler](https://github.com/spatie/crawler) ([8.3.1](https://github.com/spatie/crawler/releases/tag/8.3.1), 1 week ago) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
 
 #### 👷 Check out what I'm currently working on
 
