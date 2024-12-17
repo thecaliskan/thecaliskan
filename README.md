@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/crawler](https://github.com/spatie/crawler) ([8.4.0](https://github.com/spatie/crawler/releases/tag/8.4.0), today) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
+- [spatie/crawler](https://github.com/spatie/crawler) ([8.4.0](https://github.com/spatie/crawler/releases/tag/8.4.0), 1 day ago) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.3](https://github.com/dunglas/frankenphp/releases/tag/v1.3.3), 2 weeks ago) - 🧟 The modern PHP app server
 - [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.4](https://github.com/composer/ca-bundle/releases/tag/1.5.4), 2 weeks ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
 - [PHP-FFMpeg/PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) ([v1.3.0](https://github.com/PHP-FFMpeg/PHP-FFMpeg/releases/tag/v1.3.0), 1 month ago) - An object oriented PHP driver for FFMpeg binary
