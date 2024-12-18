@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/crawler](https://github.com/spatie/crawler) ([8.4.0](https://github.com/spatie/crawler/releases/tag/8.4.0), 2 days ago) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.3](https://github.com/dunglas/frankenphp/releases/tag/v1.3.3), 2 weeks ago) - 🧟 The modern PHP app server
-- [composer/ca-bundle](https://github.com/composer/ca-bundle) ([1.5.4](https://github.com/composer/ca-bundle/releases/tag/1.5.4), 3 weeks ago) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
 - [PHP-FFMpeg/PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) ([v1.3.0](https://github.com/PHP-FFMpeg/PHP-FFMpeg/releases/tag/v1.3.0), 1 month ago) - An object oriented PHP driver for FFMpeg binary
-- [spatie/x-ray](https://github.com/spatie/x-ray) ([1.2.0](https://github.com/spatie/x-ray/releases/tag/1.2.0), 1 month ago) - Scan source code for calls to ray() and related calls.
+- [gitonomy/gitlib](https://github.com/gitonomy/gitlib) ([v1.5.0](https://github.com/gitonomy/gitlib/releases/tag/v1.5.0), 1 month ago) - Library for accessing Git repositories with PHP
+- [spatie/holidays](https://github.com/spatie/holidays) ([1.15.0](https://github.com/spatie/holidays/releases/tag/1.15.0), 2 months ago) - Calculate which days you don&#39;t have to work!
+- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) ([v1.0.1](https://github.com/thecaliskan/proxy-api/releases/tag/v1.0.1), 7 months ago) - Proxy API for HTTP Request
 
 #### 👷 Check out what I'm currently working on
 
