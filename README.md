@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/holidays](https://github.com/spatie/holidays) ([1.16.0](https://github.com/spatie/holidays/releases/tag/1.16.0), today) - Calculate which days you don&#39;t have to work!
+- [spatie/holidays](https://github.com/spatie/holidays) ([1.16.0](https://github.com/spatie/holidays/releases/tag/1.16.0), 1 day ago) - Calculate which days you don&#39;t have to work!
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.3](https://github.com/dunglas/frankenphp/releases/tag/v1.3.3), 2 weeks ago) - 🧟 The modern PHP app server
 - [PHP-FFMpeg/PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) ([v1.3.0](https://github.com/PHP-FFMpeg/PHP-FFMpeg/releases/tag/v1.3.0), 1 month ago) - An object oriented PHP driver for FFMpeg binary
 - [gitonomy/gitlib](https://github.com/gitonomy/gitlib) ([v1.5.0](https://github.com/gitonomy/gitlib/releases/tag/v1.5.0), 1 month ago) - Library for accessing Git repositories with PHP
