@@ -20,7 +20,7 @@
 - [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website) - The website of FrankenPHP (6 months ago)
 - [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (7 months ago)
 - [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) - Laravel Stock, Forex, Crypto Data API (10 months ago)
-- [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) -  (10 months ago)
+- [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) -  (11 months ago)
 - [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie&#39;s Laravel Packages (11 months ago)
 
 #### 🌱 My latest projects
