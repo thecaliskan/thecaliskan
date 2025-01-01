@@ -33,11 +33,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [fbwv](https://github.com/fbwv)
 - [danskycode](https://github.com/danskycode)
 - [nilportugues](https://github.com/nilportugues)
 - [luu123](https://github.com/luu123)
 - [onursimsek](https://github.com/onursimsek)
-- [RazielRodrigues](https://github.com/RazielRodrigues)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/thecaliskan) (thank you!)
 
