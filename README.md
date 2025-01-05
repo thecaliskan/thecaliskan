@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ebess/advanced-nova-media-library](https://github.com/ebess/advanced-nova-media-library) ([4.3](https://github.com/ebess/advanced-nova-media-library/releases/tag/4.3), 2 days ago) - A Laravel Nova field for displaying, creating, updating and ordering a Spatie Media Library model.
+- [ebess/advanced-nova-media-library](https://github.com/ebess/advanced-nova-media-library) ([5.0](https://github.com/ebess/advanced-nova-media-library/releases/tag/5.0), today) - A Laravel Nova field for displaying, creating, updating and ordering a Spatie Media Library model.
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.11.6](https://github.com/Laravel-Lang/lang/releases/tag/15.11.6), 4 days ago) - List of 126 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
 - [spatie/holidays](https://github.com/spatie/holidays) ([1.17.0](https://github.com/spatie/holidays/releases/tag/1.17.0), 6 days ago) - Calculate which days you don&#39;t have to work!
 - [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) ([v1.0.1](https://github.com/thecaliskan/proxy-api/releases/tag/v1.0.1), 7 months ago) - Proxy API for HTTP Request
