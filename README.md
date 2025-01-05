@@ -12,8 +12,8 @@
 - [ebess/advanced-nova-media-library](https://github.com/ebess/advanced-nova-media-library) ([4.3](https://github.com/ebess/advanced-nova-media-library/releases/tag/4.3), 2 days ago) - A Laravel Nova field for displaying, creating, updating and ordering a Spatie Media Library model.
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.11.6](https://github.com/Laravel-Lang/lang/releases/tag/15.11.6), 4 days ago) - List of 126 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
 - [spatie/holidays](https://github.com/spatie/holidays) ([1.17.0](https://github.com/spatie/holidays/releases/tag/1.17.0), 6 days ago) - Calculate which days you don&#39;t have to work!
-- [gitonomy/gitlib](https://github.com/gitonomy/gitlib) ([v1.5.0](https://github.com/gitonomy/gitlib/releases/tag/v1.5.0), 2 months ago) - Library for accessing Git repositories with PHP
 - [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) ([v1.0.1](https://github.com/thecaliskan/proxy-api/releases/tag/v1.0.1), 7 months ago) - Proxy API for HTTP Request
+- [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) ([1.1.0](https://github.com/thecaliskan/laravel-stock/releases/tag/1.1.0), 8 months ago) - Laravel Stock, Forex, Crypto Data API
 
 #### 👷 Check out what I'm currently working on
 
