@@ -9,8 +9,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.11.7](https://github.com/Laravel-Lang/lang/releases/tag/15.11.7), 4 days ago) - List of 126 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
-- [ebess/advanced-nova-media-library](https://github.com/ebess/advanced-nova-media-library) ([4.4.1](https://github.com/ebess/advanced-nova-media-library/releases/tag/4.4.1), 6 days ago) - A Laravel Nova field for displaying, creating, updating and ordering a Spatie Media Library model.
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.11.7](https://github.com/Laravel-Lang/lang/releases/tag/15.11.7), 5 days ago) - List of 126 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
+- [ebess/advanced-nova-media-library](https://github.com/ebess/advanced-nova-media-library) ([4.4.1](https://github.com/ebess/advanced-nova-media-library/releases/tag/4.4.1), 1 week ago) - A Laravel Nova field for displaying, creating, updating and ordering a Spatie Media Library model.
 - [spatie/holidays](https://github.com/spatie/holidays) ([1.17.0](https://github.com/spatie/holidays/releases/tag/1.17.0), 2 weeks ago) - Calculate which days you don&#39;t have to work!
 - [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) ([v1.0.1](https://github.com/thecaliskan/proxy-api/releases/tag/v1.0.1), 7 months ago) - Proxy API for HTTP Request
 - [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) ([1.1.0](https://github.com/thecaliskan/laravel-stock/releases/tag/1.1.0), 8 months ago) - Laravel Stock, Forex, Crypto Data API
@@ -20,7 +20,7 @@
 - [ebess/advanced-nova-media-library](https://github.com/ebess/advanced-nova-media-library) - A Laravel Nova field for displaying, creating, updating and ordering a Spatie Media Library model. (1 week ago)
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 126 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI. (2 weeks ago)
 - [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website) - The website of FrankenPHP (6 months ago)
-- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (7 months ago)
+- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (8 months ago)
 - [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) - Laravel Stock, Forex, Crypto Data API (10 months ago)
 
 #### 🌱 My latest projects
