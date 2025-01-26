@@ -2,7 +2,7 @@
 
 #### 📜 My recent [blog posts](https://caliskanemre.medium.com/)
 
-- [Wars of Symfony Runtimes: A Performance Odyssey](https://medium.com/beyn-technology/wars-of-symfony-runtimes-a-performance-odyssey-7b0120e8f9e1?source=rss-cf41ab240584------2) (11 months ago)
+- [Wars of Symfony Runtimes: A Performance Odyssey](https://medium.com/beyn-technology/wars-of-symfony-runtimes-a-performance-odyssey-7b0120e8f9e1?source=rss-cf41ab240584------2) (1 year ago)
 - [Hola FrankenPHP! Laravel Octane Servers Comparison: Pushing the Boundaries of Performance](https://medium.com/beyn-technology/hola-frankenphp-laravel-octane-servers-comparison-pushing-the-boundaries-of-performance-d3e7ad8e652c?source=rss-cf41ab240584------2) (1 year ago)
 - [Is Nginx dead? Is Traefik v3 20% faster than Traefik v2?](https://medium.com/beyn-technology/is-nginx-dead-is-traefik-v3-20-faster-than-traefik-v2-f28ffb7eed3e?source=rss-cf41ab240584------2) (2 years ago)
 - [Serving High Performance the Symfony App with Swoole/Docker](https://medium.com/beyn-technology/serving-high-performance-the-symfony-app-with-swoole-docker-758d8f176889?source=rss-cf41ab240584------2) (2 years ago)
