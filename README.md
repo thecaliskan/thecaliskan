@@ -9,14 +9,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.12.0](https://github.com/Laravel-Lang/lang/releases/tag/15.12.0), 2 days ago) - List of 126 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.12.0](https://github.com/Laravel-Lang/lang/releases/tag/15.12.0), 3 days ago) - List of 126 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
 - [ebess/advanced-nova-media-library](https://github.com/ebess/advanced-nova-media-library) ([4.4.1](https://github.com/ebess/advanced-nova-media-library/releases/tag/4.4.1), 3 weeks ago) - A Laravel Nova field for displaying, creating, updating and ordering a Spatie Media Library model.
 - [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) ([v1.0.1](https://github.com/thecaliskan/proxy-api/releases/tag/v1.0.1), 8 months ago) - Proxy API for HTTP Request
 - [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) ([1.1.0](https://github.com/thecaliskan/laravel-stock/releases/tag/1.1.0), 9 months ago) - Laravel Stock, Forex, Crypto Data API
 
 #### 👷 Check out what I'm currently working on
 
-- [ebess/advanced-nova-media-library](https://github.com/ebess/advanced-nova-media-library) - A Laravel Nova field for displaying, creating, updating and ordering a Spatie Media Library model. (3 weeks ago)
+- [ebess/advanced-nova-media-library](https://github.com/ebess/advanced-nova-media-library) - A Laravel Nova field for displaying, creating, updating and ordering a Spatie Media Library model. (4 weeks ago)
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 126 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI. (1 month ago)
 - [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website) - The website of FrankenPHP (7 months ago)
 - [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (8 months ago)
