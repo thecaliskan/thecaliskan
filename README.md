@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.17.1](https://github.com/Laravel-Lang/lang/releases/tag/15.17.1), today) - List of 126 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.18.0](https://github.com/Laravel-Lang/lang/releases/tag/15.18.0), today) - List of 126 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
 - [ebess/advanced-nova-media-library](https://github.com/ebess/advanced-nova-media-library) ([4.4.1](https://github.com/ebess/advanced-nova-media-library/releases/tag/4.4.1), 1 month ago) - A Laravel Nova field for displaying, creating, updating and ordering a Spatie Media Library model.
 - [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) ([v1.0.1](https://github.com/thecaliskan/proxy-api/releases/tag/v1.0.1), 9 months ago) - Proxy API for HTTP Request
 - [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) ([1.1.0](https://github.com/thecaliskan/laravel-stock/releases/tag/1.1.0), 9 months ago) - Laravel Stock, Forex, Crypto Data API
