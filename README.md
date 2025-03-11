@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.19.4](https://github.com/Laravel-Lang/lang/releases/tag/15.19.4), 5 days ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.19.4](https://github.com/Laravel-Lang/lang/releases/tag/15.19.4), 6 days ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
 - [ebess/advanced-nova-media-library](https://github.com/ebess/advanced-nova-media-library) ([4.4.1](https://github.com/ebess/advanced-nova-media-library/releases/tag/4.4.1), 2 months ago) - A Laravel Nova field for displaying, creating, updating and ordering a Spatie Media Library model.
 - [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) ([v1.0.1](https://github.com/thecaliskan/proxy-api/releases/tag/v1.0.1), 9 months ago) - Proxy API for HTTP Request
 
