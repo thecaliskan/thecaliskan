@@ -15,15 +15,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - Oort Docs (today)
-- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (1 day ago)
+- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (today)
+- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (today)
 - [ebess/advanced-nova-media-library](https://github.com/ebess/advanced-nova-media-library) - A Laravel Nova field for displaying, creating, updating and ordering a Spatie Media Library model. (2 months ago)
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI. (2 months ago)
 - [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website) - The website of FrankenPHP (8 months ago)
 
 #### 🌱 My latest projects
 
-- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - Oort Docs
+- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation
 - [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request
 - [thecaliskan/laravel-stock](https://github.com/thecaliskan/laravel-stock) - Laravel Stock, Forex, Crypto Data API
 - [thecaliskan/stock-data](https://github.com/thecaliskan/stock-data) - 
