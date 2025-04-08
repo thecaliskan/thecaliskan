@@ -31,11 +31,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [devback-nexance](https://github.com/devback-nexance)
 - [chipnertkj](https://github.com/chipnertkj)
 - [umit144](https://github.com/umit144)
 - [danskycode](https://github.com/danskycode)
 - [nilportugues](https://github.com/nilportugues)
-- [luu123](https://github.com/luu123)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/thecaliskan) (thank you!)
 
