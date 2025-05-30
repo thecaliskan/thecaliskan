@@ -15,11 +15,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cinatic/stocks-extension](https://github.com/cinatic/stocks-extension) - A extension to display stock quotes in GNOME Shell Panel (1 week ago)
+- [cinatic/stocks-extension](https://github.com/cinatic/stocks-extension) - A extension to display stock quotes in GNOME Shell Panel (2 weeks ago)
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (1 month ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (2 months ago)
 - [ebess/advanced-nova-media-library](https://github.com/ebess/advanced-nova-media-library) - A Laravel Nova field for displaying, creating, updating and ordering a Spatie Media Library model. (4 months ago)
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI. (4 months ago)
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI. (5 months ago)
 
 #### 🌱 My latest projects
 
