@@ -9,9 +9,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.21.0](https://github.com/Laravel-Lang/lang/releases/tag/15.21.0), 2 days ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.0](https://github.com/symfony/http-foundation/releases/tag/v7.3.0), 6 days ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0), 6 days ago) - The Symfony PHP framework
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.21.0](https://github.com/Laravel-Lang/lang/releases/tag/15.21.0), 3 days ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.0](https://github.com/symfony/http-foundation/releases/tag/v7.3.0), 1 week ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0), 1 week ago) - The Symfony PHP framework
 - [ebess/advanced-nova-media-library](https://github.com/ebess/advanced-nova-media-library) ([5.1](https://github.com/ebess/advanced-nova-media-library/releases/tag/5.1), 2 months ago) - A Laravel Nova field for displaying, creating, updating and ordering a Spatie Media Library model.
 - [cinatic/stocks-extension](https://github.com/cinatic/stocks-extension) ([v35](https://github.com/cinatic/stocks-extension/releases/tag/v35), 8 months ago) - A extension to display stock quotes in GNOME Shell Panel
 
