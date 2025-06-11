@@ -17,11 +17,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (today)
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (today)
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) - Defines an object-oriented layer for the HTTP specification (2 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 weeks ago)
 - [cinatic/stocks-extension](https://github.com/cinatic/stocks-extension) - A extension to display stock quotes in GNOME Shell Panel (3 weeks ago)
-- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (2 months ago)
 
 #### 🌱 My latest projects
 
