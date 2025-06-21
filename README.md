@@ -13,7 +13,7 @@
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.0](https://github.com/symfony/http-foundation/releases/tag/v7.3.0), 3 weeks ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0), 3 weeks ago) - The Symfony PHP framework
 - [ebess/advanced-nova-media-library](https://github.com/ebess/advanced-nova-media-library) ([5.1](https://github.com/ebess/advanced-nova-media-library/releases/tag/5.1), 3 months ago) - A Laravel Nova field for displaying, creating, updating and ordering a Spatie Media Library model.
-- [cinatic/stocks-extension](https://github.com/cinatic/stocks-extension) ([v35](https://github.com/cinatic/stocks-extension/releases/tag/v35), 8 months ago) - A extension to display stock quotes in GNOME Shell Panel
+- [cinatic/stocks-extension](https://github.com/cinatic/stocks-extension) ([v35](https://github.com/cinatic/stocks-extension/releases/tag/v35), 9 months ago) - A extension to display stock quotes in GNOME Shell Panel
 
 #### 👷 Check out what I'm currently working on
 
