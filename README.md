@@ -33,11 +33,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [rennf93](https://github.com/rennf93)
 - [devback-nexance](https://github.com/devback-nexance)
 - [chipnertkj](https://github.com/chipnertkj)
 - [umit144](https://github.com/umit144)
 - [danskycode](https://github.com/danskycode)
-- [nilportugues](https://github.com/nilportugues)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/thecaliskan) (thank you!)
 
