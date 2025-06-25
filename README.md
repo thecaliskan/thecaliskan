@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.22.2](https://github.com/Laravel-Lang/lang/releases/tag/15.22.2), 1 day ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.22.2](https://github.com/Laravel-Lang/lang/releases/tag/15.22.2), 2 days ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.0](https://github.com/symfony/http-foundation/releases/tag/v7.3.0), 3 weeks ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0), 3 weeks ago) - The Symfony PHP framework
 - [ebess/advanced-nova-media-library](https://github.com/ebess/advanced-nova-media-library) ([5.1](https://github.com/ebess/advanced-nova-media-library/releases/tag/5.1), 3 months ago) - A Laravel Nova field for displaying, creating, updating and ordering a Spatie Media Library model.
@@ -18,9 +18,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (1 week ago)
-- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (1 week ago)
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) - Defines an object-oriented layer for the HTTP specification (4 weeks ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 weeks ago)
+- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (2 weeks ago)
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) - Defines an object-oriented layer for the HTTP specification (1 month ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
 - [cinatic/stocks-extension](https://github.com/cinatic/stocks-extension) - A extension to display stock quotes in GNOME Shell Panel (1 month ago)
 
 #### 🌱 My latest projects
