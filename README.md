@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.22.2](https://github.com/Laravel-Lang/lang/releases/tag/15.22.2), 4 days ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.22.3](https://github.com/Laravel-Lang/lang/releases/tag/15.22.3), today) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.0](https://github.com/symfony/http-foundation/releases/tag/v7.3.0), 4 weeks ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0), 4 weeks ago) - The Symfony PHP framework
 - [ebess/advanced-nova-media-library](https://github.com/ebess/advanced-nova-media-library) ([5.1](https://github.com/ebess/advanced-nova-media-library/releases/tag/5.1), 3 months ago) - A Laravel Nova field for displaying, creating, updating and ordering a Spatie Media Library model.
