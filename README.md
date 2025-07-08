@@ -13,15 +13,15 @@
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.1](https://github.com/symfony/http-foundation/releases/tag/v7.3.1), 1 week ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.1](https://github.com/symfony/symfony/releases/tag/v7.3.1), 1 week ago) - The Symfony PHP framework
 - [ebess/advanced-nova-media-library](https://github.com/ebess/advanced-nova-media-library) ([5.1](https://github.com/ebess/advanced-nova-media-library/releases/tag/5.1), 3 months ago) - A Laravel Nova field for displaying, creating, updating and ordering a Spatie Media Library model.
-- [cinatic/stocks-extension](https://github.com/cinatic/stocks-extension) ([v35](https://github.com/cinatic/stocks-extension/releases/tag/v35), 9 months ago) - A extension to display stock quotes in GNOME Shell Panel
+- [asgrim/example-pie-extension](https://github.com/asgrim/example-pie-extension) ([2.0.2](https://github.com/asgrim/example-pie-extension/releases/tag/2.0.2), 9 months ago) - An example of a PIE-enabled PHP module
 
 #### 👷 Check out what I'm currently working on
 
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (today)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (today)
+- [asgrim/example-pie-extension](https://github.com/asgrim/example-pie-extension) - An example of a PIE-enabled PHP module (today)
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) - Defines an object-oriented layer for the HTTP specification (1 month ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
-- [cinatic/stocks-extension](https://github.com/cinatic/stocks-extension) - A extension to display stock quotes in GNOME Shell Panel (1 month ago)
 
 #### 🌱 My latest projects
 
