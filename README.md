@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.1.1](https://github.com/php/php-windows-builder/releases/tag/1.1.1), 2 days ago) - Tooling to build PHP and extensions on Windows
+- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.1.1](https://github.com/php/php-windows-builder/releases/tag/1.1.1), 3 days ago) - Tooling to build PHP and extensions on Windows
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.22.5](https://github.com/Laravel-Lang/lang/releases/tag/15.22.5), 1 week ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.1](https://github.com/symfony/http-foundation/releases/tag/v7.3.1), 2 weeks ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.1](https://github.com/symfony/symfony/releases/tag/v7.3.1), 2 weeks ago) - The Symfony PHP framework
@@ -17,10 +17,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [php/php-windows-builder](https://github.com/php/php-windows-builder) - Tooling to build PHP and extensions on Windows (2 days ago)
-- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (5 days ago)
-- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (5 days ago)
-- [asgrim/example-pie-extension](https://github.com/asgrim/example-pie-extension) - An example of a PIE-enabled PHP module (5 days ago)
+- [php/php-windows-builder](https://github.com/php/php-windows-builder) - Tooling to build PHP and extensions on Windows (3 days ago)
+- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (6 days ago)
+- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (6 days ago)
+- [asgrim/example-pie-extension](https://github.com/asgrim/example-pie-extension) - An example of a PIE-enabled PHP module (6 days ago)
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) - Defines an object-oriented layer for the HTTP specification (1 month ago)
 
 #### 🌱 My latest projects
