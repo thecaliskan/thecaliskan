@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [asgrim/example-pie-extension](https://github.com/asgrim/example-pie-extension) ([2.0.3](https://github.com/asgrim/example-pie-extension/releases/tag/2.0.3), today) - An example of a PIE-enabled PHP module
 - [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.1.1](https://github.com/php/php-windows-builder/releases/tag/1.1.1), 4 days ago) - Tooling to build PHP and extensions on Windows
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.22.5](https://github.com/Laravel-Lang/lang/releases/tag/15.22.5), 1 week ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.1](https://github.com/symfony/http-foundation/releases/tag/v7.3.1), 2 weeks ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.1](https://github.com/symfony/symfony/releases/tag/v7.3.1), 2 weeks ago) - The Symfony PHP framework
-- [ebess/advanced-nova-media-library](https://github.com/ebess/advanced-nova-media-library) ([5.1](https://github.com/ebess/advanced-nova-media-library/releases/tag/5.1), 4 months ago) - A Laravel Nova field for displaying, creating, updating and ordering a Spatie Media Library model.
 
 #### 👷 Check out what I'm currently working on
 
