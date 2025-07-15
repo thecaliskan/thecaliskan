@@ -21,7 +21,7 @@
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (1 week ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (1 week ago)
 - [asgrim/example-pie-extension](https://github.com/asgrim/example-pie-extension) - An example of a PIE-enabled PHP module (1 week ago)
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) - Defines an object-oriented layer for the HTTP specification (1 month ago)
+- [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions (1 week ago)
 
 #### 🌱 My latest projects
 
