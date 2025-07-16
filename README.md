@@ -12,16 +12,16 @@
 - [asgrim/example-pie-extension](https://github.com/asgrim/example-pie-extension) ([2.0.3](https://github.com/asgrim/example-pie-extension/releases/tag/2.0.3), 1 day ago) - An example of a PIE-enabled PHP module
 - [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.1.1](https://github.com/php/php-windows-builder/releases/tag/1.1.1), 5 days ago) - Tooling to build PHP and extensions on Windows
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.22.5](https://github.com/Laravel-Lang/lang/releases/tag/15.22.5), 1 week ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
+- [php/php-src](https://github.com/php/php-src) ([php-8.4.10](https://github.com/php/php-src/releases/tag/php-8.4.10), 1 week ago) - The PHP Interpreter
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.1](https://github.com/symfony/http-foundation/releases/tag/v7.3.1), 2 weeks ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.1](https://github.com/symfony/symfony/releases/tag/v7.3.1), 2 weeks ago) - The Symfony PHP framework
 
 #### 👷 Check out what I'm currently working on
 
+- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (today)
 - [php/php-windows-builder](https://github.com/php/php-windows-builder) - Tooling to build PHP and extensions on Windows (5 days ago)
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (1 week ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (1 week ago)
 - [asgrim/example-pie-extension](https://github.com/asgrim/example-pie-extension) - An example of a PIE-enabled PHP module (1 week ago)
-- [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions (1 week ago)
 
 #### 🌱 My latest projects
 
