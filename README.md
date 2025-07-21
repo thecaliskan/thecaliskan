@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [asgrim/example-pie-extension](https://github.com/asgrim/example-pie-extension) ([2.0.3](https://github.com/asgrim/example-pie-extension/releases/tag/2.0.3), 5 days ago) - An example of a PIE-enabled PHP module
+- [asgrim/example-pie-extension](https://github.com/asgrim/example-pie-extension) ([2.0.3](https://github.com/asgrim/example-pie-extension/releases/tag/2.0.3), 6 days ago) - An example of a PIE-enabled PHP module
 - [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.1.1](https://github.com/php/php-windows-builder/releases/tag/1.1.1), 1 week ago) - Tooling to build PHP and extensions on Windows
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.22.5](https://github.com/Laravel-Lang/lang/releases/tag/15.22.5), 2 weeks ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
 - [php/php-src](https://github.com/php/php-src) ([php-8.4.10](https://github.com/php/php-src/releases/tag/php-8.4.10), 2 weeks ago) - The PHP Interpreter
@@ -17,7 +17,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (3 days ago)
+- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (4 days ago)
 - [php/php-windows-builder](https://github.com/php/php-windows-builder) - Tooling to build PHP and extensions on Windows (1 week ago)
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (1 week ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (1 week ago)
