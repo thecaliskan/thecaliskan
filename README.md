@@ -17,7 +17,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [peckphp/peck](https://github.com/peckphp/peck) - Peck is a powerful CLI tool designed to identify pure wording or spelling (grammar) mistakes in your codebase. (5 days ago)
+- [peckphp/peck](https://github.com/peckphp/peck) - Peck is a powerful CLI tool designed to identify pure wording or spelling (grammar) mistakes in your codebase. (6 days ago)
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (1 week ago)
 - [php/php-windows-builder](https://github.com/php/php-windows-builder) - Tooling to build PHP and extensions on Windows (2 weeks ago)
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (2 weeks ago)
