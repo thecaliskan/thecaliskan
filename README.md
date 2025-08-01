@@ -9,17 +9,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.2](https://github.com/symfony/http-foundation/releases/tag/v7.3.2), today) - Defines an object-oriented layer for the HTTP specification
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.2](https://github.com/symfony/symfony/releases/tag/v7.3.2), today) - The Symfony PHP framework
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.2](https://github.com/symfony/http-foundation/releases/tag/v7.3.2), 1 day ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.2](https://github.com/symfony/symfony/releases/tag/v7.3.2), 1 day ago) - The Symfony PHP framework
 - [asgrim/example-pie-extension](https://github.com/asgrim/example-pie-extension) ([2.0.3](https://github.com/asgrim/example-pie-extension/releases/tag/2.0.3), 2 weeks ago) - An example of a PIE-enabled PHP module
-- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.1.1](https://github.com/php/php-windows-builder/releases/tag/1.1.1), 2 weeks ago) - Tooling to build PHP and extensions on Windows
+- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.1.1](https://github.com/php/php-windows-builder/releases/tag/1.1.1), 3 weeks ago) - Tooling to build PHP and extensions on Windows
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.22.5](https://github.com/Laravel-Lang/lang/releases/tag/15.22.5), 4 weeks ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
 
 #### 👷 Check out what I'm currently working on
 
 - [peckphp/peck](https://github.com/peckphp/peck) - Peck is a powerful CLI tool designed to identify pure wording or spelling (grammar) mistakes in your codebase. (1 week ago)
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (2 weeks ago)
-- [php/php-windows-builder](https://github.com/php/php-windows-builder) - Tooling to build PHP and extensions on Windows (2 weeks ago)
+- [php/php-windows-builder](https://github.com/php/php-windows-builder) - Tooling to build PHP and extensions on Windows (3 weeks ago)
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (3 weeks ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (3 weeks ago)
 
