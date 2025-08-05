@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/php-src](https://github.com/php/php-src) ([php-8.3.24](https://github.com/php/php-src/releases/tag/php-8.3.24), today) - The PHP Interpreter
 - [php/pie](https://github.com/php/pie) ([1.1.0-rc.1](https://github.com/php/pie/releases/tag/1.1.0-rc.1), 1 day ago) - The PHP Installer for Extensions
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.2](https://github.com/symfony/http-foundation/releases/tag/v7.3.2), 5 days ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.2](https://github.com/symfony/symfony/releases/tag/v7.3.2), 5 days ago) - The Symfony PHP framework
 - [asgrim/example-pie-extension](https://github.com/asgrim/example-pie-extension) ([2.0.3](https://github.com/asgrim/example-pie-extension/releases/tag/2.0.3), 3 weeks ago) - An example of a PIE-enabled PHP module
-- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.1.1](https://github.com/php/php-windows-builder/releases/tag/1.1.1), 3 weeks ago) - Tooling to build PHP and extensions on Windows
 
 #### 👷 Check out what I'm currently working on
 
