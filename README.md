@@ -9,9 +9,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.22.7](https://github.com/Laravel-Lang/lang/releases/tag/15.22.7), today) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
-- [php/pie](https://github.com/php/pie) ([1.1.0](https://github.com/php/pie/releases/tag/1.1.0), 1 day ago) - The PHP Installer for Extensions
-- [php/php-src](https://github.com/php/php-src) ([php-8.3.24](https://github.com/php/php-src/releases/tag/php-8.3.24), 3 days ago) - The PHP Interpreter
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.22.7](https://github.com/Laravel-Lang/lang/releases/tag/15.22.7), 1 day ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
+- [php/pie](https://github.com/php/pie) ([1.1.0](https://github.com/php/pie/releases/tag/1.1.0), 2 days ago) - The PHP Installer for Extensions
+- [php/php-src](https://github.com/php/php-src) ([php-8.3.24](https://github.com/php/php-src/releases/tag/php-8.3.24), 4 days ago) - The PHP Interpreter
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.2](https://github.com/symfony/http-foundation/releases/tag/v7.3.2), 1 week ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.2](https://github.com/symfony/symfony/releases/tag/v7.3.2), 1 week ago) - The Symfony PHP framework
 
@@ -33,11 +33,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [rennf93](https://github.com/rennf93)
 - [Neustradamus](https://github.com/Neustradamus)
 - [devback-nexance](https://github.com/devback-nexance)
 - [chipnertkj](https://github.com/chipnertkj)
 - [umit144](https://github.com/umit144)
+- [danskycode](https://github.com/danskycode)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/thecaliskan) (thank you!)
 
