@@ -9,9 +9,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.22.8](https://github.com/Laravel-Lang/lang/releases/tag/15.22.8), 2 days ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
-- [php/pie](https://github.com/php/pie) ([1.1.0](https://github.com/php/pie/releases/tag/1.1.0), 4 days ago) - The PHP Installer for Extensions
-- [php/php-src](https://github.com/php/php-src) ([php-8.3.24](https://github.com/php/php-src/releases/tag/php-8.3.24), 6 days ago) - The PHP Interpreter
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.22.8](https://github.com/Laravel-Lang/lang/releases/tag/15.22.8), 3 days ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
+- [php/pie](https://github.com/php/pie) ([1.1.0](https://github.com/php/pie/releases/tag/1.1.0), 5 days ago) - The PHP Installer for Extensions
+- [php/php-src](https://github.com/php/php-src) ([php-8.3.24](https://github.com/php/php-src/releases/tag/php-8.3.24), 1 week ago) - The PHP Interpreter
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.2](https://github.com/symfony/http-foundation/releases/tag/v7.3.2), 1 week ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.2](https://github.com/symfony/symfony/releases/tag/v7.3.2), 1 week ago) - The Symfony PHP framework
 
