@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.3](https://github.com/symfony/http-foundation/releases/tag/v7.3.3), today) - Defines an object-oriented layer for the HTTP specification
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.3](https://github.com/symfony/symfony/releases/tag/v7.3.3), today) - The Symfony PHP framework
-- [php/php-src](https://github.com/php/php-src) ([php-8.3.25](https://github.com/php/php-src/releases/tag/php-8.3.25), today) - The PHP Interpreter
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.24.0](https://github.com/Laravel-Lang/lang/releases/tag/15.24.0), 1 day ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
-- [php/pie](https://github.com/php/pie) ([1.2.0-rc.1](https://github.com/php/pie/releases/tag/1.2.0-rc.1), 1 day ago) - The PHP Installer for Extensions
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.3](https://github.com/symfony/http-foundation/releases/tag/v7.3.3), 1 day ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.3](https://github.com/symfony/symfony/releases/tag/v7.3.3), 1 day ago) - The Symfony PHP framework
+- [php/php-src](https://github.com/php/php-src) ([php-8.3.25](https://github.com/php/php-src/releases/tag/php-8.3.25), 1 day ago) - The PHP Interpreter
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.24.0](https://github.com/Laravel-Lang/lang/releases/tag/15.24.0), 2 days ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
+- [php/pie](https://github.com/php/pie) ([1.2.0-rc.1](https://github.com/php/pie/releases/tag/1.2.0-rc.1), 2 days ago) - The PHP Installer for Extensions
 
 #### 👷 Check out what I'm currently working on
 
