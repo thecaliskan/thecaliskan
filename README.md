@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/holidays](https://github.com/spatie/holidays) ([1.18.0](https://github.com/spatie/holidays/releases/tag/1.18.0), 1 day ago) - Calculate which days you don&#39;t have to work!
+- [spatie/holidays](https://github.com/spatie/holidays) ([1.18.0](https://github.com/spatie/holidays/releases/tag/1.18.0), 2 days ago) - Calculate which days you don&#39;t have to work!
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.25.0](https://github.com/Laravel-Lang/lang/releases/tag/15.25.0), 1 week ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
-- [php/pie](https://github.com/php/pie) ([1.2.1](https://github.com/php/pie/releases/tag/1.2.1), 1 week ago) - The PHP Installer for Extensions
-- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.1.7](https://github.com/php/php-windows-builder/releases/tag/1.1.7), 2 weeks ago) - Tooling to build PHP and extensions on Windows
+- [php/pie](https://github.com/php/pie) ([1.2.1](https://github.com/php/pie/releases/tag/1.2.1), 2 weeks ago) - The PHP Installer for Extensions
+- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.1.7](https://github.com/php/php-windows-builder/releases/tag/1.1.7), 3 weeks ago) - Tooling to build PHP and extensions on Windows
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.3](https://github.com/symfony/http-foundation/releases/tag/v7.3.3), 3 weeks ago) - Defines an object-oriented layer for the HTTP specification
 
 #### 👷 Check out what I'm currently working on
 
-- [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (1 day ago)
+- [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (2 days ago)
 - [peckphp/peck](https://github.com/peckphp/peck) - Peck is a powerful CLI tool designed to identify pure wording or spelling (grammar) mistakes in your codebase. (2 months ago)
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (2 months ago)
 - [php/php-windows-builder](https://github.com/php/php-windows-builder) - Tooling to build PHP and extensions on Windows (2 months ago)
