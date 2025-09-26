@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [php/php-src](https://github.com/php/php-src) ([php-8.4.13](https://github.com/php/php-src/releases/tag/php-8.4.13), today) - The PHP Interpreter
-- [asgrim/example-pie-extension](https://github.com/asgrim/example-pie-extension) ([2.0.4](https://github.com/asgrim/example-pie-extension/releases/tag/2.0.4), today) - An example of a PIE-enabled PHP module
-- [spatie/holidays](https://github.com/spatie/holidays) ([1.18.0](https://github.com/spatie/holidays/releases/tag/1.18.0), 3 days ago) - Calculate which days you don&#39;t have to work!
+- [php/php-src](https://github.com/php/php-src) ([php-8.4.13](https://github.com/php/php-src/releases/tag/php-8.4.13), 1 day ago) - The PHP Interpreter
+- [asgrim/example-pie-extension](https://github.com/asgrim/example-pie-extension) ([2.0.4](https://github.com/asgrim/example-pie-extension/releases/tag/2.0.4), 1 day ago) - An example of a PIE-enabled PHP module
+- [spatie/holidays](https://github.com/spatie/holidays) ([1.18.0](https://github.com/spatie/holidays/releases/tag/1.18.0), 4 days ago) - Calculate which days you don&#39;t have to work!
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.25.0](https://github.com/Laravel-Lang/lang/releases/tag/15.25.0), 1 week ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
 - [php/pie](https://github.com/php/pie) ([1.2.1](https://github.com/php/pie/releases/tag/1.2.1), 2 weeks ago) - The PHP Installer for Extensions
 
 #### 👷 Check out what I'm currently working on
 
-- [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (3 days ago)
+- [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (4 days ago)
 - [peckphp/peck](https://github.com/peckphp/peck) - Peck is a powerful CLI tool designed to identify pure wording or spelling (grammar) mistakes in your codebase. (2 months ago)
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (2 months ago)
 - [php/php-windows-builder](https://github.com/php/php-windows-builder) - Tooling to build PHP and extensions on Windows (2 months ago)
