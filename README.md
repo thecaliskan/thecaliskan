@@ -9,9 +9,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [asgrim/example-pie-extension](https://github.com/asgrim/example-pie-extension) ([2.0.5](https://github.com/asgrim/example-pie-extension/releases/tag/2.0.5), 4 days ago) - An example of a PIE-enabled PHP module
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.4](https://github.com/symfony/http-foundation/releases/tag/v7.3.4), 6 days ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.4](https://github.com/symfony/symfony/releases/tag/v7.3.4), 6 days ago) - The Symfony PHP framework
+- [asgrim/example-pie-extension](https://github.com/asgrim/example-pie-extension) ([2.0.5](https://github.com/asgrim/example-pie-extension/releases/tag/2.0.5), 5 days ago) - An example of a PIE-enabled PHP module
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.4](https://github.com/symfony/http-foundation/releases/tag/v7.3.4), 1 week ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.4](https://github.com/symfony/symfony/releases/tag/v7.3.4), 1 week ago) - The Symfony PHP framework
 - [php/php-src](https://github.com/php/php-src) ([php-8.3.26](https://github.com/php/php-src/releases/tag/php-8.3.26), 1 week ago) - The PHP Interpreter
 - [spatie/holidays](https://github.com/spatie/holidays) ([1.18.0](https://github.com/spatie/holidays/releases/tag/1.18.0), 1 week ago) - Calculate which days you don&#39;t have to work!
 
