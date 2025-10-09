@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.26.1](https://github.com/Laravel-Lang/lang/releases/tag/15.26.1), 1 day ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.26.1](https://github.com/Laravel-Lang/lang/releases/tag/15.26.1), 2 days ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
 - [asgrim/example-pie-extension](https://github.com/asgrim/example-pie-extension) ([2.0.5](https://github.com/asgrim/example-pie-extension/releases/tag/2.0.5), 1 week ago) - An example of a PIE-enabled PHP module
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.4](https://github.com/symfony/http-foundation/releases/tag/v7.3.4), 1 week ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.4](https://github.com/symfony/symfony/releases/tag/v7.3.4), 1 week ago) - The Symfony PHP framework
@@ -20,7 +20,7 @@
 - [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (2 weeks ago)
 - [peckphp/peck](https://github.com/peckphp/peck) - Peck is a powerful CLI tool designed to identify pure wording or spelling (grammar) mistakes in your codebase. (2 months ago)
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (2 months ago)
-- [php/php-windows-builder](https://github.com/php/php-windows-builder) - Tooling to build PHP and extensions on Windows (2 months ago)
+- [php/php-windows-builder](https://github.com/php/php-windows-builder) - Tooling to build PHP and extensions on Windows (3 months ago)
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions (3 months ago)
 
 #### 🌱 My latest projects
