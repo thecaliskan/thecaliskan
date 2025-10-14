@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.26.1](https://github.com/Laravel-Lang/lang/releases/tag/15.26.1), 6 days ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.26.1](https://github.com/Laravel-Lang/lang/releases/tag/15.26.1), 1 week ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
 - [asgrim/example-pie-extension](https://github.com/asgrim/example-pie-extension) ([2.0.5](https://github.com/asgrim/example-pie-extension/releases/tag/2.0.5), 2 weeks ago) - An example of a PIE-enabled PHP module
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.4](https://github.com/symfony/http-foundation/releases/tag/v7.3.4), 2 weeks ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.4](https://github.com/symfony/symfony/releases/tag/v7.3.4), 2 weeks ago) - The Symfony PHP framework
