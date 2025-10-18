@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/holidays](https://github.com/spatie/holidays) ([1.20.0](https://github.com/spatie/holidays/releases/tag/1.20.0), 3 days ago) - Calculate which days you don&#39;t have to work!
+- [spatie/holidays](https://github.com/spatie/holidays) ([1.20.0](https://github.com/spatie/holidays/releases/tag/1.20.0), 4 days ago) - Calculate which days you don&#39;t have to work!
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.26.1](https://github.com/Laravel-Lang/lang/releases/tag/15.26.1), 1 week ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
 - [asgrim/example-pie-extension](https://github.com/asgrim/example-pie-extension) ([2.0.5](https://github.com/asgrim/example-pie-extension/releases/tag/2.0.5), 2 weeks ago) - An example of a PIE-enabled PHP module
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.4](https://github.com/symfony/http-foundation/releases/tag/v7.3.4), 2 weeks ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.4](https://github.com/symfony/symfony/releases/tag/v7.3.4), 2 weeks ago) - The Symfony PHP framework
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.4](https://github.com/symfony/http-foundation/releases/tag/v7.3.4), 3 weeks ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.4](https://github.com/symfony/symfony/releases/tag/v7.3.4), 3 weeks ago) - The Symfony PHP framework
 
 #### 👷 Check out what I'm currently working on
 
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (3 days ago)
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (4 days ago)
 - [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (3 weeks ago)
 - [peckphp/peck](https://github.com/peckphp/peck) - Peck is a powerful CLI tool designed to identify pure wording or spelling (grammar) mistakes in your codebase. (2 months ago)
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (3 months ago)
