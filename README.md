@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/lighthouse-php](https://github.com/spatie/lighthouse-php) ([2.0.0](https://github.com/spatie/lighthouse-php/releases/tag/2.0.0), 1 day ago) - Run Google Lighthouse using PHP
+- [spatie/lighthouse-php](https://github.com/spatie/lighthouse-php) ([2.0.0](https://github.com/spatie/lighthouse-php/releases/tag/2.0.0), 2 days ago) - Run Google Lighthouse using PHP
 - [spatie/holidays](https://github.com/spatie/holidays) ([1.20.0](https://github.com/spatie/holidays/releases/tag/1.20.0), 1 week ago) - Calculate which days you don&#39;t have to work!
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.26.1](https://github.com/Laravel-Lang/lang/releases/tag/15.26.1), 2 weeks ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
 - [asgrim/example-pie-extension](https://github.com/asgrim/example-pie-extension) ([2.0.5](https://github.com/asgrim/example-pie-extension/releases/tag/2.0.5), 3 weeks ago) - An example of a PIE-enabled PHP module
@@ -17,10 +17,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [spatie/spatie.be](https://github.com/spatie/spatie.be) - The source code of spatie.be (today)
-- [spatie/lighthouse-php](https://github.com/spatie/lighthouse-php) - Run Google Lighthouse using PHP (today)
+- [spatie/spatie.be](https://github.com/spatie/spatie.be) - The source code of spatie.be (1 day ago)
+- [spatie/lighthouse-php](https://github.com/spatie/lighthouse-php) - Run Google Lighthouse using PHP (1 day ago)
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (1 week ago)
-- [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (4 weeks ago)
+- [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (1 month ago)
 - [peckphp/peck](https://github.com/peckphp/peck) - Peck is a powerful CLI tool designed to identify pure wording or spelling (grammar) mistakes in your codebase. (3 months ago)
 
 #### 🌱 My latest projects
