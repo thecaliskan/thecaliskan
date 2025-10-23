@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/php-src](https://github.com/php/php-src) ([php-8.4.14](https://github.com/php/php-src/releases/tag/php-8.4.14), today) - The PHP Interpreter
 - [spatie/lighthouse-php](https://github.com/spatie/lighthouse-php) ([2.0.0](https://github.com/spatie/lighthouse-php/releases/tag/2.0.0), 3 days ago) - Run Google Lighthouse using PHP
 - [spatie/holidays](https://github.com/spatie/holidays) ([1.20.0](https://github.com/spatie/holidays/releases/tag/1.20.0), 1 week ago) - Calculate which days you don&#39;t have to work!
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.26.1](https://github.com/Laravel-Lang/lang/releases/tag/15.26.1), 2 weeks ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
 - [asgrim/example-pie-extension](https://github.com/asgrim/example-pie-extension) ([2.0.5](https://github.com/asgrim/example-pie-extension/releases/tag/2.0.5), 3 weeks ago) - An example of a PIE-enabled PHP module
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.4](https://github.com/symfony/http-foundation/releases/tag/v7.3.4), 3 weeks ago) - Defines an object-oriented layer for the HTTP specification
 
 #### 👷 Check out what I'm currently working on
 
