@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.4.0-BETA1](https://github.com/symfony/http-foundation/releases/tag/v7.4.0-BETA1), today) - Defines an object-oriented layer for the HTTP specification
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.4.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.4.0-BETA1), today) - The Symfony PHP framework
 - [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.2.0](https://github.com/php/php-windows-builder/releases/tag/1.2.0), 1 day ago) - Tooling to build PHP and extensions on Windows
 - [php/php-src](https://github.com/php/php-src) ([php-8.4.14](https://github.com/php/php-src/releases/tag/php-8.4.14), 4 days ago) - The PHP Interpreter
 - [spatie/lighthouse-php](https://github.com/spatie/lighthouse-php) ([2.0.0](https://github.com/spatie/lighthouse-php/releases/tag/2.0.0), 1 week ago) - Run Google Lighthouse using PHP
-- [spatie/holidays](https://github.com/spatie/holidays) ([1.20.0](https://github.com/spatie/holidays/releases/tag/1.20.0), 1 week ago) - Calculate which days you don&#39;t have to work!
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.26.1](https://github.com/Laravel-Lang/lang/releases/tag/15.26.1), 2 weeks ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
 
 #### 👷 Check out what I'm currently working on
 
