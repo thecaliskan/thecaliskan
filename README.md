@@ -9,8 +9,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.4.0-BETA1](https://github.com/symfony/http-foundation/releases/tag/v7.4.0-BETA1), 1 day ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.4.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.4.0-BETA1), 1 day ago) - The Symfony PHP framework
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.5](https://github.com/symfony/http-foundation/releases/tag/v7.3.5), today) - Defines an object-oriented layer for the HTTP specification
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.5](https://github.com/symfony/symfony/releases/tag/v7.3.5), today) - The Symfony PHP framework
 - [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.2.0](https://github.com/php/php-windows-builder/releases/tag/1.2.0), 2 days ago) - Tooling to build PHP and extensions on Windows
 - [php/php-src](https://github.com/php/php-src) ([php-8.4.14](https://github.com/php/php-src/releases/tag/php-8.4.14), 5 days ago) - The PHP Interpreter
 - [spatie/lighthouse-php](https://github.com/spatie/lighthouse-php) ([2.0.0](https://github.com/spatie/lighthouse-php/releases/tag/2.0.0), 1 week ago) - Run Google Lighthouse using PHP
