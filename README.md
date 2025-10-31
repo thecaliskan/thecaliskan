@@ -9,8 +9,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/holidays](https://github.com/spatie/holidays) ([1.22.0](https://github.com/spatie/holidays/releases/tag/1.22.0), today) - Calculate which days you don&#39;t have to work!
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.26.2](https://github.com/Laravel-Lang/lang/releases/tag/15.26.2), 2 days ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
-- [spatie/holidays](https://github.com/spatie/holidays) ([1.21.0](https://github.com/spatie/holidays/releases/tag/1.21.0), 3 days ago) - Calculate which days you don&#39;t have to work!
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.5](https://github.com/symfony/http-foundation/releases/tag/v7.3.5), 3 days ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.5](https://github.com/symfony/symfony/releases/tag/v7.3.5), 3 days ago) - The Symfony PHP framework
 - [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.2.0](https://github.com/php/php-windows-builder/releases/tag/1.2.0), 5 days ago) - Tooling to build PHP and extensions on Windows
