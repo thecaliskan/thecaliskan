@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/holidays](https://github.com/spatie/holidays) ([1.22.0](https://github.com/spatie/holidays/releases/tag/1.22.0), 1 day ago) - Calculate which days you don&#39;t have to work!
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.26.2](https://github.com/Laravel-Lang/lang/releases/tag/15.26.2), 3 days ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.5](https://github.com/symfony/http-foundation/releases/tag/v7.3.5), 4 days ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.5](https://github.com/symfony/symfony/releases/tag/v7.3.5), 4 days ago) - The Symfony PHP framework
-- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.2.0](https://github.com/php/php-windows-builder/releases/tag/1.2.0), 6 days ago) - Tooling to build PHP and extensions on Windows
+- [spatie/holidays](https://github.com/spatie/holidays) ([1.22.0](https://github.com/spatie/holidays/releases/tag/1.22.0), 2 days ago) - Calculate which days you don&#39;t have to work!
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.26.2](https://github.com/Laravel-Lang/lang/releases/tag/15.26.2), 4 days ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.5](https://github.com/symfony/http-foundation/releases/tag/v7.3.5), 5 days ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.5](https://github.com/symfony/symfony/releases/tag/v7.3.5), 5 days ago) - The Symfony PHP framework
+- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.2.0](https://github.com/php/php-windows-builder/releases/tag/1.2.0), 1 week ago) - Tooling to build PHP and extensions on Windows
 
 #### 👷 Check out what I'm currently working on
 
-- [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (1 day ago)
+- [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (2 days ago)
 - [spatie/lighthouse-php](https://github.com/spatie/lighthouse-php) - Run Google Lighthouse using PHP (1 week ago)
 - [spatie/spatie.be](https://github.com/spatie/spatie.be) - The source code of spatie.be (1 week ago)
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (2 weeks ago)
