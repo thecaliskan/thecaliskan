@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/pie](https://github.com/php/pie) ([1.3.0-alpha.1](https://github.com/php/pie/releases/tag/1.3.0-alpha.1), today) - The PHP Installer for Extensions
 - [spatie/phpunit-watcher](https://github.com/spatie/phpunit-watcher) ([1.24.1](https://github.com/spatie/phpunit-watcher/releases/tag/1.24.1), today) - A tool to automatically rerun PHPUnit tests when source code changes
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.17.2](https://github.com/spatie/laravel-medialibrary/releases/tag/11.17.2), today) - Associate files with Eloquent models
 - [spatie/global-ray](https://github.com/spatie/global-ray) ([1.2.2](https://github.com/spatie/global-ray/releases/tag/1.2.2), today) - Enable Ray in all PHP files on your system
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.0-BETA2](https://github.com/symfony/http-foundation/releases/tag/v8.0.0-BETA2), 1 day ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.0.0-BETA2), 1 day ago) - The Symfony PHP framework
 
 #### 👷 Check out what I'm currently working on
 
