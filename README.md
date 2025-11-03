@@ -9,19 +9,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/phpunit-watcher](https://github.com/spatie/phpunit-watcher) ([1.24.1](https://github.com/spatie/phpunit-watcher/releases/tag/1.24.1), today) - A tool to automatically rerun PHPUnit tests when source code changes
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.17.2](https://github.com/spatie/laravel-medialibrary/releases/tag/11.17.2), today) - Associate files with Eloquent models
+- [spatie/global-ray](https://github.com/spatie/global-ray) ([1.2.2](https://github.com/spatie/global-ray/releases/tag/1.2.2), today) - Enable Ray in all PHP files on your system
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.0-BETA2](https://github.com/symfony/http-foundation/releases/tag/v8.0.0-BETA2), 1 day ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.0.0-BETA2), 1 day ago) - The Symfony PHP framework
-- [spatie/holidays](https://github.com/spatie/holidays) ([1.22.0](https://github.com/spatie/holidays/releases/tag/1.22.0), 3 days ago) - Calculate which days you don&#39;t have to work!
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.26.2](https://github.com/Laravel-Lang/lang/releases/tag/15.26.2), 5 days ago) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
-- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.2.0](https://github.com/php/php-windows-builder/releases/tag/1.2.0), 1 week ago) - Tooling to build PHP and extensions on Windows
 
 #### 👷 Check out what I'm currently working on
 
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) - Associate files with Eloquent models (today)
+- [spatie/phpunit-watcher](https://github.com/spatie/phpunit-watcher) - A tool to automatically rerun PHPUnit tests when source code changes (today)
+- [spatie/global-ray](https://github.com/spatie/global-ray) - Enable Ray in all PHP files on your system (3 days ago)
 - [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (3 days ago)
-- [spatie/lighthouse-php](https://github.com/spatie/lighthouse-php) - Run Google Lighthouse using PHP (1 week ago)
 - [spatie/spatie.be](https://github.com/spatie/spatie.be) - The source code of spatie.be (1 week ago)
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (2 weeks ago)
-- [peckphp/peck](https://github.com/peckphp/peck) - Peck is a powerful CLI tool designed to identify pure wording or spelling (grammar) mistakes in your codebase. (3 months ago)
 
 #### 🌱 My latest projects
 
