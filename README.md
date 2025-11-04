@@ -9,19 +9,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [php/pie](https://github.com/php/pie) ([1.3.0-alpha.1](https://github.com/php/pie/releases/tag/1.3.0-alpha.1), today) - The PHP Installer for Extensions
-- [spatie/phpunit-watcher](https://github.com/spatie/phpunit-watcher) ([1.24.1](https://github.com/spatie/phpunit-watcher/releases/tag/1.24.1), today) - A tool to automatically rerun PHPUnit tests when source code changes
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.17.2](https://github.com/spatie/laravel-medialibrary/releases/tag/11.17.2), today) - Associate files with Eloquent models
-- [spatie/global-ray](https://github.com/spatie/global-ray) ([1.2.2](https://github.com/spatie/global-ray/releases/tag/1.2.2), today) - Enable Ray in all PHP files on your system
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.0-BETA2](https://github.com/symfony/http-foundation/releases/tag/v8.0.0-BETA2), 1 day ago) - Defines an object-oriented layer for the HTTP specification
+- [php/pie](https://github.com/php/pie) ([1.3.0-alpha.1](https://github.com/php/pie/releases/tag/1.3.0-alpha.1), 1 day ago) - The PHP Installer for Extensions
+- [spatie/phpunit-watcher](https://github.com/spatie/phpunit-watcher) ([1.24.1](https://github.com/spatie/phpunit-watcher/releases/tag/1.24.1), 1 day ago) - A tool to automatically rerun PHPUnit tests when source code changes
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.17.2](https://github.com/spatie/laravel-medialibrary/releases/tag/11.17.2), 1 day ago) - Associate files with Eloquent models
+- [spatie/global-ray](https://github.com/spatie/global-ray) ([1.2.2](https://github.com/spatie/global-ray/releases/tag/1.2.2), 1 day ago) - Enable Ray in all PHP files on your system
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.0-BETA2](https://github.com/symfony/http-foundation/releases/tag/v8.0.0-BETA2), 2 days ago) - Defines an object-oriented layer for the HTTP specification
 
 #### 👷 Check out what I'm currently working on
 
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) - Associate files with Eloquent models (today)
-- [spatie/phpunit-watcher](https://github.com/spatie/phpunit-watcher) - A tool to automatically rerun PHPUnit tests when source code changes (today)
-- [spatie/global-ray](https://github.com/spatie/global-ray) - Enable Ray in all PHP files on your system (3 days ago)
-- [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (3 days ago)
-- [spatie/spatie.be](https://github.com/spatie/spatie.be) - The source code of spatie.be (1 week ago)
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) - Associate files with Eloquent models (1 day ago)
+- [spatie/phpunit-watcher](https://github.com/spatie/phpunit-watcher) - A tool to automatically rerun PHPUnit tests when source code changes (1 day ago)
+- [spatie/global-ray](https://github.com/spatie/global-ray) - Enable Ray in all PHP files on your system (4 days ago)
+- [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (4 days ago)
+- [spatie/spatie.be](https://github.com/spatie/spatie.be) - The source code of spatie.be (2 weeks ago)
 
 #### 🌱 My latest projects
 
