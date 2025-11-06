@@ -9,8 +9,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.4.28](https://github.com/symfony/http-foundation/releases/tag/v6.4.28), today) - Defines an object-oriented layer for the HTTP specification
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.4.28](https://github.com/symfony/symfony/releases/tag/v6.4.28), today) - The Symfony PHP framework
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.6](https://github.com/symfony/http-foundation/releases/tag/v7.3.6), today) - Defines an object-oriented layer for the HTTP specification
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.6](https://github.com/symfony/symfony/releases/tag/v7.3.6), today) - The Symfony PHP framework
 - [spatie/holidays](https://github.com/spatie/holidays) ([1.23.0](https://github.com/spatie/holidays/releases/tag/1.23.0), today) - Calculate which days you don&#39;t have to work!
 - [php/pie](https://github.com/php/pie) ([1.3.0-alpha.3](https://github.com/php/pie/releases/tag/1.3.0-alpha.3), 1 day ago) - The PHP Installer for Extensions
 - [curl/curl](https://github.com/curl/curl) ([curl-8_17_0](https://github.com/curl/curl/releases/tag/curl-8_17_0), 1 day ago) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
