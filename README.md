@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.6](https://github.com/symfony/http-foundation/releases/tag/v7.3.6), 4 days ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.6](https://github.com/symfony/symfony/releases/tag/v7.3.6), 4 days ago) - The Symfony PHP framework
-- [spatie/holidays](https://github.com/spatie/holidays) ([1.23.0](https://github.com/spatie/holidays/releases/tag/1.23.0), 4 days ago) - Calculate which days you don&#39;t have to work!
-- [php/pie](https://github.com/php/pie) ([1.3.0-alpha.3](https://github.com/php/pie/releases/tag/1.3.0-alpha.3), 5 days ago) - The PHP Installer for Extensions
-- [curl/curl](https://github.com/curl/curl) ([curl-8_17_0](https://github.com/curl/curl/releases/tag/curl-8_17_0), 5 days ago) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.6](https://github.com/symfony/http-foundation/releases/tag/v7.3.6), 5 days ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.6](https://github.com/symfony/symfony/releases/tag/v7.3.6), 5 days ago) - The Symfony PHP framework
+- [spatie/holidays](https://github.com/spatie/holidays) ([1.23.0](https://github.com/spatie/holidays/releases/tag/1.23.0), 5 days ago) - Calculate which days you don&#39;t have to work!
+- [php/pie](https://github.com/php/pie) ([1.3.0-alpha.3](https://github.com/php/pie/releases/tag/1.3.0-alpha.3), 6 days ago) - The PHP Installer for Extensions
+- [curl/curl](https://github.com/curl/curl) ([curl-8_17_0](https://github.com/curl/curl/releases/tag/curl-8_17_0), 6 days ago) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 
 #### 👷 Check out what I'm currently working on
 
@@ -21,7 +21,7 @@
 - [spatie/phpunit-watcher](https://github.com/spatie/phpunit-watcher) - A tool to automatically rerun PHPUnit tests when source code changes (1 week ago)
 - [spatie/global-ray](https://github.com/spatie/global-ray) - Enable Ray in all PHP files on your system (1 week ago)
 - [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (1 week ago)
-- [spatie/spatie.be](https://github.com/spatie/spatie.be) - The source code of spatie.be (2 weeks ago)
+- [spatie/spatie.be](https://github.com/spatie/spatie.be) - The source code of spatie.be (3 weeks ago)
 
 #### 🌱 My latest projects
 
