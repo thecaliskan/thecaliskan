@@ -9,10 +9,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.17.4](https://github.com/spatie/laravel-medialibrary/releases/tag/11.17.4), today) - Associate files with Eloquent models
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.7](https://github.com/symfony/http-foundation/releases/tag/v7.3.7), today) - Defines an object-oriented layer for the HTTP specification
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.7](https://github.com/symfony/symfony/releases/tag/v7.3.7), today) - The Symfony PHP framework
-- [spatie/holidays](https://github.com/spatie/holidays) ([1.23.0](https://github.com/spatie/holidays/releases/tag/1.23.0), 6 days ago) - Calculate which days you don&#39;t have to work!
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.17.4](https://github.com/spatie/laravel-medialibrary/releases/tag/11.17.4), 1 day ago) - Associate files with Eloquent models
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.7](https://github.com/symfony/http-foundation/releases/tag/v7.3.7), 1 day ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.7](https://github.com/symfony/symfony/releases/tag/v7.3.7), 1 day ago) - The Symfony PHP framework
+- [spatie/holidays](https://github.com/spatie/holidays) ([1.23.0](https://github.com/spatie/holidays/releases/tag/1.23.0), 1 week ago) - Calculate which days you don&#39;t have to work!
 - [php/pie](https://github.com/php/pie) ([1.3.0-alpha.3](https://github.com/php/pie/releases/tag/1.3.0-alpha.3), 1 week ago) - The PHP Installer for Extensions
 
 #### 👷 Check out what I'm currently working on
