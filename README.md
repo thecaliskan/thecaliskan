@@ -9,10 +9,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.4.0-RC1](https://github.com/symfony/http-foundation/releases/tag/v7.4.0-RC1), today) - Defines an object-oriented layer for the HTTP specification
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.4.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.4.0-RC1), today) - The Symfony PHP framework
 - [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.3.0](https://github.com/php/php-windows-builder/releases/tag/1.3.0), today) - Tooling to build PHP and extensions on Windows
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.17.5](https://github.com/spatie/laravel-medialibrary/releases/tag/11.17.5), today) - Associate files with Eloquent models
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.7](https://github.com/symfony/http-foundation/releases/tag/v7.3.7), 1 day ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.7](https://github.com/symfony/symfony/releases/tag/v7.3.7), 1 day ago) - The Symfony PHP framework
 - [spatie/holidays](https://github.com/spatie/holidays) ([1.23.0](https://github.com/spatie/holidays/releases/tag/1.23.0), 1 week ago) - Calculate which days you don&#39;t have to work!
 
 #### 👷 Check out what I'm currently working on
