@@ -9,9 +9,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC2](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC2), today) - The Symfony PHP framework
 - [php/pie](https://github.com/php/pie) ([1.3.0-rc.1](https://github.com/php/pie/releases/tag/1.3.0-rc.1), 2 days ago) - The PHP Installer for Extensions
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.0-RC1](https://github.com/symfony/http-foundation/releases/tag/v8.0.0-RC1), 3 days ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC1](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC1), 3 days ago) - The Symfony PHP framework
 - [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.3.0](https://github.com/php/php-windows-builder/releases/tag/1.3.0), 3 days ago) - Tooling to build PHP and extensions on Windows
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.17.5](https://github.com/spatie/laravel-medialibrary/releases/tag/11.17.5), 3 days ago) - Associate files with Eloquent models
 
