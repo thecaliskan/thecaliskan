@@ -9,19 +9,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [php/pie](https://github.com/php/pie) ([1.3.0-rc.2](https://github.com/php/pie/releases/tag/1.3.0-rc.2), 1 day ago) - The PHP Installer for Extensions
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC2](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC2), 3 days ago) - The Symfony PHP framework
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.0-RC1](https://github.com/symfony/http-foundation/releases/tag/v8.0.0-RC1), 6 days ago) - Defines an object-oriented layer for the HTTP specification
-- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.3.0](https://github.com/php/php-windows-builder/releases/tag/1.3.0), 6 days ago) - Tooling to build PHP and extensions on Windows
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.17.5](https://github.com/spatie/laravel-medialibrary/releases/tag/11.17.5), 6 days ago) - Associate files with Eloquent models
+- [php/pie](https://github.com/php/pie) ([1.3.0-rc.2](https://github.com/php/pie/releases/tag/1.3.0-rc.2), 2 days ago) - The PHP Installer for Extensions
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC2](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC2), 4 days ago) - The Symfony PHP framework
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.0-RC1](https://github.com/symfony/http-foundation/releases/tag/v8.0.0-RC1), 1 week ago) - Defines an object-oriented layer for the HTTP specification
+- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.3.0](https://github.com/php/php-windows-builder/releases/tag/1.3.0), 1 week ago) - Tooling to build PHP and extensions on Windows
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.17.5](https://github.com/spatie/laravel-medialibrary/releases/tag/11.17.5), 1 week ago) - Associate files with Eloquent models
 
 #### 👷 Check out what I'm currently working on
 
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) - Associate files with Eloquent models (2 weeks ago)
+- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (today)
 - [spatie/phpunit-watcher](https://github.com/spatie/phpunit-watcher) - A tool to automatically rerun PHPUnit tests when source code changes (2 weeks ago)
-- [spatie/global-ray](https://github.com/spatie/global-ray) - Enable Ray in all PHP files on your system (2 weeks ago)
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) - Associate files with Eloquent models (2 weeks ago)
 - [spatie/holidays](https://github.com/spatie/holidays) - Calculate which days you don&#39;t have to work! (2 weeks ago)
-- [spatie/spatie.be](https://github.com/spatie/spatie.be) - The source code of spatie.be (4 weeks ago)
+- [spatie/global-ray](https://github.com/spatie/global-ray) - Enable Ray in all PHP files on your system (2 weeks ago)
 
 #### 🌱 My latest projects
 
