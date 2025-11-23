@@ -1,8 +1,8 @@
 ### Hey 👋
 
 #### 📜 My recent [blog posts](https://caliskanemre.medium.com/)
-{{range rss "https://caliskanemre.medium.com/feed" 5}}
-- [{{.title}}]({{.link}}) ({{humanize .lastBuildDate}})
+{{range rss "https://medium.com/@caliskanemre/feed" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
