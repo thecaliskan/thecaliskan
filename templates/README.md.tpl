@@ -2,7 +2,7 @@
 
 #### 📜 My recent [blog posts](https://caliskanemre.medium.com/)
 {{range rss "https://caliskanemre.medium.com/feed" 5}}
-- [{{.Title}}]({{.Link}}) ({{humanize .PublishedAt}})
+- [{{.title}}]({{.link}}) ({{humanize .lastBuildDate}})
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
