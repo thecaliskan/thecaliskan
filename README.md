@@ -9,19 +9,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC3](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC3), today) - The Symfony PHP framework
-- [php/php-src](https://github.com/php/php-src) ([php-8.3.28](https://github.com/php/php-src/releases/tag/php-8.3.28), 1 day ago) - The PHP Interpreter
-- [php/pie](https://github.com/php/pie) ([1.3.0-rc.2](https://github.com/php/pie/releases/tag/1.3.0-rc.2), 3 days ago) - The PHP Installer for Extensions
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.0-RC1](https://github.com/symfony/http-foundation/releases/tag/v8.0.0-RC1), 1 week ago) - Defines an object-oriented layer for the HTTP specification
-- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.3.0](https://github.com/php/php-windows-builder/releases/tag/1.3.0), 1 week ago) - Tooling to build PHP and extensions on Windows
+- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.8.1](https://github.com/spatie/db-dumper/releases/tag/3.8.1), today) - Dump the contents of a database
+- [spatie/crawler](https://github.com/spatie/crawler) ([8.4.6](https://github.com/spatie/crawler/releases/tag/8.4.6), today) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
+- [spatie/browsershot](https://github.com/spatie/browsershot) ([5.1.1](https://github.com/spatie/browsershot/releases/tag/5.1.1), today) - Convert HTML to an image, PDF or string
+- [php/pie](https://github.com/php/pie) ([1.3.0](https://github.com/php/pie/releases/tag/1.3.0), today) - The PHP Installer for Extensions
+- [spatie/docker](https://github.com/spatie/docker) ([1.13.1](https://github.com/spatie/docker/releases/tag/1.13.1), 1 day ago) - Manage docker containers with PHP
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (1 day ago)
-- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (1 day ago)
-- [php/web-php](https://github.com/php/web-php) - The www.php.net site (1 day ago)
-- [spatie/phpunit-watcher](https://github.com/spatie/phpunit-watcher) - A tool to automatically rerun PHPUnit tests when source code changes (2 weeks ago)
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) - Associate files with Eloquent models (2 weeks ago)
+- [spatie/crawler](https://github.com/spatie/crawler) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript. (today)
+- [spatie/db-dumper](https://github.com/spatie/db-dumper) - Dump the contents of a database (today)
+- [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) - Create and generate sitemaps with ease (today)
+- [spatie/ssl-certificate-chain-resolver](https://github.com/spatie/ssl-certificate-chain-resolver) - SSL certificate chain resolver (2 days ago)
+- [spatie/laravel-visit](https://github.com/spatie/laravel-visit) - Quickly visit any route in your Laravel app (4 days ago)
 
 #### 🌱 My latest projects
 
