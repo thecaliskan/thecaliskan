@@ -9,19 +9,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) ([5.6.1](https://github.com/spatie/laravel-analytics/releases/tag/5.6.1), today) - A Laravel package to retrieve pageviews and other data from Google Analytics
 - [spatie/image-optimizer](https://github.com/spatie/image-optimizer) ([1.8.1](https://github.com/spatie/image-optimizer/releases/tag/1.8.1), today) - Easily optimize images using PHP
 - [spatie/file-system-watcher](https://github.com/spatie/file-system-watcher) ([1.2.1](https://github.com/spatie/file-system-watcher/releases/tag/1.2.1), today) - Watch changes in the file system using PHP
 - [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([2.5.3](https://github.com/spatie/flare-client-php/releases/tag/2.5.3), today) - Send PHP errors to Flare
 - [spatie/error-solutions](https://github.com/spatie/error-solutions) ([2.0.3](https://github.com/spatie/error-solutions/releases/tag/2.0.3), today) - Solutions for your PHP and Laravel errors
-- [spatie/emoji](https://github.com/spatie/emoji) ([4.1.2](https://github.com/spatie/emoji/releases/tag/4.1.2), today) - Programatically work with emoji characters
 
 #### 👷 Check out what I'm currently working on
 
+- [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) - A Laravel package to retrieve pageviews and other data from Google Analytics (today)
 - [spatie/crawler](https://github.com/spatie/crawler) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript. (today)
 - [spatie/db-dumper](https://github.com/spatie/db-dumper) - Dump the contents of a database (today)
 - [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) - Create and generate sitemaps with ease (today)
 - [spatie/ssl-certificate-chain-resolver](https://github.com/spatie/ssl-certificate-chain-resolver) - SSL certificate chain resolver (2 days ago)
-- [spatie/github-actions-watcher](https://github.com/spatie/github-actions-watcher) - A CLI tool to see the status of your all GitHub Actions workflows in real time (4 days ago)
 
 #### 🌱 My latest projects
 
