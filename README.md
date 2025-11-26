@@ -9,18 +9,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/crypto](https://github.com/spatie/crypto) ([2.1.1](https://github.com/spatie/crypto/releases/tag/2.1.1), today) - Encrypt and decrypt data using private/public keys
+- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([9.3.7](https://github.com/spatie/laravel-backup/releases/tag/9.3.7), today) - A package to backup your Laravel app
+- [spatie/laravel-blade-comments](https://github.com/spatie/laravel-blade-comments) ([2.0.1](https://github.com/spatie/laravel-blade-comments/releases/tag/2.0.1), today) - Add debug comments to your rendered output
 - [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) ([5.6.1](https://github.com/spatie/laravel-analytics/releases/tag/5.6.1), today) - A Laravel package to retrieve pageviews and other data from Google Analytics
 - [spatie/image-optimizer](https://github.com/spatie/image-optimizer) ([1.8.1](https://github.com/spatie/image-optimizer/releases/tag/1.8.1), today) - Easily optimize images using PHP
-- [spatie/file-system-watcher](https://github.com/spatie/file-system-watcher) ([1.2.1](https://github.com/spatie/file-system-watcher/releases/tag/1.2.1), today) - Watch changes in the file system using PHP
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([2.5.3](https://github.com/spatie/flare-client-php/releases/tag/2.5.3), today) - Send PHP errors to Flare
-- [spatie/error-solutions](https://github.com/spatie/error-solutions) ([2.0.3](https://github.com/spatie/error-solutions/releases/tag/2.0.3), today) - Solutions for your PHP and Laravel errors
 
 #### 👷 Check out what I'm currently working on
 
+- [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) - Create and generate sitemaps with ease (today)
 - [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) - A Laravel package to retrieve pageviews and other data from Google Analytics (today)
 - [spatie/crawler](https://github.com/spatie/crawler) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript. (today)
 - [spatie/db-dumper](https://github.com/spatie/db-dumper) - Dump the contents of a database (today)
-- [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) - Create and generate sitemaps with ease (today)
 - [spatie/ssl-certificate-chain-resolver](https://github.com/spatie/ssl-certificate-chain-resolver) - SSL certificate chain resolver (2 days ago)
 
 #### 🌱 My latest projects
