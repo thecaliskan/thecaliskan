@@ -9,19 +9,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([2.5.3](https://github.com/spatie/flare-client-php/releases/tag/2.5.3), today) - Send PHP errors to Flare
+- [spatie/error-solutions](https://github.com/spatie/error-solutions) ([2.0.3](https://github.com/spatie/error-solutions/releases/tag/2.0.3), today) - Solutions for your PHP and Laravel errors
+- [spatie/emoji](https://github.com/spatie/emoji) ([4.1.2](https://github.com/spatie/emoji/releases/tag/4.1.2), today) - Programatically work with emoji characters
 - [spatie/dns](https://github.com/spatie/dns) ([2.7.1](https://github.com/spatie/dns/releases/tag/2.7.1), today) - Retrieve DNS records
 - [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.8.1](https://github.com/spatie/db-dumper/releases/tag/3.8.1), today) - Dump the contents of a database
-- [spatie/crawler](https://github.com/spatie/crawler) ([8.4.6](https://github.com/spatie/crawler/releases/tag/8.4.6), today) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
-- [spatie/browsershot](https://github.com/spatie/browsershot) ([5.1.1](https://github.com/spatie/browsershot/releases/tag/5.1.1), today) - Convert HTML to an image, PDF or string
-- [php/pie](https://github.com/php/pie) ([1.3.0](https://github.com/php/pie/releases/tag/1.3.0), today) - The PHP Installer for Extensions
 
 #### 👷 Check out what I'm currently working on
 
+- [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) - Create and generate sitemaps with ease (today)
 - [spatie/crawler](https://github.com/spatie/crawler) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript. (today)
 - [spatie/db-dumper](https://github.com/spatie/db-dumper) - Dump the contents of a database (today)
-- [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) - Create and generate sitemaps with ease (today)
 - [spatie/ssl-certificate-chain-resolver](https://github.com/spatie/ssl-certificate-chain-resolver) - SSL certificate chain resolver (2 days ago)
-- [spatie/laravel-visit](https://github.com/spatie/laravel-visit) - Quickly visit any route in your Laravel app (4 days ago)
+- [spatie/github-actions-watcher](https://github.com/spatie/github-actions-watcher) - A CLI tool to see the status of your all GitHub Actions workflows in real time (4 days ago)
 
 #### 🌱 My latest projects
 
