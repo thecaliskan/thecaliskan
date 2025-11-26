@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/crawler](https://github.com/spatie/crawler) ([8.4.7](https://github.com/spatie/crawler/releases/tag/8.4.7), today) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
 - [spatie/crypto](https://github.com/spatie/crypto) ([2.1.1](https://github.com/spatie/crypto/releases/tag/2.1.1), today) - Encrypt and decrypt data using private/public keys
 - [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([9.3.7](https://github.com/spatie/laravel-backup/releases/tag/9.3.7), today) - A package to backup your Laravel app
 - [spatie/laravel-blade-comments](https://github.com/spatie/laravel-blade-comments) ([2.0.1](https://github.com/spatie/laravel-blade-comments/releases/tag/2.0.1), today) - Add debug comments to your rendered output
 - [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) ([5.6.1](https://github.com/spatie/laravel-analytics/releases/tag/5.6.1), today) - A Laravel package to retrieve pageviews and other data from Google Analytics
-- [spatie/image-optimizer](https://github.com/spatie/image-optimizer) ([1.8.1](https://github.com/spatie/image-optimizer/releases/tag/1.8.1), today) - Easily optimize images using PHP
 
 #### 👷 Check out what I'm currently working on
 
