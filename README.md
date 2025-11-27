@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-signal-aware-command](https://github.com/spatie/laravel-signal-aware-command) ([2.1.1](https://github.com/spatie/laravel-signal-aware-command/releases/tag/2.1.1), today) - Handle signals in Artisan commands
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.0](https://github.com/symfony/http-foundation/releases/tag/v8.0.0), today) - Defines an object-oriented layer for the HTTP specification
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0](https://github.com/symfony/symfony/releases/tag/v8.0.0), today) - The Symfony PHP framework
 - [spatie/crawler](https://github.com/spatie/crawler) ([8.4.7](https://github.com/spatie/crawler/releases/tag/8.4.7), 1 day ago) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
 - [spatie/crypto](https://github.com/spatie/crypto) ([2.1.1](https://github.com/spatie/crypto/releases/tag/2.1.1), 1 day ago) - Encrypt and decrypt data using private/public keys
-- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([9.3.7](https://github.com/spatie/laravel-backup/releases/tag/9.3.7), 1 day ago) - A package to backup your Laravel app
-- [spatie/laravel-blade-comments](https://github.com/spatie/laravel-blade-comments) ([2.0.1](https://github.com/spatie/laravel-blade-comments/releases/tag/2.0.1), 1 day ago) - Add debug comments to your rendered output
-- [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) ([5.6.1](https://github.com/spatie/laravel-analytics/releases/tag/5.6.1), 1 day ago) - A Laravel package to retrieve pageviews and other data from Google Analytics
 
 #### 👷 Check out what I'm currently working on
 
