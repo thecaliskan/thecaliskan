@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/pie](https://github.com/php/pie) ([1.3.1](https://github.com/php/pie/releases/tag/1.3.1), today) - The PHP Installer for Extensions
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.4.0](https://github.com/symfony/http-foundation/releases/tag/v7.4.0), today) - Defines an object-oriented layer for the HTTP specification
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.4.0](https://github.com/symfony/symfony/releases/tag/v7.4.0), today) - The Symfony PHP framework
 - [spatie/laravel-signal-aware-command](https://github.com/spatie/laravel-signal-aware-command) ([2.1.1](https://github.com/spatie/laravel-signal-aware-command/releases/tag/2.1.1), today) - Handle signals in Artisan commands
 - [spatie/crawler](https://github.com/spatie/crawler) ([8.4.7](https://github.com/spatie/crawler/releases/tag/8.4.7), 1 day ago) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
-- [spatie/crypto](https://github.com/spatie/crypto) ([2.1.1](https://github.com/spatie/crypto/releases/tag/2.1.1), 1 day ago) - Encrypt and decrypt data using private/public keys
 
 #### 👷 Check out what I'm currently working on
 
