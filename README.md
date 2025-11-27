@@ -18,9 +18,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) - Create and generate sitemaps with ease (1 day ago)
+- [spatie/db-dumper](https://github.com/spatie/db-dumper) - Dump the contents of a database (1 day ago)
 - [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) - A Laravel package to retrieve pageviews and other data from Google Analytics (1 day ago)
 - [spatie/crawler](https://github.com/spatie/crawler) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript. (1 day ago)
-- [spatie/db-dumper](https://github.com/spatie/db-dumper) - Dump the contents of a database (1 day ago)
 - [spatie/ssl-certificate-chain-resolver](https://github.com/spatie/ssl-certificate-chain-resolver) - SSL certificate chain resolver (3 days ago)
 
 #### 🌱 My latest projects
