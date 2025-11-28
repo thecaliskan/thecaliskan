@@ -9,16 +9,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/error-solutions](https://github.com/spatie/error-solutions) ([2.0.4](https://github.com/spatie/error-solutions/releases/tag/2.0.4), today) - Solutions for your PHP and Laravel errors
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([2.6.0](https://github.com/spatie/flare-client-php/releases/tag/2.6.0), today) - Send PHP errors to Flare
-- [php/pie](https://github.com/php/pie) ([1.3.1](https://github.com/php/pie/releases/tag/1.3.1), 1 day ago) - The PHP Installer for Extensions
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.4.0](https://github.com/symfony/http-foundation/releases/tag/v7.4.0), 1 day ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.4.0](https://github.com/symfony/symfony/releases/tag/v7.4.0), 1 day ago) - The Symfony PHP framework
+- [spatie/async](https://github.com/spatie/async) ([1.8.1](https://github.com/spatie/async/releases/tag/1.8.1), today) - Easily run code asynchronously
+- [spatie/laravel-pjax](https://github.com/spatie/laravel-pjax) ([2.4.2](https://github.com/spatie/laravel-pjax/releases/tag/2.4.2), today) - A pjax middleware for Laravel
+- [spatie/laravel-mailcoach-editor](https://github.com/spatie/laravel-mailcoach-editor) ([2.2.2](https://github.com/spatie/laravel-mailcoach-editor/releases/tag/2.2.2), today) - [READ-ONLY] The Mailcoach Editor.js package
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.34.9](https://github.com/spatie/laravel-health/releases/tag/1.34.9), today) - Check the health of your Laravel app
+- [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.1.3](https://github.com/spatie/laravel-backup-server/releases/tag/4.1.3), today) - Backup multiple servers
 
 #### 👷 Check out what I'm currently working on
 
+- [spatie/laravel-pjax](https://github.com/spatie/laravel-pjax) - A pjax middleware for Laravel (today)
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP (today)
-- [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) - A Laravel package to retrieve pageviews and other data from Google Analytics (2 days ago)
 - [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) - Create and generate sitemaps with ease (2 days ago)
 - [spatie/crawler](https://github.com/spatie/crawler) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript. (2 days ago)
 - [spatie/db-dumper](https://github.com/spatie/db-dumper) - Dump the contents of a database (2 days ago)
