@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/error-solutions](https://github.com/spatie/error-solutions) ([2.0.4](https://github.com/spatie/error-solutions/releases/tag/2.0.4), today) - Solutions for your PHP and Laravel errors
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([2.6.0](https://github.com/spatie/flare-client-php/releases/tag/2.6.0), today) - Send PHP errors to Flare
 - [php/pie](https://github.com/php/pie) ([1.3.1](https://github.com/php/pie/releases/tag/1.3.1), 1 day ago) - The PHP Installer for Extensions
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.4.0](https://github.com/symfony/http-foundation/releases/tag/v7.4.0), 1 day ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.4.0](https://github.com/symfony/symfony/releases/tag/v7.4.0), 1 day ago) - The Symfony PHP framework
-- [spatie/laravel-signal-aware-command](https://github.com/spatie/laravel-signal-aware-command) ([2.1.1](https://github.com/spatie/laravel-signal-aware-command/releases/tag/2.1.1), 1 day ago) - Handle signals in Artisan commands
-- [spatie/crawler](https://github.com/spatie/crawler) ([8.4.7](https://github.com/spatie/crawler/releases/tag/8.4.7), 2 days ago) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
 
 #### 👷 Check out what I'm currently working on
 
