@@ -17,10 +17,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [phpredis/phpredis](https://github.com/phpredis/phpredis) - A PHP extension for Redis (today)
 - [spatie/laravel-pjax](https://github.com/spatie/laravel-pjax) - A pjax middleware for Laravel (3 days ago)
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP (3 days ago)
 - [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) - Create and generate sitemaps with ease (5 days ago)
-- [spatie/crawler](https://github.com/spatie/crawler) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript. (5 days ago)
 - [spatie/db-dumper](https://github.com/spatie/db-dumper) - Dump the contents of a database (5 days ago)
 
 #### 🌱 My latest projects
