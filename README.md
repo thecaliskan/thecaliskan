@@ -9,19 +9,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/async](https://github.com/spatie/async) ([1.8.1](https://github.com/spatie/async/releases/tag/1.8.1), 3 days ago) - Easily run code asynchronously
-- [spatie/laravel-pjax](https://github.com/spatie/laravel-pjax) ([2.4.2](https://github.com/spatie/laravel-pjax/releases/tag/2.4.2), 3 days ago) - A pjax middleware for Laravel
-- [spatie/laravel-mailcoach-editor](https://github.com/spatie/laravel-mailcoach-editor) ([2.2.2](https://github.com/spatie/laravel-mailcoach-editor/releases/tag/2.2.2), 3 days ago) - [READ-ONLY] The Mailcoach Editor.js package
-- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.34.9](https://github.com/spatie/laravel-health/releases/tag/1.34.9), 3 days ago) - Check the health of your Laravel app
-- [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.1.3](https://github.com/spatie/laravel-backup-server/releases/tag/4.1.3), 3 days ago) - Backup multiple servers
+- [spatie/async](https://github.com/spatie/async) ([1.8.1](https://github.com/spatie/async/releases/tag/1.8.1), 4 days ago) - Easily run code asynchronously
+- [spatie/laravel-pjax](https://github.com/spatie/laravel-pjax) ([2.4.2](https://github.com/spatie/laravel-pjax/releases/tag/2.4.2), 4 days ago) - A pjax middleware for Laravel
+- [spatie/laravel-mailcoach-editor](https://github.com/spatie/laravel-mailcoach-editor) ([2.2.2](https://github.com/spatie/laravel-mailcoach-editor/releases/tag/2.2.2), 4 days ago) - [READ-ONLY] The Mailcoach Editor.js package
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.34.9](https://github.com/spatie/laravel-health/releases/tag/1.34.9), 4 days ago) - Check the health of your Laravel app
+- [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.1.3](https://github.com/spatie/laravel-backup-server/releases/tag/4.1.3), 4 days ago) - Backup multiple servers
 
 #### 👷 Check out what I'm currently working on
 
-- [phpredis/phpredis](https://github.com/phpredis/phpredis) - A PHP extension for Redis (today)
-- [spatie/laravel-pjax](https://github.com/spatie/laravel-pjax) - A pjax middleware for Laravel (3 days ago)
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP (3 days ago)
-- [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) - Create and generate sitemaps with ease (5 days ago)
-- [spatie/db-dumper](https://github.com/spatie/db-dumper) - Dump the contents of a database (5 days ago)
+- [phpredis/phpredis](https://github.com/phpredis/phpredis) - A PHP extension for Redis (1 day ago)
+- [spatie/laravel-pjax](https://github.com/spatie/laravel-pjax) - A pjax middleware for Laravel (4 days ago)
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP (4 days ago)
+- [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) - Create and generate sitemaps with ease (6 days ago)
+- [spatie/db-dumper](https://github.com/spatie/db-dumper) - Dump the contents of a database (6 days ago)
 
 #### 🌱 My latest projects
 
