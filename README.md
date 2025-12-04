@@ -9,19 +9,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/async](https://github.com/spatie/async) ([1.8.1](https://github.com/spatie/async/releases/tag/1.8.1), 5 days ago) - Easily run code asynchronously
-- [spatie/laravel-pjax](https://github.com/spatie/laravel-pjax) ([2.4.2](https://github.com/spatie/laravel-pjax/releases/tag/2.4.2), 5 days ago) - A pjax middleware for Laravel
-- [spatie/laravel-mailcoach-editor](https://github.com/spatie/laravel-mailcoach-editor) ([2.2.2](https://github.com/spatie/laravel-mailcoach-editor/releases/tag/2.2.2), 5 days ago) - [READ-ONLY] The Mailcoach Editor.js package
-- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.34.9](https://github.com/spatie/laravel-health/releases/tag/1.34.9), 5 days ago) - Check the health of your Laravel app
-- [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.1.3](https://github.com/spatie/laravel-backup-server/releases/tag/4.1.3), 5 days ago) - Backup multiple servers
+- [spatie/async](https://github.com/spatie/async) ([1.8.1](https://github.com/spatie/async/releases/tag/1.8.1), 6 days ago) - Easily run code asynchronously
+- [spatie/laravel-pjax](https://github.com/spatie/laravel-pjax) ([2.4.2](https://github.com/spatie/laravel-pjax/releases/tag/2.4.2), 6 days ago) - A pjax middleware for Laravel
+- [spatie/laravel-mailcoach-editor](https://github.com/spatie/laravel-mailcoach-editor) ([2.2.2](https://github.com/spatie/laravel-mailcoach-editor/releases/tag/2.2.2), 6 days ago) - [READ-ONLY] The Mailcoach Editor.js package
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.34.9](https://github.com/spatie/laravel-health/releases/tag/1.34.9), 6 days ago) - Check the health of your Laravel app
+- [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.1.3](https://github.com/spatie/laravel-backup-server/releases/tag/4.1.3), 6 days ago) - Backup multiple servers
 
 #### 👷 Check out what I'm currently working on
 
-- [php-runtime/reactphp](https://github.com/php-runtime/reactphp) - [READ ONLY] (1 day ago)
-- [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (1 day ago)
-- [php-runtime/roadrunner-symfony-nyholm](https://github.com/php-runtime/roadrunner-symfony-nyholm) - [READ ONLY] (1 day ago)
-- [php-runtime/swoole](https://github.com/php-runtime/swoole) - [READ ONLY] (1 day ago)
-- [phpredis/phpredis](https://github.com/phpredis/phpredis) - A PHP extension for Redis (2 days ago)
+- [php-runtime/reactphp](https://github.com/php-runtime/reactphp) - [READ ONLY] (2 days ago)
+- [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (2 days ago)
+- [php-runtime/roadrunner-symfony-nyholm](https://github.com/php-runtime/roadrunner-symfony-nyholm) - [READ ONLY] (2 days ago)
+- [php-runtime/swoole](https://github.com/php-runtime/swoole) - [READ ONLY] (2 days ago)
+- [phpredis/phpredis](https://github.com/phpredis/phpredis) - A PHP extension for Redis (3 days ago)
 
 #### 🌱 My latest projects
 
