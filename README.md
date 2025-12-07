@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.8](https://github.com/symfony/http-foundation/releases/tag/v7.3.8), today) - Defines an object-oriented layer for the HTTP specification
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.8](https://github.com/symfony/symfony/releases/tag/v7.3.8), today) - The Symfony PHP framework
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.4](https://github.com/swoole/swoole-src/releases/tag/v6.1.4), 1 day ago) - 🚀 Coroutine-based concurrency library for PHP
 - [spatie/async](https://github.com/spatie/async) ([1.8.1](https://github.com/spatie/async/releases/tag/1.8.1), 1 week ago) - Easily run code asynchronously
 - [spatie/laravel-pjax](https://github.com/spatie/laravel-pjax) ([2.4.2](https://github.com/spatie/laravel-pjax/releases/tag/2.4.2), 1 week ago) - A pjax middleware for Laravel
-- [spatie/laravel-mailcoach-editor](https://github.com/spatie/laravel-mailcoach-editor) ([2.2.2](https://github.com/spatie/laravel-mailcoach-editor/releases/tag/2.2.2), 1 week ago) - [READ-ONLY] The Mailcoach Editor.js package
-- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.34.9](https://github.com/spatie/laravel-health/releases/tag/1.34.9), 1 week ago) - Check the health of your Laravel app
 
 #### 👷 Check out what I'm currently working on
 
