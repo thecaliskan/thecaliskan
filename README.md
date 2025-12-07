@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.4](https://github.com/swoole/swoole-src/releases/tag/v6.1.4), today) - 🚀 Coroutine-based concurrency library for PHP
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.4](https://github.com/swoole/swoole-src/releases/tag/v6.1.4), 1 day ago) - 🚀 Coroutine-based concurrency library for PHP
 - [spatie/async](https://github.com/spatie/async) ([1.8.1](https://github.com/spatie/async/releases/tag/1.8.1), 1 week ago) - Easily run code asynchronously
 - [spatie/laravel-pjax](https://github.com/spatie/laravel-pjax) ([2.4.2](https://github.com/spatie/laravel-pjax/releases/tag/2.4.2), 1 week ago) - A pjax middleware for Laravel
 - [spatie/laravel-mailcoach-editor](https://github.com/spatie/laravel-mailcoach-editor) ([2.2.2](https://github.com/spatie/laravel-mailcoach-editor/releases/tag/2.2.2), 1 week ago) - [READ-ONLY] The Mailcoach Editor.js package
@@ -17,11 +17,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [php-runtime/reactphp](https://github.com/php-runtime/reactphp) - [READ ONLY] (4 days ago)
-- [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (4 days ago)
-- [php-runtime/roadrunner-symfony-nyholm](https://github.com/php-runtime/roadrunner-symfony-nyholm) - [READ ONLY] (4 days ago)
-- [php-runtime/swoole](https://github.com/php-runtime/swoole) - [READ ONLY] (4 days ago)
-- [phpredis/phpredis](https://github.com/phpredis/phpredis) - A PHP extension for Redis (5 days ago)
+- [php-runtime/reactphp](https://github.com/php-runtime/reactphp) - [READ ONLY] (5 days ago)
+- [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (5 days ago)
+- [php-runtime/roadrunner-symfony-nyholm](https://github.com/php-runtime/roadrunner-symfony-nyholm) - [READ ONLY] (5 days ago)
+- [php-runtime/swoole](https://github.com/php-runtime/swoole) - [READ ONLY] (5 days ago)
+- [phpredis/phpredis](https://github.com/phpredis/phpredis) - A PHP extension for Redis (6 days ago)
 
 #### 🌱 My latest projects
 
