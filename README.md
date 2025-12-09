@@ -9,18 +9,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.2](https://github.com/symfony/symfony/releases/tag/v8.0.2), today) - The Symfony PHP framework
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.1](https://github.com/symfony/http-foundation/releases/tag/v8.0.1), 1 day ago) - Defines an object-oriented layer for the HTTP specification
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.4](https://github.com/swoole/swoole-src/releases/tag/v6.1.4), 2 days ago) - 🚀 Coroutine-based concurrency library for PHP
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.2](https://github.com/symfony/symfony/releases/tag/v8.0.2), 1 day ago) - The Symfony PHP framework
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.1](https://github.com/symfony/http-foundation/releases/tag/v8.0.1), 2 days ago) - Defines an object-oriented layer for the HTTP specification
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.4](https://github.com/swoole/swoole-src/releases/tag/v6.1.4), 3 days ago) - 🚀 Coroutine-based concurrency library for PHP
 - [spatie/async](https://github.com/spatie/async) ([1.8.1](https://github.com/spatie/async/releases/tag/1.8.1), 1 week ago) - Easily run code asynchronously
 - [spatie/laravel-pjax](https://github.com/spatie/laravel-pjax) ([2.4.2](https://github.com/spatie/laravel-pjax/releases/tag/2.4.2), 1 week ago) - A pjax middleware for Laravel
 
 #### 👷 Check out what I'm currently working on
 
-- [php-runtime/reactphp](https://github.com/php-runtime/reactphp) - [READ ONLY] (6 days ago)
-- [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (6 days ago)
-- [php-runtime/roadrunner-symfony-nyholm](https://github.com/php-runtime/roadrunner-symfony-nyholm) - [READ ONLY] (6 days ago)
-- [php-runtime/swoole](https://github.com/php-runtime/swoole) - [READ ONLY] (6 days ago)
+- [php-runtime/reactphp](https://github.com/php-runtime/reactphp) - [READ ONLY] (1 week ago)
+- [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (1 week ago)
+- [php-runtime/roadrunner-symfony-nyholm](https://github.com/php-runtime/roadrunner-symfony-nyholm) - [READ ONLY] (1 week ago)
+- [php-runtime/swoole](https://github.com/php-runtime/swoole) - [READ ONLY] (1 week ago)
 - [phpredis/phpredis](https://github.com/phpredis/phpredis) - A PHP extension for Redis (1 week ago)
 
 #### 🌱 My latest projects
