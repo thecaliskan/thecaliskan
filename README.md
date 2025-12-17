@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/pie](https://github.com/php/pie) ([1.3.2](https://github.com/php/pie/releases/tag/1.3.2), today) - The PHP Installer for Extensions
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.17.7](https://github.com/spatie/laravel-medialibrary/releases/tag/11.17.7), 2 days ago) - Associate files with Eloquent models
 - [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([2.7.0](https://github.com/spatie/flare-client-php/releases/tag/2.7.0), 6 days ago) - Send PHP errors to Flare
 - [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.8.2](https://github.com/spatie/db-dumper/releases/tag/3.8.2), 1 week ago) - Dump the contents of a database
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) ([15.26.3](https://github.com/Laravel-Lang/lang/releases/tag/15.26.3), 1 week ago) - List of 128 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.2](https://github.com/symfony/symfony/releases/tag/v8.0.2), 1 week ago) - The Symfony PHP framework
 
 #### 👷 Check out what I'm currently working on
 
