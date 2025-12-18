@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/php-src](https://github.com/php/php-src) ([php-8.2.30](https://github.com/php/php-src/releases/tag/php-8.2.30), today) - The PHP Interpreter
 - [php-runtime/swoole](https://github.com/php-runtime/swoole) ([1.0.0](https://github.com/php-runtime/swoole/releases/tag/1.0.0), today) - [READ ONLY]
 - [php-runtime/reactphp](https://github.com/php-runtime/reactphp) ([1.0.0](https://github.com/php-runtime/reactphp/releases/tag/1.0.0), today) - [READ ONLY]
 - [php-runtime/roadrunner-symfony-nyholm](https://github.com/php-runtime/roadrunner-symfony-nyholm) ([1.0.0](https://github.com/php-runtime/roadrunner-symfony-nyholm/releases/tag/1.0.0), today) - [READ ONLY]
 - [php/pie](https://github.com/php/pie) ([1.3.2](https://github.com/php/pie/releases/tag/1.3.2), 1 day ago) - The PHP Installer for Extensions
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.17.7](https://github.com/spatie/laravel-medialibrary/releases/tag/11.17.7), 3 days ago) - Associate files with Eloquent models
 
 #### 👷 Check out what I'm currently working on
 
