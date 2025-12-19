@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.5.1](https://github.com/php/php-windows-builder/releases/tag/1.5.1), today) - Tooling to build PHP and extensions on Windows
+- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([2.6.0](https://github.com/spatie/laravel-flare/releases/tag/2.6.0), today) - Send Laravel errors to Flare
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([2.8.0](https://github.com/spatie/flare-client-php/releases/tag/2.8.0), today) - Send PHP errors to Flare
 - [php/php-src](https://github.com/php/php-src) ([php-8.2.30](https://github.com/php/php-src/releases/tag/php-8.2.30), 1 day ago) - The PHP Interpreter
 - [php-runtime/swoole](https://github.com/php-runtime/swoole) ([1.0.0](https://github.com/php-runtime/swoole/releases/tag/1.0.0), 1 day ago) - [READ ONLY]
-- [php-runtime/reactphp](https://github.com/php-runtime/reactphp) ([1.0.0](https://github.com/php-runtime/reactphp/releases/tag/1.0.0), 1 day ago) - [READ ONLY]
-- [php-runtime/roadrunner-symfony-nyholm](https://github.com/php-runtime/roadrunner-symfony-nyholm) ([1.0.0](https://github.com/php-runtime/roadrunner-symfony-nyholm/releases/tag/1.0.0), 1 day ago) - [READ ONLY]
-- [php/pie](https://github.com/php/pie) ([1.3.2](https://github.com/php/pie/releases/tag/1.3.2), 2 days ago) - The PHP Installer for Extensions
 
 #### 👷 Check out what I'm currently working on
 
