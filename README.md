@@ -9,18 +9,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [php/php-src](https://github.com/php/php-src) ([php-8.1.34](https://github.com/php/php-src/releases/tag/php-8.1.34), today) - The PHP Interpreter
-- [php/pie](https://github.com/php/pie) ([1.3.3](https://github.com/php/pie/releases/tag/1.3.3), today) - The PHP Installer for Extensions
-- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([2.6.1](https://github.com/spatie/laravel-flare/releases/tag/2.6.1), today) - Send Laravel errors to Flare
-- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.5.1](https://github.com/php/php-windows-builder/releases/tag/1.5.1), today) - Tooling to build PHP and extensions on Windows
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([2.8.0](https://github.com/spatie/flare-client-php/releases/tag/2.8.0), today) - Send PHP errors to Flare
+- [php/php-src](https://github.com/php/php-src) ([php-8.1.34](https://github.com/php/php-src/releases/tag/php-8.1.34), 1 day ago) - The PHP Interpreter
+- [php/pie](https://github.com/php/pie) ([1.3.3](https://github.com/php/pie/releases/tag/1.3.3), 1 day ago) - The PHP Installer for Extensions
+- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([2.6.1](https://github.com/spatie/laravel-flare/releases/tag/2.6.1), 1 day ago) - Send Laravel errors to Flare
+- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.5.1](https://github.com/php/php-windows-builder/releases/tag/1.5.1), 1 day ago) - Tooling to build PHP and extensions on Windows
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([2.8.0](https://github.com/spatie/flare-client-php/releases/tag/2.8.0), 1 day ago) - Send PHP errors to Flare
 
 #### 👷 Check out what I'm currently working on
 
-- [php-runtime/roadrunner-symfony-nyholm](https://github.com/php-runtime/roadrunner-symfony-nyholm) - [READ ONLY] (1 day ago)
-- [php-runtime/swoole](https://github.com/php-runtime/swoole) - [READ ONLY] (1 day ago)
-- [php-runtime/reactphp](https://github.com/php-runtime/reactphp) - [READ ONLY] (1 day ago)
-- [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (1 day ago)
+- [php-runtime/roadrunner-symfony-nyholm](https://github.com/php-runtime/roadrunner-symfony-nyholm) - [READ ONLY] (2 days ago)
+- [php-runtime/swoole](https://github.com/php-runtime/swoole) - [READ ONLY] (2 days ago)
+- [php-runtime/reactphp](https://github.com/php-runtime/reactphp) - [READ ONLY] (2 days ago)
+- [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (2 days ago)
 - [phpredis/phpredis](https://github.com/phpredis/phpredis) - A PHP extension for Redis (2 weeks ago)
 
 #### 🌱 My latest projects
