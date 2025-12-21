@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.5](https://github.com/swoole/swoole-src/releases/tag/v6.1.5), today) - 🚀 Coroutine-based concurrency library for PHP
 - [php/php-src](https://github.com/php/php-src) ([php-8.1.34](https://github.com/php/php-src/releases/tag/php-8.1.34), 2 days ago) - The PHP Interpreter
 - [php/pie](https://github.com/php/pie) ([1.3.3](https://github.com/php/pie/releases/tag/1.3.3), 2 days ago) - The PHP Installer for Extensions
 - [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([2.6.1](https://github.com/spatie/laravel-flare/releases/tag/2.6.1), 2 days ago) - Send Laravel errors to Flare
 - [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.5.1](https://github.com/php/php-windows-builder/releases/tag/1.5.1), 2 days ago) - Tooling to build PHP and extensions on Windows
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([2.8.0](https://github.com/spatie/flare-client-php/releases/tag/2.8.0), 2 days ago) - Send PHP errors to Flare
 
 #### 👷 Check out what I'm currently working on
 
