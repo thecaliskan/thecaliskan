@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.34.10](https://github.com/spatie/laravel-health/releases/tag/1.34.10), today) - Check the health of your Laravel app
+- [spatie/browsershot](https://github.com/spatie/browsershot) ([5.2.0](https://github.com/spatie/browsershot/releases/tag/5.2.0), today) - Convert HTML to an image, PDF or string
+- [spatie/phpunit-watcher](https://github.com/spatie/phpunit-watcher) ([1.24.2](https://github.com/spatie/phpunit-watcher/releases/tag/1.24.2), today) - A tool to automatically rerun PHPUnit tests when source code changes
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.5](https://github.com/swoole/swoole-src/releases/tag/v6.1.5), 1 day ago) - 🚀 Coroutine-based concurrency library for PHP
 - [php/php-src](https://github.com/php/php-src) ([php-8.1.34](https://github.com/php/php-src/releases/tag/php-8.1.34), 3 days ago) - The PHP Interpreter
-- [php/pie](https://github.com/php/pie) ([1.3.3](https://github.com/php/pie/releases/tag/1.3.3), 3 days ago) - The PHP Installer for Extensions
-- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([2.6.1](https://github.com/spatie/laravel-flare/releases/tag/2.6.1), 3 days ago) - Send Laravel errors to Flare
-- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.5.1](https://github.com/php/php-windows-builder/releases/tag/1.5.1), 3 days ago) - Tooling to build PHP and extensions on Windows
 
 #### 👷 Check out what I'm currently working on
 
