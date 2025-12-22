@@ -9,19 +9,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.5](https://github.com/swoole/swoole-src/releases/tag/v6.1.5), today) - 🚀 Coroutine-based concurrency library for PHP
-- [php/php-src](https://github.com/php/php-src) ([php-8.1.34](https://github.com/php/php-src/releases/tag/php-8.1.34), 2 days ago) - The PHP Interpreter
-- [php/pie](https://github.com/php/pie) ([1.3.3](https://github.com/php/pie/releases/tag/1.3.3), 2 days ago) - The PHP Installer for Extensions
-- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([2.6.1](https://github.com/spatie/laravel-flare/releases/tag/2.6.1), 2 days ago) - Send Laravel errors to Flare
-- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.5.1](https://github.com/php/php-windows-builder/releases/tag/1.5.1), 2 days ago) - Tooling to build PHP and extensions on Windows
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.5](https://github.com/swoole/swoole-src/releases/tag/v6.1.5), 1 day ago) - 🚀 Coroutine-based concurrency library for PHP
+- [php/php-src](https://github.com/php/php-src) ([php-8.1.34](https://github.com/php/php-src/releases/tag/php-8.1.34), 3 days ago) - The PHP Interpreter
+- [php/pie](https://github.com/php/pie) ([1.3.3](https://github.com/php/pie/releases/tag/1.3.3), 3 days ago) - The PHP Installer for Extensions
+- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([2.6.1](https://github.com/spatie/laravel-flare/releases/tag/2.6.1), 3 days ago) - Send Laravel errors to Flare
+- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.5.1](https://github.com/php/php-windows-builder/releases/tag/1.5.1), 3 days ago) - Tooling to build PHP and extensions on Windows
 
 #### 👷 Check out what I'm currently working on
 
-- [php-runtime/roadrunner-symfony-nyholm](https://github.com/php-runtime/roadrunner-symfony-nyholm) - [READ ONLY] (3 days ago)
-- [php-runtime/swoole](https://github.com/php-runtime/swoole) - [READ ONLY] (3 days ago)
-- [php-runtime/reactphp](https://github.com/php-runtime/reactphp) - [READ ONLY] (3 days ago)
-- [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (3 days ago)
-- [phpredis/phpredis](https://github.com/phpredis/phpredis) - A PHP extension for Redis (2 weeks ago)
+- [php-runtime/roadrunner-symfony-nyholm](https://github.com/php-runtime/roadrunner-symfony-nyholm) - [READ ONLY] (4 days ago)
+- [php-runtime/swoole](https://github.com/php-runtime/swoole) - [READ ONLY] (4 days ago)
+- [php-runtime/reactphp](https://github.com/php-runtime/reactphp) - [READ ONLY] (4 days ago)
+- [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (4 days ago)
+- [phpredis/phpredis](https://github.com/phpredis/phpredis) - A PHP extension for Redis (3 weeks ago)
 
 #### 🌱 My latest projects
 
