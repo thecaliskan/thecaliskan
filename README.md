@@ -9,18 +9,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.34.10](https://github.com/spatie/laravel-health/releases/tag/1.34.10), today) - Check the health of your Laravel app
-- [spatie/browsershot](https://github.com/spatie/browsershot) ([5.2.0](https://github.com/spatie/browsershot/releases/tag/5.2.0), today) - Convert HTML to an image, PDF or string
-- [spatie/phpunit-watcher](https://github.com/spatie/phpunit-watcher) ([1.24.2](https://github.com/spatie/phpunit-watcher/releases/tag/1.24.2), today) - A tool to automatically rerun PHPUnit tests when source code changes
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.5](https://github.com/swoole/swoole-src/releases/tag/v6.1.5), 1 day ago) - 🚀 Coroutine-based concurrency library for PHP
-- [php/php-src](https://github.com/php/php-src) ([php-8.1.34](https://github.com/php/php-src/releases/tag/php-8.1.34), 3 days ago) - The PHP Interpreter
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.34.10](https://github.com/spatie/laravel-health/releases/tag/1.34.10), 1 day ago) - Check the health of your Laravel app
+- [spatie/browsershot](https://github.com/spatie/browsershot) ([5.2.0](https://github.com/spatie/browsershot/releases/tag/5.2.0), 1 day ago) - Convert HTML to an image, PDF or string
+- [spatie/phpunit-watcher](https://github.com/spatie/phpunit-watcher) ([1.24.2](https://github.com/spatie/phpunit-watcher/releases/tag/1.24.2), 1 day ago) - A tool to automatically rerun PHPUnit tests when source code changes
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.5](https://github.com/swoole/swoole-src/releases/tag/v6.1.5), 2 days ago) - 🚀 Coroutine-based concurrency library for PHP
+- [php/php-src](https://github.com/php/php-src) ([php-8.1.34](https://github.com/php/php-src/releases/tag/php-8.1.34), 4 days ago) - The PHP Interpreter
 
 #### 👷 Check out what I'm currently working on
 
-- [php-runtime/roadrunner-symfony-nyholm](https://github.com/php-runtime/roadrunner-symfony-nyholm) - [READ ONLY] (4 days ago)
-- [php-runtime/swoole](https://github.com/php-runtime/swoole) - [READ ONLY] (4 days ago)
-- [php-runtime/reactphp](https://github.com/php-runtime/reactphp) - [READ ONLY] (4 days ago)
-- [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (4 days ago)
+- [php-runtime/roadrunner-symfony-nyholm](https://github.com/php-runtime/roadrunner-symfony-nyholm) - [READ ONLY] (5 days ago)
+- [php-runtime/swoole](https://github.com/php-runtime/swoole) - [READ ONLY] (5 days ago)
+- [php-runtime/reactphp](https://github.com/php-runtime/reactphp) - [READ ONLY] (5 days ago)
+- [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (5 days ago)
 - [phpredis/phpredis](https://github.com/phpredis/phpredis) - A PHP extension for Redis (3 weeks ago)
 
 #### 🌱 My latest projects
