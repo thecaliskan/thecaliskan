@@ -17,11 +17,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [laravel/horizon](https://github.com/laravel/horizon) - Dashboard and code-driven configuration for Laravel queues. (today)
 - [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (today)
-- [php-runtime/roadrunner-symfony-nyholm](https://github.com/php-runtime/roadrunner-symfony-nyholm) - [READ ONLY] (1 week ago)
+- [php-runtime/swoole](https://github.com/php-runtime/swoole) - [READ ONLY] (1 week ago)
 - [php-runtime/reactphp](https://github.com/php-runtime/reactphp) - [READ ONLY] (1 week ago)
 - [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (1 week ago)
-- [php-runtime/swoole](https://github.com/php-runtime/swoole) - [READ ONLY] (1 week ago)
 
 #### 🌱 My latest projects
 
