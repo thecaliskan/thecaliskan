@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.6](https://github.com/swoole/swoole-src/releases/tag/v6.1.6), today) - 🚀 Coroutine-based concurrency library for PHP
 - [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) ([v1.1.0](https://github.com/thecaliskan/proxy-api/releases/tag/v1.1.0), 3 days ago) - Proxy API for HTTP Request
 - [spatie/global-ray](https://github.com/spatie/global-ray) ([1.2.3](https://github.com/spatie/global-ray/releases/tag/1.2.3), 5 days ago) - Enable Ray in all PHP files on your system
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.34.10](https://github.com/spatie/laravel-health/releases/tag/1.34.10), 6 days ago) - Check the health of your Laravel app
 - [spatie/browsershot](https://github.com/spatie/browsershot) ([5.2.0](https://github.com/spatie/browsershot/releases/tag/5.2.0), 6 days ago) - Convert HTML to an image, PDF or string
-- [spatie/phpunit-watcher](https://github.com/spatie/phpunit-watcher) ([1.24.2](https://github.com/spatie/phpunit-watcher/releases/tag/1.24.2), 6 days ago) - A tool to automatically rerun PHPUnit tests when source code changes
 
 #### 👷 Check out what I'm currently working on
 
