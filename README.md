@@ -9,16 +9,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.6](https://github.com/swoole/swoole-src/releases/tag/v6.1.6), 1 day ago) - 🚀 Coroutine-based concurrency library for PHP
-- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) ([v1.1.0](https://github.com/thecaliskan/proxy-api/releases/tag/v1.1.0), 4 days ago) - Proxy API for HTTP Request
-- [spatie/global-ray](https://github.com/spatie/global-ray) ([1.2.3](https://github.com/spatie/global-ray/releases/tag/1.2.3), 6 days ago) - Enable Ray in all PHP files on your system
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.6](https://github.com/swoole/swoole-src/releases/tag/v6.1.6), 2 days ago) - 🚀 Coroutine-based concurrency library for PHP
+- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) ([v1.1.0](https://github.com/thecaliskan/proxy-api/releases/tag/v1.1.0), 5 days ago) - Proxy API for HTTP Request
+- [spatie/global-ray](https://github.com/spatie/global-ray) ([1.2.3](https://github.com/spatie/global-ray/releases/tag/1.2.3), 1 week ago) - Enable Ray in all PHP files on your system
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.34.10](https://github.com/spatie/laravel-health/releases/tag/1.34.10), 1 week ago) - Check the health of your Laravel app
 - [spatie/browsershot](https://github.com/spatie/browsershot) ([5.2.0](https://github.com/spatie/browsershot/releases/tag/5.2.0), 1 week ago) - Convert HTML to an image, PDF or string
 
 #### 👷 Check out what I'm currently working on
 
-- [laravel/horizon](https://github.com/laravel/horizon) - Dashboard and code-driven configuration for Laravel queues. (4 days ago)
-- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (4 days ago)
+- [laravel/horizon](https://github.com/laravel/horizon) - Dashboard and code-driven configuration for Laravel queues. (5 days ago)
+- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (5 days ago)
 - [php-runtime/swoole](https://github.com/php-runtime/swoole) - [READ ONLY] (1 week ago)
 - [php-runtime/reactphp](https://github.com/php-runtime/reactphp) - [READ ONLY] (1 week ago)
 - [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (1 week ago)
