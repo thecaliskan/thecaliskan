@@ -9,8 +9,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.4.3](https://github.com/symfony/http-foundation/releases/tag/v7.4.3), today) - Defines an object-oriented layer for the HTTP specification
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.4.3](https://github.com/symfony/symfony/releases/tag/v7.4.3), today) - The Symfony PHP framework
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.3](https://github.com/symfony/http-foundation/releases/tag/v8.0.3), today) - Defines an object-oriented layer for the HTTP specification
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.3](https://github.com/symfony/symfony/releases/tag/v8.0.3), today) - The Symfony PHP framework
 - [spatie/phpunit-watcher](https://github.com/spatie/phpunit-watcher) ([1.24.3](https://github.com/spatie/phpunit-watcher/releases/tag/1.24.3), 1 day ago) - A tool to automatically rerun PHPUnit tests when source code changes
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.6](https://github.com/swoole/swoole-src/releases/tag/v6.1.6), 3 days ago) - 🚀 Coroutine-based concurrency library for PHP
 - [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) ([v1.1.0](https://github.com/thecaliskan/proxy-api/releases/tag/v1.1.0), 6 days ago) - Proxy API for HTTP Request
