@@ -9,16 +9,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/phpunit-watcher](https://github.com/spatie/phpunit-watcher) ([1.24.3](https://github.com/spatie/phpunit-watcher/releases/tag/1.24.3), today) - A tool to automatically rerun PHPUnit tests when source code changes
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.6](https://github.com/swoole/swoole-src/releases/tag/v6.1.6), 2 days ago) - 🚀 Coroutine-based concurrency library for PHP
-- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) ([v1.1.0](https://github.com/thecaliskan/proxy-api/releases/tag/v1.1.0), 5 days ago) - Proxy API for HTTP Request
+- [spatie/phpunit-watcher](https://github.com/spatie/phpunit-watcher) ([1.24.3](https://github.com/spatie/phpunit-watcher/releases/tag/1.24.3), 1 day ago) - A tool to automatically rerun PHPUnit tests when source code changes
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.6](https://github.com/swoole/swoole-src/releases/tag/v6.1.6), 3 days ago) - 🚀 Coroutine-based concurrency library for PHP
+- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) ([v1.1.0](https://github.com/thecaliskan/proxy-api/releases/tag/v1.1.0), 6 days ago) - Proxy API for HTTP Request
 - [spatie/global-ray](https://github.com/spatie/global-ray) ([1.2.3](https://github.com/spatie/global-ray/releases/tag/1.2.3), 1 week ago) - Enable Ray in all PHP files on your system
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.34.10](https://github.com/spatie/laravel-health/releases/tag/1.34.10), 1 week ago) - Check the health of your Laravel app
 
 #### 👷 Check out what I'm currently working on
 
-- [laravel/horizon](https://github.com/laravel/horizon) - Dashboard and code-driven configuration for Laravel queues. (5 days ago)
-- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (5 days ago)
+- [laravel/horizon](https://github.com/laravel/horizon) - Dashboard and code-driven configuration for Laravel queues. (6 days ago)
+- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (6 days ago)
 - [php-runtime/swoole](https://github.com/php-runtime/swoole) - [READ ONLY] (1 week ago)
 - [php-runtime/reactphp](https://github.com/php-runtime/reactphp) - [READ ONLY] (1 week ago)
 - [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (1 week ago)
