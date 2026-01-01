@@ -9,19 +9,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.3](https://github.com/symfony/http-foundation/releases/tag/v8.0.3), today) - Defines an object-oriented layer for the HTTP specification
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.3](https://github.com/symfony/symfony/releases/tag/v8.0.3), today) - The Symfony PHP framework
-- [spatie/phpunit-watcher](https://github.com/spatie/phpunit-watcher) ([1.24.3](https://github.com/spatie/phpunit-watcher/releases/tag/1.24.3), 1 day ago) - A tool to automatically rerun PHPUnit tests when source code changes
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.6](https://github.com/swoole/swoole-src/releases/tag/v6.1.6), 3 days ago) - 🚀 Coroutine-based concurrency library for PHP
-- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) ([v1.1.0](https://github.com/thecaliskan/proxy-api/releases/tag/v1.1.0), 6 days ago) - Proxy API for HTTP Request
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.3](https://github.com/symfony/http-foundation/releases/tag/v8.0.3), 1 day ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.3](https://github.com/symfony/symfony/releases/tag/v8.0.3), 1 day ago) - The Symfony PHP framework
+- [spatie/phpunit-watcher](https://github.com/spatie/phpunit-watcher) ([1.24.3](https://github.com/spatie/phpunit-watcher/releases/tag/1.24.3), 2 days ago) - A tool to automatically rerun PHPUnit tests when source code changes
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.6](https://github.com/swoole/swoole-src/releases/tag/v6.1.6), 4 days ago) - 🚀 Coroutine-based concurrency library for PHP
+- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) ([v1.1.0](https://github.com/thecaliskan/proxy-api/releases/tag/v1.1.0), 1 week ago) - Proxy API for HTTP Request
 
 #### 👷 Check out what I'm currently working on
 
-- [laravel/horizon](https://github.com/laravel/horizon) - Dashboard and code-driven configuration for Laravel queues. (6 days ago)
-- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (6 days ago)
-- [php-runtime/swoole](https://github.com/php-runtime/swoole) - [READ ONLY] (1 week ago)
-- [php-runtime/reactphp](https://github.com/php-runtime/reactphp) - [READ ONLY] (1 week ago)
-- [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (1 week ago)
+- [laravel/horizon](https://github.com/laravel/horizon) - Dashboard and code-driven configuration for Laravel queues. (1 week ago)
+- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (1 week ago)
+- [php-runtime/swoole](https://github.com/php-runtime/swoole) - [READ ONLY] (2 weeks ago)
+- [php-runtime/reactphp](https://github.com/php-runtime/reactphp) - [READ ONLY] (2 weeks ago)
+- [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (2 weeks ago)
 
 #### 🌱 My latest projects
 
