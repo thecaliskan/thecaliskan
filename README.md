@@ -9,10 +9,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.3](https://github.com/symfony/http-foundation/releases/tag/v8.0.3), 1 day ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.3](https://github.com/symfony/symfony/releases/tag/v8.0.3), 1 day ago) - The Symfony PHP framework
-- [spatie/phpunit-watcher](https://github.com/spatie/phpunit-watcher) ([1.24.3](https://github.com/spatie/phpunit-watcher/releases/tag/1.24.3), 2 days ago) - A tool to automatically rerun PHPUnit tests when source code changes
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.6](https://github.com/swoole/swoole-src/releases/tag/v6.1.6), 4 days ago) - 🚀 Coroutine-based concurrency library for PHP
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.3](https://github.com/symfony/http-foundation/releases/tag/v8.0.3), 2 days ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.3](https://github.com/symfony/symfony/releases/tag/v8.0.3), 2 days ago) - The Symfony PHP framework
+- [spatie/phpunit-watcher](https://github.com/spatie/phpunit-watcher) ([1.24.3](https://github.com/spatie/phpunit-watcher/releases/tag/1.24.3), 3 days ago) - A tool to automatically rerun PHPUnit tests when source code changes
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.6](https://github.com/swoole/swoole-src/releases/tag/v6.1.6), 5 days ago) - 🚀 Coroutine-based concurrency library for PHP
 - [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) ([v1.1.0](https://github.com/thecaliskan/proxy-api/releases/tag/v1.1.0), 1 week ago) - Proxy API for HTTP Request
 
 #### 👷 Check out what I'm currently working on
