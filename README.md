@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/phpunit-watcher](https://github.com/spatie/phpunit-watcher) ([1.24.4](https://github.com/spatie/phpunit-watcher/releases/tag/1.24.4), today) - A tool to automatically rerun PHPUnit tests when source code changes
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.17.8](https://github.com/spatie/laravel-medialibrary/releases/tag/11.17.8), today) - Associate files with Eloquent models
 - [php/pie](https://github.com/php/pie) ([1.3.4](https://github.com/php/pie/releases/tag/1.3.4), 3 days ago) - The PHP Installer for Extensions
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.3](https://github.com/symfony/http-foundation/releases/tag/v8.0.3), 5 days ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.3](https://github.com/symfony/symfony/releases/tag/v8.0.3), 5 days ago) - The Symfony PHP framework
-- [spatie/phpunit-watcher](https://github.com/spatie/phpunit-watcher) ([1.24.3](https://github.com/spatie/phpunit-watcher/releases/tag/1.24.3), 6 days ago) - A tool to automatically rerun PHPUnit tests when source code changes
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.6](https://github.com/swoole/swoole-src/releases/tag/v6.1.6), 1 week ago) - 🚀 Coroutine-based concurrency library for PHP
 
 #### 👷 Check out what I'm currently working on
 
