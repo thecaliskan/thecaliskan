@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [curl/curl](https://github.com/curl/curl) ([curl-8_18_0](https://github.com/curl/curl/releases/tag/curl-8_18_0), today) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - [php/pie](https://github.com/php/pie) ([1.3.5](https://github.com/php/pie/releases/tag/1.3.5), 1 day ago) - The PHP Installer for Extensions
 - [laravel/horizon](https://github.com/laravel/horizon) ([v5.42.0](https://github.com/laravel/horizon/releases/tag/v5.42.0), 1 day ago) - Dashboard and code-driven configuration for Laravel queues.
 - [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.8.3](https://github.com/spatie/db-dumper/releases/tag/3.8.3), 2 days ago) - Dump the contents of a database
 - [spatie/phpunit-watcher](https://github.com/spatie/phpunit-watcher) ([1.24.4](https://github.com/spatie/phpunit-watcher/releases/tag/1.24.4), 2 days ago) - A tool to automatically rerun PHPUnit tests when source code changes
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.17.8](https://github.com/spatie/laravel-medialibrary/releases/tag/11.17.8), 2 days ago) - Associate files with Eloquent models
 
 #### 👷 Check out what I'm currently working on
 
