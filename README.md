@@ -9,19 +9,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/image](https://github.com/spatie/image) ([3.9.0](https://github.com/spatie/image/releases/tag/3.9.0), today) - Manipulate images with an expressive API
-- [curl/curl](https://github.com/curl/curl) ([curl-8_18_0](https://github.com/curl/curl/releases/tag/curl-8_18_0), today) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
-- [php/pie](https://github.com/php/pie) ([1.3.5](https://github.com/php/pie/releases/tag/1.3.5), 1 day ago) - The PHP Installer for Extensions
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.42.0](https://github.com/laravel/horizon/releases/tag/v5.42.0), 1 day ago) - Dashboard and code-driven configuration for Laravel queues.
-- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.8.3](https://github.com/spatie/db-dumper/releases/tag/3.8.3), 2 days ago) - Dump the contents of a database
+- [spatie/image](https://github.com/spatie/image) ([3.9.0](https://github.com/spatie/image/releases/tag/3.9.0), 1 day ago) - Manipulate images with an expressive API
+- [curl/curl](https://github.com/curl/curl) ([curl-8_18_0](https://github.com/curl/curl/releases/tag/curl-8_18_0), 1 day ago) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
+- [php/pie](https://github.com/php/pie) ([1.3.5](https://github.com/php/pie/releases/tag/1.3.5), 2 days ago) - The PHP Installer for Extensions
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.42.0](https://github.com/laravel/horizon/releases/tag/v5.42.0), 2 days ago) - Dashboard and code-driven configuration for Laravel queues.
+- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.8.3](https://github.com/spatie/db-dumper/releases/tag/3.8.3), 3 days ago) - Dump the contents of a database
 
 #### 👷 Check out what I'm currently working on
 
-- [laravel/horizon](https://github.com/laravel/horizon) - Dashboard and code-driven configuration for Laravel queues. (1 week ago)
-- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (1 week ago)
-- [php-runtime/swoole](https://github.com/php-runtime/swoole) - [READ ONLY] (2 weeks ago)
-- [php-runtime/roadrunner-symfony-nyholm](https://github.com/php-runtime/roadrunner-symfony-nyholm) - [READ ONLY] (2 weeks ago)
-- [php-runtime/reactphp](https://github.com/php-runtime/reactphp) - [READ ONLY] (2 weeks ago)
+- [laravel/horizon](https://github.com/laravel/horizon) - Dashboard and code-driven configuration for Laravel queues. (2 weeks ago)
+- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (2 weeks ago)
+- [php-runtime/swoole](https://github.com/php-runtime/swoole) - [READ ONLY] (3 weeks ago)
+- [php-runtime/roadrunner-symfony-nyholm](https://github.com/php-runtime/roadrunner-symfony-nyholm) - [READ ONLY] (3 weeks ago)
+- [php-runtime/reactphp](https://github.com/php-runtime/reactphp) - [READ ONLY] (3 weeks ago)
 
 #### 🌱 My latest projects
 
