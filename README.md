@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([2.6.2](https://github.com/spatie/laravel-flare/releases/tag/2.6.2), today) - Send Laravel errors to Flare
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([2.9.0](https://github.com/spatie/flare-client-php/releases/tag/2.9.0), today) - Send PHP errors to Flare
 - [spatie/image](https://github.com/spatie/image) ([3.9.0](https://github.com/spatie/image/releases/tag/3.9.0), 1 day ago) - Manipulate images with an expressive API
 - [curl/curl](https://github.com/curl/curl) ([curl-8_18_0](https://github.com/curl/curl/releases/tag/curl-8_18_0), 1 day ago) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - [php/pie](https://github.com/php/pie) ([1.3.5](https://github.com/php/pie/releases/tag/1.3.5), 2 days ago) - The PHP Installer for Extensions
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.42.0](https://github.com/laravel/horizon/releases/tag/v5.42.0), 2 days ago) - Dashboard and code-driven configuration for Laravel queues.
-- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([3.8.3](https://github.com/spatie/db-dumper/releases/tag/3.8.3), 3 days ago) - Dump the contents of a database
 
 #### 👷 Check out what I'm currently working on
 
