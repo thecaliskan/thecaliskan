@@ -9,10 +9,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([2.7.0](https://github.com/spatie/laravel-flare/releases/tag/2.7.0), today) - Send Laravel errors to Flare
 - [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([2.10.0](https://github.com/spatie/flare-client-php/releases/tag/2.10.0), 2 days ago) - Send PHP errors to Flare
 - [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.6.1](https://github.com/php/php-windows-builder/releases/tag/1.6.1), 2 days ago) - Tooling to build PHP and extensions on Windows
 - [spatie/image](https://github.com/spatie/image) ([3.9.1](https://github.com/spatie/image/releases/tag/3.9.1), 2 days ago) - Manipulate images with an expressive API
-- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([2.6.2](https://github.com/spatie/laravel-flare/releases/tag/2.6.2), 6 days ago) - Send Laravel errors to Flare
 - [curl/curl](https://github.com/curl/curl) ([curl-8_18_0](https://github.com/curl/curl/releases/tag/curl-8_18_0), 1 week ago) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 
 #### 👷 Check out what I'm currently working on
