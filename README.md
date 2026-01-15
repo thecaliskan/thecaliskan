@@ -9,19 +9,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([2.7.0](https://github.com/spatie/laravel-flare/releases/tag/2.7.0), today) - Send Laravel errors to Flare
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([2.10.0](https://github.com/spatie/flare-client-php/releases/tag/2.10.0), 2 days ago) - Send PHP errors to Flare
-- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.6.1](https://github.com/php/php-windows-builder/releases/tag/1.6.1), 2 days ago) - Tooling to build PHP and extensions on Windows
-- [spatie/image](https://github.com/spatie/image) ([3.9.1](https://github.com/spatie/image/releases/tag/3.9.1), 2 days ago) - Manipulate images with an expressive API
+- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([2.7.0](https://github.com/spatie/laravel-flare/releases/tag/2.7.0), 1 day ago) - Send Laravel errors to Flare
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([2.10.0](https://github.com/spatie/flare-client-php/releases/tag/2.10.0), 3 days ago) - Send PHP errors to Flare
+- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.6.1](https://github.com/php/php-windows-builder/releases/tag/1.6.1), 3 days ago) - Tooling to build PHP and extensions on Windows
+- [spatie/image](https://github.com/spatie/image) ([3.9.1](https://github.com/spatie/image/releases/tag/3.9.1), 3 days ago) - Manipulate images with an expressive API
 - [curl/curl](https://github.com/curl/curl) ([curl-8_18_0](https://github.com/curl/curl/releases/tag/curl-8_18_0), 1 week ago) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 
 #### 👷 Check out what I'm currently working on
 
-- [laravel/horizon](https://github.com/laravel/horizon) - Dashboard and code-driven configuration for Laravel queues. (2 weeks ago)
-- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (2 weeks ago)
-- [php-runtime/swoole](https://github.com/php-runtime/swoole) - [READ ONLY] (3 weeks ago)
-- [php-runtime/roadrunner-symfony-nyholm](https://github.com/php-runtime/roadrunner-symfony-nyholm) - [READ ONLY] (3 weeks ago)
-- [php-runtime/reactphp](https://github.com/php-runtime/reactphp) - [READ ONLY] (3 weeks ago)
+- [laravel/horizon](https://github.com/laravel/horizon) - Dashboard and code-driven configuration for Laravel queues. (3 weeks ago)
+- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (3 weeks ago)
+- [php-runtime/swoole](https://github.com/php-runtime/swoole) - [READ ONLY] (4 weeks ago)
+- [php-runtime/roadrunner-symfony-nyholm](https://github.com/php-runtime/roadrunner-symfony-nyholm) - [READ ONLY] (4 weeks ago)
+- [php-runtime/reactphp](https://github.com/php-runtime/reactphp) - [READ ONLY] (4 weeks ago)
 
 #### 🌱 My latest projects
 
