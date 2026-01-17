@@ -9,19 +9,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) ([3.0.0-beta.1](https://github.com/spatie/typescript-transformer/releases/tag/3.0.0-beta.1), today) - Transform PHP types to TypeScript
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.43.0](https://github.com/laravel/horizon/releases/tag/v5.43.0), 1 day ago) - Dashboard and code-driven configuration for Laravel queues.
-- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([2.7.0](https://github.com/spatie/laravel-flare/releases/tag/2.7.0), 2 days ago) - Send Laravel errors to Flare
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([2.10.0](https://github.com/spatie/flare-client-php/releases/tag/2.10.0), 4 days ago) - Send PHP errors to Flare
-- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.6.1](https://github.com/php/php-windows-builder/releases/tag/1.6.1), 4 days ago) - Tooling to build PHP and extensions on Windows
+- [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) ([3.0.0-beta.1](https://github.com/spatie/typescript-transformer/releases/tag/3.0.0-beta.1), 1 day ago) - Transform PHP types to TypeScript
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.43.0](https://github.com/laravel/horizon/releases/tag/v5.43.0), 2 days ago) - Dashboard and code-driven configuration for Laravel queues.
+- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([2.7.0](https://github.com/spatie/laravel-flare/releases/tag/2.7.0), 3 days ago) - Send Laravel errors to Flare
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([2.10.0](https://github.com/spatie/flare-client-php/releases/tag/2.10.0), 5 days ago) - Send PHP errors to Flare
+- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.6.1](https://github.com/php/php-windows-builder/releases/tag/1.6.1), 5 days ago) - Tooling to build PHP and extensions on Windows
 
 #### 👷 Check out what I'm currently working on
 
 - [laravel/horizon](https://github.com/laravel/horizon) - Dashboard and code-driven configuration for Laravel queues. (3 weeks ago)
 - [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (3 weeks ago)
-- [php-runtime/swoole](https://github.com/php-runtime/swoole) - [READ ONLY] (4 weeks ago)
-- [php-runtime/roadrunner-symfony-nyholm](https://github.com/php-runtime/roadrunner-symfony-nyholm) - [READ ONLY] (4 weeks ago)
-- [php-runtime/reactphp](https://github.com/php-runtime/reactphp) - [READ ONLY] (4 weeks ago)
+- [php-runtime/swoole](https://github.com/php-runtime/swoole) - [READ ONLY] (1 month ago)
+- [php-runtime/roadrunner-symfony-nyholm](https://github.com/php-runtime/roadrunner-symfony-nyholm) - [READ ONLY] (1 month ago)
+- [php-runtime/reactphp](https://github.com/php-runtime/reactphp) - [READ ONLY] (1 month ago)
 
 #### 🌱 My latest projects
 
