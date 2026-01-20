@@ -9,10 +9,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [php/pie](https://github.com/php/pie) ([1.3.6](https://github.com/php/pie/releases/tag/1.3.6), today) - The PHP Installer for Extensions
-- [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) ([3.0.0-beta.1](https://github.com/spatie/typescript-transformer/releases/tag/3.0.0-beta.1), 3 days ago) - Transform PHP types to TypeScript
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.43.0](https://github.com/laravel/horizon/releases/tag/v5.43.0), 4 days ago) - Dashboard and code-driven configuration for Laravel queues.
-- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([2.7.0](https://github.com/spatie/laravel-flare/releases/tag/2.7.0), 5 days ago) - Send Laravel errors to Flare
+- [php/pie](https://github.com/php/pie) ([1.3.6](https://github.com/php/pie/releases/tag/1.3.6), 1 day ago) - The PHP Installer for Extensions
+- [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) ([3.0.0-beta.1](https://github.com/spatie/typescript-transformer/releases/tag/3.0.0-beta.1), 4 days ago) - Transform PHP types to TypeScript
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.43.0](https://github.com/laravel/horizon/releases/tag/v5.43.0), 5 days ago) - Dashboard and code-driven configuration for Laravel queues.
+- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([2.7.0](https://github.com/spatie/laravel-flare/releases/tag/2.7.0), 6 days ago) - Send Laravel errors to Flare
 - [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([2.10.0](https://github.com/spatie/flare-client-php/releases/tag/2.10.0), 1 week ago) - Send PHP errors to Flare
 
 #### 👷 Check out what I'm currently working on
