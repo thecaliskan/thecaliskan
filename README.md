@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.12.4](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.12.4), today) - The easiest way to get started with event sourcing in Laravel
 - [spatie/crypto](https://github.com/spatie/crypto) ([2.1.2](https://github.com/spatie/crypto/releases/tag/2.1.2), today) - Encrypt and decrypt data using private/public keys
 - [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) ([2.10.0](https://github.com/spatie/laravel-ignition/releases/tag/2.10.0), 2 days ago) - A beautiful error page for Laravel apps
 - [php/pie](https://github.com/php/pie) ([1.3.6](https://github.com/php/pie/releases/tag/1.3.6), 3 days ago) - The PHP Installer for Extensions
 - [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) ([3.0.0-beta.1](https://github.com/spatie/typescript-transformer/releases/tag/3.0.0-beta.1), 6 days ago) - Transform PHP types to TypeScript
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.43.0](https://github.com/laravel/horizon/releases/tag/v5.43.0), 1 week ago) - Dashboard and code-driven configuration for Laravel queues.
 
 #### 👷 Check out what I'm currently working on
 
