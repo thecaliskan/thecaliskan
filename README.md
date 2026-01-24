@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.3.10](https://github.com/symfony/http-foundation/releases/tag/v7.3.10), today) - Defines an object-oriented layer for the HTTP specification
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.4.4](https://github.com/symfony/http-foundation/releases/tag/v7.4.4), today) - Defines an object-oriented layer for the HTTP specification
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.17.10](https://github.com/spatie/laravel-medialibrary/releases/tag/11.17.10), 2 days ago) - Associate files with Eloquent models
 - [spatie/holidays](https://github.com/spatie/holidays) ([1.24.0](https://github.com/spatie/holidays/releases/tag/1.24.0), 2 days ago) - Calculate which days you don&#39;t have to work!
 - [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.12.4](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.12.4), 2 days ago) - The easiest way to get started with event sourcing in Laravel
