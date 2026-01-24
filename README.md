@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.4.32](https://github.com/symfony/http-foundation/releases/tag/v6.4.32), today) - Defines an object-oriented layer for the HTTP specification
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.17.10](https://github.com/spatie/laravel-medialibrary/releases/tag/11.17.10), 2 days ago) - Associate files with Eloquent models
 - [spatie/holidays](https://github.com/spatie/holidays) ([1.24.0](https://github.com/spatie/holidays/releases/tag/1.24.0), 2 days ago) - Calculate which days you don&#39;t have to work!
 - [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.12.4](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.12.4), 2 days ago) - The easiest way to get started with event sourcing in Laravel
 - [spatie/crypto](https://github.com/spatie/crypto) ([2.1.2](https://github.com/spatie/crypto/releases/tag/2.1.2), 2 days ago) - Encrypt and decrypt data using private/public keys
-- [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) ([2.10.0](https://github.com/spatie/laravel-ignition/releases/tag/2.10.0), 4 days ago) - A beautiful error page for Laravel apps
 
 #### 👷 Check out what I'm currently working on
 
