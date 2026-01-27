@@ -33,11 +33,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [eislambey](https://github.com/eislambey)
 - [rodrigogalura](https://github.com/rodrigogalura)
 - [Neustradamus](https://github.com/Neustradamus)
 - [devback-nexance](https://github.com/devback-nexance)
 - [chipnertkj](https://github.com/chipnertkj)
-- [umit144](https://github.com/umit144)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/thecaliskan) (thank you!)
 
