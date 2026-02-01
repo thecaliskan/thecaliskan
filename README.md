@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/shiki-php](https://github.com/spatie/shiki-php) ([2.3.3](https://github.com/spatie/shiki-php/releases/tag/2.3.3), today) - Code highlighting with Shiki in PHP
 - [spatie/ping](https://github.com/spatie/ping) ([1.2.0](https://github.com/spatie/ping/releases/tag/1.2.0), today) - Run an ICMP ping and get structured results
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.35.0](https://github.com/spatie/laravel-health/releases/tag/1.35.0), today) - Check the health of your Laravel app
 - [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([9.4.0](https://github.com/spatie/laravel-backup/releases/tag/9.4.0), 1 day ago) - A package to backup your Laravel app
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.5](https://github.com/symfony/symfony/releases/tag/v8.0.5), 4 days ago) - The Symfony PHP framework
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.5](https://github.com/symfony/http-foundation/releases/tag/v8.0.5), 4 days ago) - Defines an object-oriented layer for the HTTP specification
 
 #### 👷 Check out what I'm currently working on
 
