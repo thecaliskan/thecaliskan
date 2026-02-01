@@ -9,19 +9,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/ping](https://github.com/spatie/ping) ([1.2.0](https://github.com/spatie/ping/releases/tag/1.2.0), today) - Run an ICMP ping and get structured results
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.35.0](https://github.com/spatie/laravel-health/releases/tag/1.35.0), today) - Check the health of your Laravel app
 - [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([9.4.0](https://github.com/spatie/laravel-backup/releases/tag/9.4.0), 1 day ago) - A package to backup your Laravel app
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.5](https://github.com/symfony/symfony/releases/tag/v8.0.5), 4 days ago) - The Symfony PHP framework
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.5](https://github.com/symfony/http-foundation/releases/tag/v8.0.5), 4 days ago) - Defines an object-oriented layer for the HTTP specification
-- [php/pie](https://github.com/php/pie) ([1.3.7](https://github.com/php/pie/releases/tag/1.3.7), 6 days ago) - The PHP Installer for Extensions
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.17.10](https://github.com/spatie/laravel-medialibrary/releases/tag/11.17.10), 1 week ago) - Associate files with Eloquent models
 
 #### 👷 Check out what I'm currently working on
 
+- [spatie/ping](https://github.com/spatie/ping) - Run an ICMP ping and get structured results (today)
 - [laravel/horizon](https://github.com/laravel/horizon) - Dashboard and code-driven configuration for Laravel queues. (1 month ago)
 - [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (1 month ago)
-- [php-runtime/swoole](https://github.com/php-runtime/swoole) - [READ ONLY] (1 month ago)
-- [php-runtime/roadrunner-symfony-nyholm](https://github.com/php-runtime/roadrunner-symfony-nyholm) - [READ ONLY] (1 month ago)
 - [php-runtime/reactphp](https://github.com/php-runtime/reactphp) - [READ ONLY] (1 month ago)
+- [php-runtime/roadrunner-symfony-nyholm](https://github.com/php-runtime/roadrunner-symfony-nyholm) - [READ ONLY] (1 month ago)
 
 #### 🌱 My latest projects
 
