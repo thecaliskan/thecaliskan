@@ -9,10 +9,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([9.4.0](https://github.com/spatie/laravel-backup/releases/tag/9.4.0), today) - A package to backup your Laravel app
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.5](https://github.com/symfony/symfony/releases/tag/v8.0.5), 3 days ago) - The Symfony PHP framework
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.5](https://github.com/symfony/http-foundation/releases/tag/v8.0.5), 3 days ago) - Defines an object-oriented layer for the HTTP specification
-- [php/pie](https://github.com/php/pie) ([1.3.7](https://github.com/php/pie/releases/tag/1.3.7), 5 days ago) - The PHP Installer for Extensions
+- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([9.4.0](https://github.com/spatie/laravel-backup/releases/tag/9.4.0), 1 day ago) - A package to backup your Laravel app
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.5](https://github.com/symfony/symfony/releases/tag/v8.0.5), 4 days ago) - The Symfony PHP framework
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.5](https://github.com/symfony/http-foundation/releases/tag/v8.0.5), 4 days ago) - Defines an object-oriented layer for the HTTP specification
+- [php/pie](https://github.com/php/pie) ([1.3.7](https://github.com/php/pie/releases/tag/1.3.7), 6 days ago) - The PHP Installer for Extensions
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.17.10](https://github.com/spatie/laravel-medialibrary/releases/tag/11.17.10), 1 week ago) - Associate files with Eloquent models
 
 #### 👷 Check out what I'm currently working on
@@ -33,11 +33,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [klc](https://github.com/klc)
 - [eislambey](https://github.com/eislambey)
 - [rodrigogalura](https://github.com/rodrigogalura)
 - [Neustradamus](https://github.com/Neustradamus)
 - [devback-nexance](https://github.com/devback-nexance)
-- [chipnertkj](https://github.com/chipnertkj)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/thecaliskan) (thank you!)
 
