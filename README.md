@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/shiki-php](https://github.com/spatie/shiki-php) ([2.3.3](https://github.com/spatie/shiki-php/releases/tag/2.3.3), today) - Code highlighting with Shiki in PHP
-- [spatie/ping](https://github.com/spatie/ping) ([1.2.0](https://github.com/spatie/ping/releases/tag/1.2.0), today) - Run an ICMP ping and get structured results
-- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.35.0](https://github.com/spatie/laravel-health/releases/tag/1.35.0), today) - Check the health of your Laravel app
-- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([9.4.0](https://github.com/spatie/laravel-backup/releases/tag/9.4.0), 1 day ago) - A package to backup your Laravel app
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.5](https://github.com/symfony/symfony/releases/tag/v8.0.5), 4 days ago) - The Symfony PHP framework
+- [spatie/shiki-php](https://github.com/spatie/shiki-php) ([2.3.3](https://github.com/spatie/shiki-php/releases/tag/2.3.3), 1 day ago) - Code highlighting with Shiki in PHP
+- [spatie/ping](https://github.com/spatie/ping) ([1.2.0](https://github.com/spatie/ping/releases/tag/1.2.0), 1 day ago) - Run an ICMP ping and get structured results
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.35.0](https://github.com/spatie/laravel-health/releases/tag/1.35.0), 1 day ago) - Check the health of your Laravel app
+- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([9.4.0](https://github.com/spatie/laravel-backup/releases/tag/9.4.0), 2 days ago) - A package to backup your Laravel app
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.5](https://github.com/symfony/symfony/releases/tag/v8.0.5), 5 days ago) - The Symfony PHP framework
 
 #### 👷 Check out what I'm currently working on
 
-- [spatie/ping](https://github.com/spatie/ping) - Run an ICMP ping and get structured results (today)
+- [spatie/ping](https://github.com/spatie/ping) - Run an ICMP ping and get structured results (1 day ago)
 - [laravel/horizon](https://github.com/laravel/horizon) - Dashboard and code-driven configuration for Laravel queues. (1 month ago)
 - [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (1 month ago)
 - [php-runtime/reactphp](https://github.com/php-runtime/reactphp) - [READ ONLY] (1 month ago)
