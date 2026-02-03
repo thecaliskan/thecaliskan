@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [asgrim/example-pie-extension](https://github.com/asgrim/example-pie-extension) ([2.0.8](https://github.com/asgrim/example-pie-extension/releases/tag/2.0.8), today) - An example of a PIE-enabled PHP module
 - [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.6.2](https://github.com/php/php-windows-builder/releases/tag/1.6.2), today) - Tooling to build PHP and extensions on Windows
 - [spatie/shiki-php](https://github.com/spatie/shiki-php) ([2.3.3](https://github.com/spatie/shiki-php/releases/tag/2.3.3), 2 days ago) - Code highlighting with Shiki in PHP
 - [spatie/ping](https://github.com/spatie/ping) ([1.2.0](https://github.com/spatie/ping/releases/tag/1.2.0), 2 days ago) - Run an ICMP ping and get structured results
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.35.0](https://github.com/spatie/laravel-health/releases/tag/1.35.0), 2 days ago) - Check the health of your Laravel app
-- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([9.4.0](https://github.com/spatie/laravel-backup/releases/tag/9.4.0), 3 days ago) - A package to backup your Laravel app
 
 #### 👷 Check out what I'm currently working on
 
