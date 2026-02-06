@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [asgrim/example-pie-extension](https://github.com/asgrim/example-pie-extension) ([2.0.9](https://github.com/asgrim/example-pie-extension/releases/tag/2.0.9), 1 day ago) - An example of a PIE-enabled PHP module
-- [php/pie](https://github.com/php/pie) ([1.3.8](https://github.com/php/pie/releases/tag/1.3.8), 2 days ago) - The PHP Installer for Extensions
-- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.6.2](https://github.com/php/php-windows-builder/releases/tag/1.6.2), 2 days ago) - Tooling to build PHP and extensions on Windows
-- [spatie/shiki-php](https://github.com/spatie/shiki-php) ([2.3.3](https://github.com/spatie/shiki-php/releases/tag/2.3.3), 4 days ago) - Code highlighting with Shiki in PHP
-- [spatie/ping](https://github.com/spatie/ping) ([1.2.0](https://github.com/spatie/ping/releases/tag/1.2.0), 4 days ago) - Run an ICMP ping and get structured results
+- [asgrim/example-pie-extension](https://github.com/asgrim/example-pie-extension) ([2.0.9](https://github.com/asgrim/example-pie-extension/releases/tag/2.0.9), 2 days ago) - An example of a PIE-enabled PHP module
+- [php/pie](https://github.com/php/pie) ([1.3.8](https://github.com/php/pie/releases/tag/1.3.8), 3 days ago) - The PHP Installer for Extensions
+- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.6.2](https://github.com/php/php-windows-builder/releases/tag/1.6.2), 3 days ago) - Tooling to build PHP and extensions on Windows
+- [spatie/shiki-php](https://github.com/spatie/shiki-php) ([2.3.3](https://github.com/spatie/shiki-php/releases/tag/2.3.3), 5 days ago) - Code highlighting with Shiki in PHP
+- [spatie/ping](https://github.com/spatie/ping) ([1.2.0](https://github.com/spatie/ping/releases/tag/1.2.0), 5 days ago) - Run an ICMP ping and get structured results
 
 #### 👷 Check out what I'm currently working on
 
-- [spatie/ping](https://github.com/spatie/ping) - Run an ICMP ping and get structured results (4 days ago)
+- [spatie/ping](https://github.com/spatie/ping) - Run an ICMP ping and get structured results (5 days ago)
 - [laravel/horizon](https://github.com/laravel/horizon) - Dashboard and code-driven configuration for Laravel queues. (1 month ago)
 - [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (1 month ago)
 - [php-runtime/reactphp](https://github.com/php-runtime/reactphp) - [READ ONLY] (1 month ago)
