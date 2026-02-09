@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/global-ray](https://github.com/spatie/global-ray) ([1.2.4](https://github.com/spatie/global-ray/releases/tag/1.2.4), today) - Enable Ray in all PHP files on your system
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.36.0](https://github.com/spatie/laravel-health/releases/tag/1.36.0), today) - Check the health of your Laravel app
 - [spatie/ping](https://github.com/spatie/ping) ([1.2.1](https://github.com/spatie/ping/releases/tag/1.2.1), today) - Run an ICMP ping and get structured results
 - [spatie/browsershot](https://github.com/spatie/browsershot) ([5.2.1](https://github.com/spatie/browsershot/releases/tag/5.2.1), today) - Convert HTML to an image, PDF or string
 - [spatie/async](https://github.com/spatie/async) ([1.8.2](https://github.com/spatie/async/releases/tag/1.8.2), today) - Easily run code asynchronously
-- [spatie/laravel-route-discovery](https://github.com/spatie/laravel-route-discovery) ([1.4.1](https://github.com/spatie/laravel-route-discovery/releases/tag/1.4.1), today) - Automatically discover routes in a Laravel app
 
 #### 👷 Check out what I'm currently working on
 
