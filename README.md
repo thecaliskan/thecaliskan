@@ -9,19 +9,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.36.0](https://github.com/spatie/laravel-health/releases/tag/1.36.0), today) - Check the health of your Laravel app
+- [spatie/ping](https://github.com/spatie/ping) ([1.2.1](https://github.com/spatie/ping/releases/tag/1.2.1), today) - Run an ICMP ping and get structured results
+- [spatie/browsershot](https://github.com/spatie/browsershot) ([5.2.1](https://github.com/spatie/browsershot/releases/tag/5.2.1), today) - Convert HTML to an image, PDF or string
+- [spatie/async](https://github.com/spatie/async) ([1.8.2](https://github.com/spatie/async/releases/tag/1.8.2), today) - Easily run code asynchronously
 - [spatie/laravel-route-discovery](https://github.com/spatie/laravel-route-discovery) ([1.4.1](https://github.com/spatie/laravel-route-discovery/releases/tag/1.4.1), today) - Automatically discover routes in a Laravel app
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.18.0](https://github.com/spatie/laravel-medialibrary/releases/tag/11.18.0), today) - Associate files with Eloquent models
-- [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.12.6](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.12.6), today) - The easiest way to get started with event sourcing in Laravel
-- [php/php-src](https://github.com/php/php-src) ([php-8.3.30](https://github.com/php/php-src/releases/tag/php-8.3.30), 3 days ago) - The PHP Interpreter
-- [asgrim/example-pie-extension](https://github.com/asgrim/example-pie-extension) ([2.0.9](https://github.com/asgrim/example-pie-extension/releases/tag/2.0.9), 5 days ago) - An example of a PIE-enabled PHP module
 
 #### 👷 Check out what I'm currently working on
 
 - [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (today)
+- [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (today)
 - [spatie/ping](https://github.com/spatie/ping) - Run an ICMP ping and get structured results (1 week ago)
 - [laravel/horizon](https://github.com/laravel/horizon) - Dashboard and code-driven configuration for Laravel queues. (1 month ago)
 - [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (1 month ago)
-- [php-runtime/reactphp](https://github.com/php-runtime/reactphp) - [READ ONLY] (1 month ago)
 
 #### 🌱 My latest projects
 
