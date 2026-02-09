@@ -9,9 +9,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.18.2](https://github.com/spatie/laravel-medialibrary/releases/tag/11.18.2), today) - Associate files with Eloquent models
 - [spatie/yii-ray](https://github.com/spatie/yii-ray) ([1.3.0](https://github.com/spatie/yii-ray/releases/tag/1.3.0), today) - Debug with Ray to fix problems faster in Yii apps
 - [spatie/x-ray](https://github.com/spatie/x-ray) ([1.2.2](https://github.com/spatie/x-ray/releases/tag/1.2.2), today) - Scan source code for calls to ray() and related calls.
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.18.1](https://github.com/spatie/laravel-medialibrary/releases/tag/11.18.1), today) - Associate files with Eloquent models
 - [spatie/global-ray](https://github.com/spatie/global-ray) ([1.2.4](https://github.com/spatie/global-ray/releases/tag/1.2.4), today) - Enable Ray in all PHP files on your system
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.36.0](https://github.com/spatie/laravel-health/releases/tag/1.36.0), today) - Check the health of your Laravel app
 
