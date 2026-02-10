@@ -9,16 +9,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.18.2](https://github.com/spatie/laravel-medialibrary/releases/tag/11.18.2), today) - Associate files with Eloquent models
-- [spatie/yii-ray](https://github.com/spatie/yii-ray) ([1.3.0](https://github.com/spatie/yii-ray/releases/tag/1.3.0), today) - Debug with Ray to fix problems faster in Yii apps
-- [spatie/x-ray](https://github.com/spatie/x-ray) ([1.2.2](https://github.com/spatie/x-ray/releases/tag/1.2.2), today) - Scan source code for calls to ray() and related calls.
-- [spatie/global-ray](https://github.com/spatie/global-ray) ([1.2.4](https://github.com/spatie/global-ray/releases/tag/1.2.4), today) - Enable Ray in all PHP files on your system
-- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.36.0](https://github.com/spatie/laravel-health/releases/tag/1.36.0), today) - Check the health of your Laravel app
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.18.2](https://github.com/spatie/laravel-medialibrary/releases/tag/11.18.2), 1 day ago) - Associate files with Eloquent models
+- [spatie/yii-ray](https://github.com/spatie/yii-ray) ([1.3.0](https://github.com/spatie/yii-ray/releases/tag/1.3.0), 1 day ago) - Debug with Ray to fix problems faster in Yii apps
+- [spatie/x-ray](https://github.com/spatie/x-ray) ([1.2.2](https://github.com/spatie/x-ray/releases/tag/1.2.2), 1 day ago) - Scan source code for calls to ray() and related calls.
+- [spatie/global-ray](https://github.com/spatie/global-ray) ([1.2.4](https://github.com/spatie/global-ray/releases/tag/1.2.4), 1 day ago) - Enable Ray in all PHP files on your system
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.36.0](https://github.com/spatie/laravel-health/releases/tag/1.36.0), 1 day ago) - Check the health of your Laravel app
 
 #### 👷 Check out what I'm currently working on
 
-- [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (today)
-- [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (today)
+- [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (1 day ago)
+- [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (1 day ago)
 - [spatie/ping](https://github.com/spatie/ping) - Run an ICMP ping and get structured results (1 week ago)
 - [laravel/horizon](https://github.com/laravel/horizon) - Dashboard and code-driven configuration for Laravel queues. (1 month ago)
 - [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (1 month ago)
