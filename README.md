@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.44.0](https://github.com/laravel/horizon/releases/tag/v5.44.0), today) - Dashboard and code-driven configuration for Laravel queues.
 - [spatie/browsershot](https://github.com/spatie/browsershot) ([5.2.2](https://github.com/spatie/browsershot/releases/tag/5.2.2), today) - Convert HTML to an image, PDF or string
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.18.2](https://github.com/spatie/laravel-medialibrary/releases/tag/11.18.2), 1 day ago) - Associate files with Eloquent models
 - [spatie/yii-ray](https://github.com/spatie/yii-ray) ([1.3.0](https://github.com/spatie/yii-ray/releases/tag/1.3.0), 1 day ago) - Debug with Ray to fix problems faster in Yii apps
 - [spatie/x-ray](https://github.com/spatie/x-ray) ([1.2.2](https://github.com/spatie/x-ray/releases/tag/1.2.2), 1 day ago) - Scan source code for calls to ray() and related calls.
-- [spatie/global-ray](https://github.com/spatie/global-ray) ([1.2.4](https://github.com/spatie/global-ray/releases/tag/1.2.4), 1 day ago) - Enable Ray in all PHP files on your system
 
 #### 👷 Check out what I'm currently working on
 
