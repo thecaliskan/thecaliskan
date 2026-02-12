@@ -9,10 +9,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.19.0](https://github.com/spatie/laravel-medialibrary/releases/tag/11.19.0), today) - Associate files with Eloquent models
 - [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.12.8](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.12.8), 1 day ago) - The easiest way to get started with event sourcing in Laravel
 - [laravel/horizon](https://github.com/laravel/horizon) ([v5.44.0](https://github.com/laravel/horizon/releases/tag/v5.44.0), 2 days ago) - Dashboard and code-driven configuration for Laravel queues.
 - [spatie/browsershot](https://github.com/spatie/browsershot) ([5.2.2](https://github.com/spatie/browsershot/releases/tag/5.2.2), 2 days ago) - Convert HTML to an image, PDF or string
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.18.2](https://github.com/spatie/laravel-medialibrary/releases/tag/11.18.2), 3 days ago) - Associate files with Eloquent models
 - [spatie/yii-ray](https://github.com/spatie/yii-ray) ([1.3.0](https://github.com/spatie/yii-ray/releases/tag/1.3.0), 3 days ago) - Debug with Ray to fix problems faster in Yii apps
 
 #### 👷 Check out what I'm currently working on
