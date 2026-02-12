@@ -9,8 +9,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/php-src](https://github.com/php/php-src) ([php-8.5.3](https://github.com/php/php-src/releases/tag/php-8.5.3), today) - The PHP Interpreter
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.37.0](https://github.com/spatie/laravel-health/releases/tag/1.37.0), today) - Check the health of your Laravel app
-- [php/php-src](https://github.com/php/php-src) ([php-8.4.18](https://github.com/php/php-src/releases/tag/php-8.4.18), today) - The PHP Interpreter
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.19.0](https://github.com/spatie/laravel-medialibrary/releases/tag/11.19.0), today) - Associate files with Eloquent models
 - [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.12.8](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.12.8), 1 day ago) - The easiest way to get started with event sourcing in Laravel
 - [laravel/horizon](https://github.com/laravel/horizon) ([v5.44.0](https://github.com/laravel/horizon/releases/tag/v5.44.0), 2 days ago) - Dashboard and code-driven configuration for Laravel queues.
