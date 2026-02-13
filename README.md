@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.12.9](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.12.9), today) - The easiest way to get started with event sourcing in Laravel
+- [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.13.0](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.13.0), today) - The easiest way to get started with event sourcing in Laravel
 - [php/php-src](https://github.com/php/php-src) ([php-8.5.3](https://github.com/php/php-src/releases/tag/php-8.5.3), 1 day ago) - The PHP Interpreter
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.37.0](https://github.com/spatie/laravel-health/releases/tag/1.37.0), 1 day ago) - Check the health of your Laravel app
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.19.0](https://github.com/spatie/laravel-medialibrary/releases/tag/11.19.0), 1 day ago) - Associate files with Eloquent models
