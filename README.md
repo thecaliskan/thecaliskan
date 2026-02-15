@@ -9,17 +9,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.13.0](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.13.0), 1 day ago) - The easiest way to get started with event sourcing in Laravel
-- [php/php-src](https://github.com/php/php-src) ([php-8.5.3](https://github.com/php/php-src/releases/tag/php-8.5.3), 2 days ago) - The PHP Interpreter
-- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.37.0](https://github.com/spatie/laravel-health/releases/tag/1.37.0), 2 days ago) - Check the health of your Laravel app
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.19.0](https://github.com/spatie/laravel-medialibrary/releases/tag/11.19.0), 2 days ago) - Associate files with Eloquent models
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.44.0](https://github.com/laravel/horizon/releases/tag/v5.44.0), 4 days ago) - Dashboard and code-driven configuration for Laravel queues.
+- [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.13.0](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.13.0), 2 days ago) - The easiest way to get started with event sourcing in Laravel
+- [php/php-src](https://github.com/php/php-src) ([php-8.5.3](https://github.com/php/php-src/releases/tag/php-8.5.3), 3 days ago) - The PHP Interpreter
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.37.0](https://github.com/spatie/laravel-health/releases/tag/1.37.0), 3 days ago) - Check the health of your Laravel app
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.19.0](https://github.com/spatie/laravel-medialibrary/releases/tag/11.19.0), 3 days ago) - Associate files with Eloquent models
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.44.0](https://github.com/laravel/horizon/releases/tag/v5.44.0), 5 days ago) - Dashboard and code-driven configuration for Laravel queues.
 
 #### 👷 Check out what I'm currently working on
 
-- [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (5 days ago)
-- [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (5 days ago)
-- [spatie/ping](https://github.com/spatie/ping) - Run an ICMP ping and get structured results (1 week ago)
+- [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (6 days ago)
+- [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (6 days ago)
+- [spatie/ping](https://github.com/spatie/ping) - Run an ICMP ping and get structured results (2 weeks ago)
 - [laravel/horizon](https://github.com/laravel/horizon) - Dashboard and code-driven configuration for Laravel queues. (1 month ago)
 - [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (1 month ago)
 
