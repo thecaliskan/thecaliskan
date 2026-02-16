@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.0-rc1](https://github.com/swoole/swoole-src/releases/tag/v6.2.0-rc1), today) - 🚀 Coroutine-based concurrency library for PHP
 - [spatie/db-dumper](https://github.com/spatie/db-dumper) ([4.0.0](https://github.com/spatie/db-dumper/releases/tag/4.0.0), 1 day ago) - Dump the contents of a database
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.20.0](https://github.com/spatie/laravel-medialibrary/releases/tag/11.20.0), 1 day ago) - Associate files with Eloquent models
 - [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([9.4.1](https://github.com/spatie/laravel-backup/releases/tag/9.4.1), 1 day ago) - A package to backup your Laravel app
 - [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.13.0](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.13.0), 3 days ago) - The easiest way to get started with event sourcing in Laravel
-- [php/php-src](https://github.com/php/php-src) ([php-8.5.3](https://github.com/php/php-src/releases/tag/php-8.5.3), 4 days ago) - The PHP Interpreter
 
 #### 👷 Check out what I'm currently working on
 
