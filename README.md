@@ -9,16 +9,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([4.0.0](https://github.com/spatie/db-dumper/releases/tag/4.0.0), today) - Dump the contents of a database
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.20.0](https://github.com/spatie/laravel-medialibrary/releases/tag/11.20.0), today) - Associate files with Eloquent models
-- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([9.4.1](https://github.com/spatie/laravel-backup/releases/tag/9.4.1), today) - A package to backup your Laravel app
-- [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.13.0](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.13.0), 2 days ago) - The easiest way to get started with event sourcing in Laravel
-- [php/php-src](https://github.com/php/php-src) ([php-8.5.3](https://github.com/php/php-src/releases/tag/php-8.5.3), 3 days ago) - The PHP Interpreter
+- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([4.0.0](https://github.com/spatie/db-dumper/releases/tag/4.0.0), 1 day ago) - Dump the contents of a database
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.20.0](https://github.com/spatie/laravel-medialibrary/releases/tag/11.20.0), 1 day ago) - Associate files with Eloquent models
+- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([9.4.1](https://github.com/spatie/laravel-backup/releases/tag/9.4.1), 1 day ago) - A package to backup your Laravel app
+- [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.13.0](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.13.0), 3 days ago) - The easiest way to get started with event sourcing in Laravel
+- [php/php-src](https://github.com/php/php-src) ([php-8.5.3](https://github.com/php/php-src/releases/tag/php-8.5.3), 4 days ago) - The PHP Interpreter
 
 #### 👷 Check out what I'm currently working on
 
-- [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (6 days ago)
-- [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (6 days ago)
+- [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (1 week ago)
+- [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (1 week ago)
 - [spatie/ping](https://github.com/spatie/ping) - Run an ICMP ping and get structured results (2 weeks ago)
 - [laravel/horizon](https://github.com/laravel/horizon) - Dashboard and code-driven configuration for Laravel queues. (1 month ago)
 - [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (1 month ago)
