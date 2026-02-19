@@ -33,11 +33,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [offsecgit7](https://github.com/offsecgit7)
 - [klc](https://github.com/klc)
 - [eislambey](https://github.com/eislambey)
 - [rodrigogalura](https://github.com/rodrigogalura)
 - [Neustradamus](https://github.com/Neustradamus)
-- [devback-nexance](https://github.com/devback-nexance)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/thecaliskan) (thank you!)
 
