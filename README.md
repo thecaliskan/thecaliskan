@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/browsershot](https://github.com/spatie/browsershot) ([5.2.3](https://github.com/spatie/browsershot/releases/tag/5.2.3), 1 day ago) - Convert HTML to an image, PDF or string
-- [spatie/symfony-ignition-bundle](https://github.com/spatie/symfony-ignition-bundle) ([1.3.0](https://github.com/spatie/symfony-ignition-bundle/releases/tag/1.3.0), 1 day ago) - A beautiful error page for Symfony apps
-- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.0.0](https://github.com/spatie/laravel-backup/releases/tag/10.0.0), 2 days ago) - A package to backup your Laravel app
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.0-rc1](https://github.com/swoole/swoole-src/releases/tag/v6.2.0-rc1), 3 days ago) - 🚀 Coroutine-based concurrency library for PHP
-- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([4.0.0](https://github.com/spatie/db-dumper/releases/tag/4.0.0), 4 days ago) - Dump the contents of a database
+- [spatie/browsershot](https://github.com/spatie/browsershot) ([5.2.3](https://github.com/spatie/browsershot/releases/tag/5.2.3), 2 days ago) - Convert HTML to an image, PDF or string
+- [spatie/symfony-ignition-bundle](https://github.com/spatie/symfony-ignition-bundle) ([1.3.0](https://github.com/spatie/symfony-ignition-bundle/releases/tag/1.3.0), 2 days ago) - A beautiful error page for Symfony apps
+- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.0.0](https://github.com/spatie/laravel-backup/releases/tag/10.0.0), 3 days ago) - A package to backup your Laravel app
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.0-rc1](https://github.com/swoole/swoole-src/releases/tag/v6.2.0-rc1), 4 days ago) - 🚀 Coroutine-based concurrency library for PHP
+- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([4.0.0](https://github.com/spatie/db-dumper/releases/tag/4.0.0), 5 days ago) - Dump the contents of a database
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (2 days ago)
+- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (3 days ago)
 - [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (1 week ago)
 - [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (1 week ago)
 - [spatie/ping](https://github.com/spatie/ping) - Run an ICMP ping and get structured results (2 weeks ago)
