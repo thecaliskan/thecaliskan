@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/nova-tail-tool](https://github.com/spatie/nova-tail-tool) ([3.0.4](https://github.com/spatie/nova-tail-tool/releases/tag/3.0.4), today) - A Laravel Nova tool to display the application log
+- [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) ([7.4.0](https://github.com/spatie/laravel-sitemap/releases/tag/7.4.0), today) - Create and generate sitemaps with ease
+- [spatie/crawler](https://github.com/spatie/crawler) ([8.5.0](https://github.com/spatie/crawler/releases/tag/8.5.0), today) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
+- [spatie/laravel-server-monitor](https://github.com/spatie/laravel-server-monitor) ([1.10.2](https://github.com/spatie/laravel-server-monitor/releases/tag/1.10.2), today) - Don&#39;t let your servers just melt down
 - [spatie/sheets](https://github.com/spatie/sheets) ([1.12.3](https://github.com/spatie/sheets/releases/tag/1.12.3), today) - Store &amp; retrieve your static content in plain text files
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.21.0](https://github.com/spatie/laravel-medialibrary/releases/tag/11.21.0), today) - Associate files with Eloquent models
-- [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.4.0](https://github.com/spatie/php-structure-discoverer/releases/tag/2.4.0), today) - Automatically discover classes within your PHP application
-- [spatie/laravel-tail](https://github.com/spatie/laravel-tail) ([4.6.0](https://github.com/spatie/laravel-tail/releases/tag/4.6.0), today) - An artisan command to tail your application logs
-- [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) ([5.7.0](https://github.com/spatie/laravel-analytics/releases/tag/5.7.0), today) - A Laravel package to retrieve pageviews and other data from Google Analytics
 
 #### 👷 Check out what I'm currently working on
 
