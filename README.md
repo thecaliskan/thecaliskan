@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/sheets](https://github.com/spatie/sheets) ([1.12.3](https://github.com/spatie/sheets/releases/tag/1.12.3), today) - Store &amp; retrieve your static content in plain text files
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.21.0](https://github.com/spatie/laravel-medialibrary/releases/tag/11.21.0), today) - Associate files with Eloquent models
 - [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.4.0](https://github.com/spatie/php-structure-discoverer/releases/tag/2.4.0), today) - Automatically discover classes within your PHP application
 - [spatie/laravel-tail](https://github.com/spatie/laravel-tail) ([4.6.0](https://github.com/spatie/laravel-tail/releases/tag/4.6.0), today) - An artisan command to tail your application logs
 - [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) ([5.7.0](https://github.com/spatie/laravel-analytics/releases/tag/5.7.0), today) - A Laravel package to retrieve pageviews and other data from Google Analytics
-- [spatie/browsershot](https://github.com/spatie/browsershot) ([5.2.3](https://github.com/spatie/browsershot/releases/tag/5.2.3), 3 days ago) - Convert HTML to an image, PDF or string
 
 #### 👷 Check out what I'm currently working on
 
