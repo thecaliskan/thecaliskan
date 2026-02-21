@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.21.0](https://github.com/spatie/laravel-medialibrary/releases/tag/11.21.0), today) - Associate files with Eloquent models
+- [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.4.0](https://github.com/spatie/php-structure-discoverer/releases/tag/2.4.0), today) - Automatically discover classes within your PHP application
+- [spatie/laravel-tail](https://github.com/spatie/laravel-tail) ([4.6.0](https://github.com/spatie/laravel-tail/releases/tag/4.6.0), today) - An artisan command to tail your application logs
 - [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) ([5.7.0](https://github.com/spatie/laravel-analytics/releases/tag/5.7.0), today) - A Laravel package to retrieve pageviews and other data from Google Analytics
 - [spatie/browsershot](https://github.com/spatie/browsershot) ([5.2.3](https://github.com/spatie/browsershot/releases/tag/5.2.3), 3 days ago) - Convert HTML to an image, PDF or string
-- [spatie/symfony-ignition-bundle](https://github.com/spatie/symfony-ignition-bundle) ([1.3.0](https://github.com/spatie/symfony-ignition-bundle/releases/tag/1.3.0), 3 days ago) - A beautiful error page for Symfony apps
-- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.0.0](https://github.com/spatie/laravel-backup/releases/tag/10.0.0), 4 days ago) - A package to backup your Laravel app
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.0-rc1](https://github.com/swoole/swoole-src/releases/tag/v6.2.0-rc1), 5 days ago) - 🚀 Coroutine-based concurrency library for PHP
 
 #### 👷 Check out what I'm currently working on
 
