@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) ([5.7.0](https://github.com/spatie/laravel-analytics/releases/tag/5.7.0), today) - A Laravel package to retrieve pageviews and other data from Google Analytics
 - [spatie/browsershot](https://github.com/spatie/browsershot) ([5.2.3](https://github.com/spatie/browsershot/releases/tag/5.2.3), 3 days ago) - Convert HTML to an image, PDF or string
 - [spatie/symfony-ignition-bundle](https://github.com/spatie/symfony-ignition-bundle) ([1.3.0](https://github.com/spatie/symfony-ignition-bundle/releases/tag/1.3.0), 3 days ago) - A beautiful error page for Symfony apps
 - [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.0.0](https://github.com/spatie/laravel-backup/releases/tag/10.0.0), 4 days ago) - A package to backup your Laravel app
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.0-rc1](https://github.com/swoole/swoole-src/releases/tag/v6.2.0-rc1), 5 days ago) - 🚀 Coroutine-based concurrency library for PHP
-- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([4.0.0](https://github.com/spatie/db-dumper/releases/tag/4.0.0), 6 days ago) - Dump the contents of a database
 
 #### 👷 Check out what I'm currently working on
 
