@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.14.0](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.14.0), today) - The easiest way to get started with event sourcing in Laravel
 - [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.0.1](https://github.com/spatie/laravel-backup/releases/tag/10.0.1), today) - A package to backup your Laravel app
 - [spatie/nova-tail-tool](https://github.com/spatie/nova-tail-tool) ([3.0.4](https://github.com/spatie/nova-tail-tool/releases/tag/3.0.4), 1 day ago) - A Laravel Nova tool to display the application log
 - [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) ([7.4.0](https://github.com/spatie/laravel-sitemap/releases/tag/7.4.0), 1 day ago) - Create and generate sitemaps with ease
 - [spatie/crawler](https://github.com/spatie/crawler) ([8.5.0](https://github.com/spatie/crawler/releases/tag/8.5.0), 1 day ago) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
-- [spatie/laravel-server-monitor](https://github.com/spatie/laravel-server-monitor) ([1.10.2](https://github.com/spatie/laravel-server-monitor/releases/tag/1.10.2), 1 day ago) - Don&#39;t let your servers just melt down
 
 #### 👷 Check out what I'm currently working on
 
