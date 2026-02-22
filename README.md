@@ -9,9 +9,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.15.0](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.15.0), today) - The easiest way to get started with event sourcing in Laravel
 - [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) ([2.11.0](https://github.com/spatie/laravel-ignition/releases/tag/2.11.0), today) - A beautiful error page for Laravel apps
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.38.0](https://github.com/spatie/laravel-health/releases/tag/1.38.0), today) - Check the health of your Laravel app
-- [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.14.0](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.14.0), today) - The easiest way to get started with event sourcing in Laravel
 - [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.0.1](https://github.com/spatie/laravel-backup/releases/tag/10.0.1), today) - A package to backup your Laravel app
 - [spatie/nova-tail-tool](https://github.com/spatie/nova-tail-tool) ([3.0.4](https://github.com/spatie/nova-tail-tool/releases/tag/3.0.4), 1 day ago) - A Laravel Nova tool to display the application log
 
