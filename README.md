@@ -9,19 +9,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.15.0](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.15.0), today) - The easiest way to get started with event sourcing in Laravel
-- [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) ([2.11.0](https://github.com/spatie/laravel-ignition/releases/tag/2.11.0), today) - A beautiful error page for Laravel apps
-- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.38.0](https://github.com/spatie/laravel-health/releases/tag/1.38.0), today) - Check the health of your Laravel app
-- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.0.1](https://github.com/spatie/laravel-backup/releases/tag/10.0.1), today) - A package to backup your Laravel app
-- [spatie/nova-tail-tool](https://github.com/spatie/nova-tail-tool) ([3.0.4](https://github.com/spatie/nova-tail-tool/releases/tag/3.0.4), 1 day ago) - A Laravel Nova tool to display the application log
+- [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.15.0](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.15.0), 1 day ago) - The easiest way to get started with event sourcing in Laravel
+- [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) ([2.11.0](https://github.com/spatie/laravel-ignition/releases/tag/2.11.0), 1 day ago) - A beautiful error page for Laravel apps
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.38.0](https://github.com/spatie/laravel-health/releases/tag/1.38.0), 1 day ago) - Check the health of your Laravel app
+- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.0.1](https://github.com/spatie/laravel-backup/releases/tag/10.0.1), 1 day ago) - A package to backup your Laravel app
+- [spatie/nova-tail-tool](https://github.com/spatie/nova-tail-tool) ([3.0.4](https://github.com/spatie/nova-tail-tool/releases/tag/3.0.4), 2 days ago) - A Laravel Nova tool to display the application log
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (5 days ago)
-- [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (1 week ago)
-- [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (1 week ago)
+- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (6 days ago)
+- [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (2 weeks ago)
+- [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (2 weeks ago)
 - [spatie/ping](https://github.com/spatie/ping) - Run an ICMP ping and get structured results (3 weeks ago)
-- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (1 month ago)
+- [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (2 months ago)
 
 #### 🌱 My latest projects
 
