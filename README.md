@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-rate-limited-job-middleware](https://github.com/spatie/laravel-rate-limited-job-middleware) ([2.9.0](https://github.com/spatie/laravel-rate-limited-job-middleware/releases/tag/2.9.0), today) - A job middleware to rate limit jobs
 - [laravel/horizon](https://github.com/laravel/horizon) ([v5.45.0](https://github.com/laravel/horizon/releases/tag/v5.45.0), 1 day ago) - Dashboard and code-driven configuration for Laravel queues.
 - [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([2.7.1](https://github.com/spatie/laravel-flare/releases/tag/2.7.1), 2 days ago) - Send Laravel errors to Flare
 - [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([2.10.2](https://github.com/spatie/flare-client-php/releases/tag/2.10.2), 2 days ago) - Send PHP errors to Flare
 - [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.15.0](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.15.0), 3 days ago) - The easiest way to get started with event sourcing in Laravel
-- [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) ([2.11.0](https://github.com/spatie/laravel-ignition/releases/tag/2.11.0), 3 days ago) - A beautiful error page for Laravel apps
 
 #### 👷 Check out what I'm currently working on
 
