@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-pjax](https://github.com/spatie/laravel-pjax) ([2.5.0](https://github.com/spatie/laravel-pjax/releases/tag/2.5.0), today) - A pjax middleware for Laravel
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.7](https://github.com/swoole/swoole-src/releases/tag/v6.1.7), today) - 🚀 Coroutine-based concurrency library for PHP
-- [spatie/laravel-rate-limited-job-middleware](https://github.com/spatie/laravel-rate-limited-job-middleware) ([2.9.0](https://github.com/spatie/laravel-rate-limited-job-middleware/releases/tag/2.9.0), today) - A job middleware to rate limit jobs
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.45.0](https://github.com/laravel/horizon/releases/tag/v5.45.0), 1 day ago) - Dashboard and code-driven configuration for Laravel queues.
-- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([2.7.1](https://github.com/spatie/laravel-flare/releases/tag/2.7.1), 2 days ago) - Send Laravel errors to Flare
+- [spatie/laravel-pjax](https://github.com/spatie/laravel-pjax) ([2.5.0](https://github.com/spatie/laravel-pjax/releases/tag/2.5.0), 1 day ago) - A pjax middleware for Laravel
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.7](https://github.com/swoole/swoole-src/releases/tag/v6.1.7), 1 day ago) - 🚀 Coroutine-based concurrency library for PHP
+- [spatie/laravel-rate-limited-job-middleware](https://github.com/spatie/laravel-rate-limited-job-middleware) ([2.9.0](https://github.com/spatie/laravel-rate-limited-job-middleware/releases/tag/2.9.0), 1 day ago) - A job middleware to rate limit jobs
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.45.0](https://github.com/laravel/horizon/releases/tag/v5.45.0), 2 days ago) - Dashboard and code-driven configuration for Laravel queues.
+- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([2.7.1](https://github.com/spatie/laravel-flare/releases/tag/2.7.1), 3 days ago) - Send Laravel errors to Flare
 
 #### 👷 Check out what I'm currently working on
 
