@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.39.0](https://github.com/spatie/laravel-health/releases/tag/1.39.0), today) - Check the health of your Laravel app
 - [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([2.7.2](https://github.com/spatie/laravel-flare/releases/tag/2.7.2), 2 days ago) - Send Laravel errors to Flare
 - [spatie/error-solutions](https://github.com/spatie/error-solutions) ([2.0.5](https://github.com/spatie/error-solutions/releases/tag/2.0.5), 2 days ago) - Solutions for your PHP and Laravel errors
 - [spatie/laravel-blade-comments](https://github.com/spatie/laravel-blade-comments) ([2.0.2](https://github.com/spatie/laravel-blade-comments/releases/tag/2.0.2), 2 days ago) - Add debug comments to your rendered output
 - [spatie/laravel-model-info](https://github.com/spatie/laravel-model-info) ([2.0.5](https://github.com/spatie/laravel-model-info/releases/tag/2.0.5), 2 days ago) - Get information on all the models in your Laravel project
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.6](https://github.com/symfony/symfony/releases/tag/v8.0.6), 3 days ago) - The Symfony PHP framework
 
 #### 👷 Check out what I'm currently working on
 
