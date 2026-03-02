@@ -9,8 +9,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) ([8.0.1](https://github.com/spatie/laravel-sitemap/releases/tag/8.0.1), today) - Create and generate sitemaps with ease
 - [spatie/laravel-visit](https://github.com/spatie/laravel-visit) ([1.2.0](https://github.com/spatie/laravel-visit/releases/tag/1.2.0), today) - Quickly visit any route in your Laravel app
-- [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) ([8.0.0](https://github.com/spatie/laravel-sitemap/releases/tag/8.0.0), today) - Create and generate sitemaps with ease
 - [php/pie](https://github.com/php/pie) ([1.3.9](https://github.com/php/pie/releases/tag/1.3.9), today) - 🥧 The PHP Installer for Extensions
 - [spatie/crawler](https://github.com/spatie/crawler) ([9.0.0](https://github.com/spatie/crawler/releases/tag/9.0.0), today) - https://spatie.be/docs/crawler
 - [spatie/image](https://github.com/spatie/image) ([3.9.3](https://github.com/spatie/image/releases/tag/3.9.3), 1 day ago) - Manipulate images with an expressive API
