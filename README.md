@@ -9,17 +9,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/image](https://github.com/spatie/image) ([3.9.3](https://github.com/spatie/image/releases/tag/3.9.3), today) - Manipulate images with an expressive API
-- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.39.0](https://github.com/spatie/laravel-health/releases/tag/1.39.0), today) - Check the health of your Laravel app
-- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([2.7.2](https://github.com/spatie/laravel-flare/releases/tag/2.7.2), 2 days ago) - Send Laravel errors to Flare
-- [spatie/error-solutions](https://github.com/spatie/error-solutions) ([2.0.5](https://github.com/spatie/error-solutions/releases/tag/2.0.5), 2 days ago) - Solutions for your PHP and Laravel errors
-- [spatie/laravel-blade-comments](https://github.com/spatie/laravel-blade-comments) ([2.0.2](https://github.com/spatie/laravel-blade-comments/releases/tag/2.0.2), 2 days ago) - Add debug comments to your rendered output
+- [spatie/image](https://github.com/spatie/image) ([3.9.3](https://github.com/spatie/image/releases/tag/3.9.3), 1 day ago) - Manipulate images with an expressive API
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.39.0](https://github.com/spatie/laravel-health/releases/tag/1.39.0), 1 day ago) - Check the health of your Laravel app
+- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([2.7.2](https://github.com/spatie/laravel-flare/releases/tag/2.7.2), 3 days ago) - Send Laravel errors to Flare
+- [spatie/error-solutions](https://github.com/spatie/error-solutions) ([2.0.5](https://github.com/spatie/error-solutions/releases/tag/2.0.5), 3 days ago) - Solutions for your PHP and Laravel errors
+- [spatie/laravel-blade-comments](https://github.com/spatie/laravel-blade-comments) ([2.0.2](https://github.com/spatie/laravel-blade-comments/releases/tag/2.0.2), 3 days ago) - Add debug comments to your rendered output
 
 #### 👷 Check out what I'm currently working on
 
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (1 week ago)
-- [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (2 weeks ago)
-- [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (2 weeks ago)
+- [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (3 weeks ago)
+- [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (3 weeks ago)
 - [spatie/ping](https://github.com/spatie/ping) - Run an ICMP ping and get structured results (4 weeks ago)
 - [thecaliskan/proxy-api](https://github.com/thecaliskan/proxy-api) - Proxy API for HTTP Request (2 months ago)
 
