@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) ([8.0.0](https://github.com/spatie/laravel-sitemap/releases/tag/8.0.0), today) - Create and generate sitemaps with ease
 - [php/pie](https://github.com/php/pie) ([1.3.9](https://github.com/php/pie/releases/tag/1.3.9), today) - 🥧 The PHP Installer for Extensions
-- [spatie/crawler](https://github.com/spatie/crawler) ([9.0.0](https://github.com/spatie/crawler/releases/tag/9.0.0), today) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
+- [spatie/crawler](https://github.com/spatie/crawler) ([9.0.0](https://github.com/spatie/crawler/releases/tag/9.0.0), today) - https://spatie.be/docs/crawler
 - [spatie/image](https://github.com/spatie/image) ([3.9.3](https://github.com/spatie/image/releases/tag/3.9.3), 1 day ago) - Manipulate images with an expressive API
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.39.0](https://github.com/spatie/laravel-health/releases/tag/1.39.0), 1 day ago) - Check the health of your Laravel app
-- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([2.7.2](https://github.com/spatie/laravel-flare/releases/tag/2.7.2), 3 days ago) - Send Laravel errors to Flare
 
 #### 👷 Check out what I'm currently working on
 
