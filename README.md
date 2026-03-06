@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-route-discovery](https://github.com/spatie/laravel-route-discovery) ([1.6.0](https://github.com/spatie/laravel-route-discovery/releases/tag/1.6.0), today) - Automatically discover routes in a Laravel app
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.0-rc2](https://github.com/swoole/swoole-src/releases/tag/v6.2.0-rc2), 3 days ago) - 🚀 Coroutine-based concurrency library for PHP
 - [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) ([8.0.1](https://github.com/spatie/laravel-sitemap/releases/tag/8.0.1), 4 days ago) - Create and generate sitemaps with ease
 - [spatie/laravel-visit](https://github.com/spatie/laravel-visit) ([1.2.0](https://github.com/spatie/laravel-visit/releases/tag/1.2.0), 4 days ago) - Quickly visit any route in your Laravel app
 - [php/pie](https://github.com/php/pie) ([1.3.9](https://github.com/php/pie/releases/tag/1.3.9), 4 days ago) - 🥧 The PHP Installer for Extensions
-- [spatie/crawler](https://github.com/spatie/crawler) ([9.0.0](https://github.com/spatie/crawler/releases/tag/9.0.0), 4 days ago) - https://spatie.be/docs/crawler
 
 #### 👷 Check out what I'm currently working on
 
