@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.0-rc2](https://github.com/swoole/swoole-src/releases/tag/v6.2.0-rc2), 2 days ago) - 🚀 Coroutine-based concurrency library for PHP
-- [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) ([8.0.1](https://github.com/spatie/laravel-sitemap/releases/tag/8.0.1), 3 days ago) - Create and generate sitemaps with ease
-- [spatie/laravel-visit](https://github.com/spatie/laravel-visit) ([1.2.0](https://github.com/spatie/laravel-visit/releases/tag/1.2.0), 3 days ago) - Quickly visit any route in your Laravel app
-- [php/pie](https://github.com/php/pie) ([1.3.9](https://github.com/php/pie/releases/tag/1.3.9), 3 days ago) - 🥧 The PHP Installer for Extensions
-- [spatie/crawler](https://github.com/spatie/crawler) ([9.0.0](https://github.com/spatie/crawler/releases/tag/9.0.0), 3 days ago) - https://spatie.be/docs/crawler
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.0-rc2](https://github.com/swoole/swoole-src/releases/tag/v6.2.0-rc2), 3 days ago) - 🚀 Coroutine-based concurrency library for PHP
+- [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) ([8.0.1](https://github.com/spatie/laravel-sitemap/releases/tag/8.0.1), 4 days ago) - Create and generate sitemaps with ease
+- [spatie/laravel-visit](https://github.com/spatie/laravel-visit) ([1.2.0](https://github.com/spatie/laravel-visit/releases/tag/1.2.0), 4 days ago) - Quickly visit any route in your Laravel app
+- [php/pie](https://github.com/php/pie) ([1.3.9](https://github.com/php/pie/releases/tag/1.3.9), 4 days ago) - 🥧 The PHP Installer for Extensions
+- [spatie/crawler](https://github.com/spatie/crawler) ([9.0.0](https://github.com/spatie/crawler/releases/tag/9.0.0), 4 days ago) - https://spatie.be/docs/crawler
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (2 days ago)
+- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (3 days ago)
 - [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (3 weeks ago)
 - [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (3 weeks ago)
 - [spatie/ping](https://github.com/spatie/ping) - Run an ICMP ping and get structured results (1 month ago)
