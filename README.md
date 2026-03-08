@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.7](https://github.com/symfony/symfony/releases/tag/v8.0.7), 1 day ago) - The Symfony PHP framework
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.7](https://github.com/symfony/http-foundation/releases/tag/v8.0.7), 1 day ago) - Defines an object-oriented layer for the HTTP specification
-- [spatie/laravel-route-discovery](https://github.com/spatie/laravel-route-discovery) ([1.6.0](https://github.com/spatie/laravel-route-discovery/releases/tag/1.6.0), 1 day ago) - Automatically discover routes in a Laravel app
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.0-rc2](https://github.com/swoole/swoole-src/releases/tag/v6.2.0-rc2), 4 days ago) - 🚀 Coroutine-based concurrency library for PHP
-- [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) ([8.0.1](https://github.com/spatie/laravel-sitemap/releases/tag/8.0.1), 5 days ago) - Create and generate sitemaps with ease
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.7](https://github.com/symfony/symfony/releases/tag/v8.0.7), 2 days ago) - The Symfony PHP framework
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.7](https://github.com/symfony/http-foundation/releases/tag/v8.0.7), 2 days ago) - Defines an object-oriented layer for the HTTP specification
+- [spatie/laravel-route-discovery](https://github.com/spatie/laravel-route-discovery) ([1.6.0](https://github.com/spatie/laravel-route-discovery/releases/tag/1.6.0), 2 days ago) - Automatically discover routes in a Laravel app
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.0-rc2](https://github.com/swoole/swoole-src/releases/tag/v6.2.0-rc2), 5 days ago) - 🚀 Coroutine-based concurrency library for PHP
+- [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) ([8.0.1](https://github.com/spatie/laravel-sitemap/releases/tag/8.0.1), 6 days ago) - Create and generate sitemaps with ease
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (4 days ago)
+- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (5 days ago)
 - [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (3 weeks ago)
 - [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (3 weeks ago)
 - [spatie/ping](https://github.com/spatie/ping) - Run an ICMP ping and get structured results (1 month ago)
