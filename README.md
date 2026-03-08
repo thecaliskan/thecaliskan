@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.0.2](https://github.com/spatie/laravel-backup/releases/tag/10.0.2), today) - A package to backup your Laravel app
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.7](https://github.com/symfony/symfony/releases/tag/v8.0.7), 2 days ago) - The Symfony PHP framework
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.7](https://github.com/symfony/http-foundation/releases/tag/v8.0.7), 2 days ago) - Defines an object-oriented layer for the HTTP specification
 - [spatie/laravel-route-discovery](https://github.com/spatie/laravel-route-discovery) ([1.6.0](https://github.com/spatie/laravel-route-discovery/releases/tag/1.6.0), 2 days ago) - Automatically discover routes in a Laravel app
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.0-rc2](https://github.com/swoole/swoole-src/releases/tag/v6.2.0-rc2), 5 days ago) - 🚀 Coroutine-based concurrency library for PHP
-- [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) ([8.0.1](https://github.com/spatie/laravel-sitemap/releases/tag/8.0.1), 6 days ago) - Create and generate sitemaps with ease
 
 #### 👷 Check out what I'm currently working on
 
