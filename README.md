@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-visit](https://github.com/spatie/laravel-visit) ([2.0.0](https://github.com/spatie/laravel-visit/releases/tag/2.0.0), today) - Quickly visit any route in your Laravel app
 - [laravel/horizon](https://github.com/laravel/horizon) ([v5.45.1](https://github.com/laravel/horizon/releases/tag/v5.45.1), today) - Dashboard and code-driven configuration for Laravel queues.
 - [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.0.2](https://github.com/spatie/laravel-backup/releases/tag/10.0.2), 1 day ago) - A package to backup your Laravel app
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.7](https://github.com/symfony/symfony/releases/tag/v8.0.7), 3 days ago) - The Symfony PHP framework
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.7](https://github.com/symfony/http-foundation/releases/tag/v8.0.7), 3 days ago) - Defines an object-oriented layer for the HTTP specification
-- [spatie/laravel-route-discovery](https://github.com/spatie/laravel-route-discovery) ([1.6.0](https://github.com/spatie/laravel-route-discovery/releases/tag/1.6.0), 3 days ago) - Automatically discover routes in a Laravel app
 
 #### 👷 Check out what I'm currently working on
 
