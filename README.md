@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.0](https://github.com/swoole/swoole-src/releases/tag/v6.2.0), today) - 🚀 Coroutine-based concurrency library for PHP
 - [spatie/laravel-visit](https://github.com/spatie/laravel-visit) ([2.0.0](https://github.com/spatie/laravel-visit/releases/tag/2.0.0), 1 day ago) - Quickly visit any route in your Laravel app
 - [laravel/horizon](https://github.com/laravel/horizon) ([v5.45.1](https://github.com/laravel/horizon/releases/tag/v5.45.1), 1 day ago) - Dashboard and code-driven configuration for Laravel queues.
 - [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.0.2](https://github.com/spatie/laravel-backup/releases/tag/10.0.2), 2 days ago) - A package to backup your Laravel app
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.7](https://github.com/symfony/symfony/releases/tag/v8.0.7), 4 days ago) - The Symfony PHP framework
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.7](https://github.com/symfony/http-foundation/releases/tag/v8.0.7), 4 days ago) - Defines an object-oriented layer for the HTTP specification
 
 #### 👷 Check out what I'm currently working on
 
