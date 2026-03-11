@@ -9,18 +9,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.45.2](https://github.com/laravel/horizon/releases/tag/v5.45.2), today) - Dashboard and code-driven configuration for Laravel queues.
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.0](https://github.com/swoole/swoole-src/releases/tag/v6.2.0), today) - 🚀 Coroutine-based concurrency library for PHP
-- [spatie/laravel-visit](https://github.com/spatie/laravel-visit) ([2.0.0](https://github.com/spatie/laravel-visit/releases/tag/2.0.0), 1 day ago) - Quickly visit any route in your Laravel app
-- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.0.2](https://github.com/spatie/laravel-backup/releases/tag/10.0.2), 2 days ago) - A package to backup your Laravel app
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.7](https://github.com/symfony/symfony/releases/tag/v8.0.7), 4 days ago) - The Symfony PHP framework
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.45.2](https://github.com/laravel/horizon/releases/tag/v5.45.2), 1 day ago) - Dashboard and code-driven configuration for Laravel queues.
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.0](https://github.com/swoole/swoole-src/releases/tag/v6.2.0), 1 day ago) - 🚀 Coroutine-based concurrency library for PHP
+- [spatie/laravel-visit](https://github.com/spatie/laravel-visit) ([2.0.0](https://github.com/spatie/laravel-visit/releases/tag/2.0.0), 2 days ago) - Quickly visit any route in your Laravel app
+- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.0.2](https://github.com/spatie/laravel-backup/releases/tag/10.0.2), 3 days ago) - A package to backup your Laravel app
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.7](https://github.com/symfony/symfony/releases/tag/v8.0.7), 5 days ago) - The Symfony PHP framework
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (today)
-- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (today)
-- [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (4 weeks ago)
-- [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (4 weeks ago)
+- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (1 day ago)
+- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (1 day ago)
+- [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (1 month ago)
+- [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (1 month ago)
 - [spatie/ping](https://github.com/spatie/ping) - Run an ICMP ping and get structured results (1 month ago)
 
 #### 🌱 My latest projects
