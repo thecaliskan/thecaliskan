@@ -9,16 +9,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.45.3](https://github.com/laravel/horizon/releases/tag/v5.45.3), today) - Dashboard and code-driven configuration for Laravel queues.
-- [spatie/backtrace](https://github.com/spatie/backtrace) ([1.8.2](https://github.com/spatie/backtrace/releases/tag/1.8.2), today) - A better backtrace
-- [curl/curl](https://github.com/curl/curl) ([curl-8_19_0](https://github.com/curl/curl/releases/tag/curl-8_19_0), today) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.0](https://github.com/swoole/swoole-src/releases/tag/v6.2.0), 1 day ago) - 🚀 Coroutine-based concurrency library for PHP
-- [spatie/laravel-visit](https://github.com/spatie/laravel-visit) ([2.0.0](https://github.com/spatie/laravel-visit/releases/tag/2.0.0), 2 days ago) - Quickly visit any route in your Laravel app
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.45.3](https://github.com/laravel/horizon/releases/tag/v5.45.3), 1 day ago) - Dashboard and code-driven configuration for Laravel queues.
+- [spatie/backtrace](https://github.com/spatie/backtrace) ([1.8.2](https://github.com/spatie/backtrace/releases/tag/1.8.2), 1 day ago) - A better backtrace
+- [curl/curl](https://github.com/curl/curl) ([curl-8_19_0](https://github.com/curl/curl/releases/tag/curl-8_19_0), 1 day ago) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.0](https://github.com/swoole/swoole-src/releases/tag/v6.2.0), 2 days ago) - 🚀 Coroutine-based concurrency library for PHP
+- [spatie/laravel-visit](https://github.com/spatie/laravel-visit) ([2.0.0](https://github.com/spatie/laravel-visit/releases/tag/2.0.0), 3 days ago) - Quickly visit any route in your Laravel app
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (1 day ago)
-- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (1 day ago)
+- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (2 days ago)
+- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (2 days ago)
 - [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (1 month ago)
 - [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (1 month ago)
 - [spatie/ping](https://github.com/spatie/ping) - Run an ICMP ping and get structured results (1 month ago)
