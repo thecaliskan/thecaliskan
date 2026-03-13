@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/image](https://github.com/spatie/image) ([3.9.4](https://github.com/spatie/image/releases/tag/3.9.4), today) - Manipulate images with an expressive API
 - [php/php-src](https://github.com/php/php-src) ([php-8.5.4](https://github.com/php/php-src/releases/tag/php-8.5.4), 1 day ago) - The PHP Interpreter
 - [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) ([8.1.0](https://github.com/spatie/laravel-sitemap/releases/tag/8.1.0), 1 day ago) - Create and generate sitemaps with ease
 - [laravel/horizon](https://github.com/laravel/horizon) ([v5.45.3](https://github.com/laravel/horizon/releases/tag/v5.45.3), 2 days ago) - Dashboard and code-driven configuration for Laravel queues.
 - [spatie/backtrace](https://github.com/spatie/backtrace) ([1.8.2](https://github.com/spatie/backtrace/releases/tag/1.8.2), 2 days ago) - A better backtrace
-- [curl/curl](https://github.com/curl/curl) ([curl-8_19_0](https://github.com/curl/curl/releases/tag/curl-8_19_0), 2 days ago) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 
 #### 👷 Check out what I'm currently working on
 
