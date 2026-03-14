@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.7.0](https://github.com/php/php-windows-builder/releases/tag/1.7.0), today) - Tooling to build PHP and extensions on Windows
 - [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) ([3.0.0](https://github.com/spatie/typescript-transformer/releases/tag/3.0.0), 1 day ago) - Transform PHP types to TypeScript
 - [spatie/image](https://github.com/spatie/image) ([3.9.4](https://github.com/spatie/image/releases/tag/3.9.4), 1 day ago) - Manipulate images with an expressive API
 - [php/php-src](https://github.com/php/php-src) ([php-8.5.4](https://github.com/php/php-src/releases/tag/php-8.5.4), 2 days ago) - The PHP Interpreter
 - [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) ([8.1.0](https://github.com/spatie/laravel-sitemap/releases/tag/8.1.0), 2 days ago) - Create and generate sitemaps with ease
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.45.3](https://github.com/laravel/horizon/releases/tag/v5.45.3), 3 days ago) - Dashboard and code-driven configuration for Laravel queues.
 
 #### 👷 Check out what I'm currently working on
 
