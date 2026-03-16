@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.1.0](https://github.com/spatie/laravel-backup/releases/tag/10.1.0), today) - A package to backup your Laravel app
+- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.1.1](https://github.com/spatie/laravel-backup/releases/tag/10.1.1), today) - A package to backup your Laravel app
 - [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) ([3.1.0](https://github.com/spatie/typescript-transformer/releases/tag/3.1.0), today) - Transform PHP types to TypeScript
 - [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.7.0](https://github.com/php/php-windows-builder/releases/tag/1.7.0), 2 days ago) - Tooling to build PHP and extensions on Windows
 - [spatie/image](https://github.com/spatie/image) ([3.9.4](https://github.com/spatie/image/releases/tag/3.9.4), 3 days ago) - Manipulate images with an expressive API
