@@ -9,16 +9,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.1.1](https://github.com/spatie/laravel-backup/releases/tag/10.1.1), today) - A package to backup your Laravel app
-- [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) ([3.1.0](https://github.com/spatie/typescript-transformer/releases/tag/3.1.0), today) - Transform PHP types to TypeScript
-- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.7.0](https://github.com/php/php-windows-builder/releases/tag/1.7.0), 2 days ago) - Tooling to build PHP and extensions on Windows
-- [spatie/image](https://github.com/spatie/image) ([3.9.4](https://github.com/spatie/image/releases/tag/3.9.4), 3 days ago) - Manipulate images with an expressive API
-- [php/php-src](https://github.com/php/php-src) ([php-8.5.4](https://github.com/php/php-src/releases/tag/php-8.5.4), 4 days ago) - The PHP Interpreter
+- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.1.1](https://github.com/spatie/laravel-backup/releases/tag/10.1.1), 1 day ago) - A package to backup your Laravel app
+- [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) ([3.1.0](https://github.com/spatie/typescript-transformer/releases/tag/3.1.0), 1 day ago) - Transform PHP types to TypeScript
+- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.7.0](https://github.com/php/php-windows-builder/releases/tag/1.7.0), 3 days ago) - Tooling to build PHP and extensions on Windows
+- [spatie/image](https://github.com/spatie/image) ([3.9.4](https://github.com/spatie/image/releases/tag/3.9.4), 4 days ago) - Manipulate images with an expressive API
+- [php/php-src](https://github.com/php/php-src) ([php-8.5.4](https://github.com/php/php-src/releases/tag/php-8.5.4), 5 days ago) - The PHP Interpreter
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (6 days ago)
-- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (6 days ago)
+- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (1 week ago)
+- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (1 week ago)
 - [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (1 month ago)
 - [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (1 month ago)
 - [spatie/ping](https://github.com/spatie/ping) - Run an ICMP ping and get structured results (1 month ago)
