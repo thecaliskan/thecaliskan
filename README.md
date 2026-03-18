@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.39.1](https://github.com/spatie/laravel-health/releases/tag/1.39.1), today) - Check the health of your Laravel app
-- [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) ([1.7.2](https://github.com/spatie/laravel-ignition/releases/tag/1.7.2), today) - A beautiful error page for Laravel apps
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([1.11.0](https://github.com/spatie/flare-client-php/releases/tag/1.11.0), today) - Send PHP errors to Flare
-- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.1.1](https://github.com/spatie/laravel-backup/releases/tag/10.1.1), 1 day ago) - A package to backup your Laravel app
-- [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) ([3.1.0](https://github.com/spatie/typescript-transformer/releases/tag/3.1.0), 1 day ago) - Transform PHP types to TypeScript
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.39.1](https://github.com/spatie/laravel-health/releases/tag/1.39.1), 1 day ago) - Check the health of your Laravel app
+- [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) ([1.7.2](https://github.com/spatie/laravel-ignition/releases/tag/1.7.2), 1 day ago) - A beautiful error page for Laravel apps
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([1.11.0](https://github.com/spatie/flare-client-php/releases/tag/1.11.0), 1 day ago) - Send PHP errors to Flare
+- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.1.1](https://github.com/spatie/laravel-backup/releases/tag/10.1.1), 2 days ago) - A package to backup your Laravel app
+- [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) ([3.1.0](https://github.com/spatie/typescript-transformer/releases/tag/3.1.0), 2 days ago) - Transform PHP types to TypeScript
 
 #### 👷 Check out what I'm currently working on
 
