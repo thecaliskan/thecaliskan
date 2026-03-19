@@ -9,9 +9,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/pie](https://github.com/php/pie) ([1.4.0-alpha.1](https://github.com/php/pie/releases/tag/1.4.0-alpha.1), today) - 🥧 The PHP Installer for Extensions
 - [laravel/horizon](https://github.com/laravel/horizon) ([v5.45.4](https://github.com/laravel/horizon/releases/tag/v5.45.4), 1 day ago) - Dashboard and code-driven configuration for Laravel queues.
 - [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) ([3.1.1](https://github.com/spatie/typescript-transformer/releases/tag/3.1.1), 1 day ago) - Transform PHP types to TypeScript
-- [php/pie](https://github.com/php/pie) ([1.3.10](https://github.com/php/pie/releases/tag/1.3.10), 1 day ago) - 🥧 The PHP Installer for Extensions
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.39.1](https://github.com/spatie/laravel-health/releases/tag/1.39.1), 2 days ago) - Check the health of your Laravel app
 - [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) ([1.7.2](https://github.com/spatie/laravel-ignition/releases/tag/1.7.2), 2 days ago) - A beautiful error page for Laravel apps
 
