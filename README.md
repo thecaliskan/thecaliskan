@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/crawler](https://github.com/spatie/crawler) ([9.2.1](https://github.com/spatie/crawler/releases/tag/9.2.1), 1 day ago) - https://spatie.be/docs/crawler
-- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.2.0](https://github.com/spatie/laravel-backup/releases/tag/10.2.0), 2 days ago) - A package to backup your Laravel app
-- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([4.1.0](https://github.com/spatie/db-dumper/releases/tag/4.1.0), 2 days ago) - Dump the contents of a database
-- [php/pie](https://github.com/php/pie) ([1.4.0-alpha.1](https://github.com/php/pie/releases/tag/1.4.0-alpha.1), 2 days ago) - 🥧 The PHP Installer for Extensions
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.45.4](https://github.com/laravel/horizon/releases/tag/v5.45.4), 3 days ago) - Dashboard and code-driven configuration for Laravel queues.
+- [spatie/crawler](https://github.com/spatie/crawler) ([9.2.1](https://github.com/spatie/crawler/releases/tag/9.2.1), 2 days ago) - https://spatie.be/docs/crawler
+- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.2.0](https://github.com/spatie/laravel-backup/releases/tag/10.2.0), 3 days ago) - A package to backup your Laravel app
+- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([4.1.0](https://github.com/spatie/db-dumper/releases/tag/4.1.0), 3 days ago) - Dump the contents of a database
+- [php/pie](https://github.com/php/pie) ([1.4.0-alpha.1](https://github.com/php/pie/releases/tag/1.4.0-alpha.1), 3 days ago) - 🥧 The PHP Installer for Extensions
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.45.4](https://github.com/laravel/horizon/releases/tag/v5.45.4), 4 days ago) - Dashboard and code-driven configuration for Laravel queues.
 
 #### 👷 Check out what I'm currently working on
 
