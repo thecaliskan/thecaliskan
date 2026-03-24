@@ -9,16 +9,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/crawler](https://github.com/spatie/crawler) ([9.2.1](https://github.com/spatie/crawler/releases/tag/9.2.1), 3 days ago) - https://spatie.be/docs/crawler
-- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.2.0](https://github.com/spatie/laravel-backup/releases/tag/10.2.0), 4 days ago) - A package to backup your Laravel app
-- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([4.1.0](https://github.com/spatie/db-dumper/releases/tag/4.1.0), 4 days ago) - Dump the contents of a database
-- [php/pie](https://github.com/php/pie) ([1.4.0-alpha.1](https://github.com/php/pie/releases/tag/1.4.0-alpha.1), 4 days ago) - 🥧 The PHP Installer for Extensions
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.45.4](https://github.com/laravel/horizon/releases/tag/v5.45.4), 5 days ago) - Dashboard and code-driven configuration for Laravel queues.
+- [spatie/crawler](https://github.com/spatie/crawler) ([9.2.1](https://github.com/spatie/crawler/releases/tag/9.2.1), 4 days ago) - https://spatie.be/docs/crawler
+- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.2.0](https://github.com/spatie/laravel-backup/releases/tag/10.2.0), 5 days ago) - A package to backup your Laravel app
+- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([4.1.0](https://github.com/spatie/db-dumper/releases/tag/4.1.0), 5 days ago) - Dump the contents of a database
+- [php/pie](https://github.com/php/pie) ([1.4.0-alpha.1](https://github.com/php/pie/releases/tag/1.4.0-alpha.1), 5 days ago) - 🥧 The PHP Installer for Extensions
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.45.4](https://github.com/laravel/horizon/releases/tag/v5.45.4), 6 days ago) - Dashboard and code-driven configuration for Laravel queues.
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (1 week ago)
-- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (1 week ago)
+- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (2 weeks ago)
+- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (2 weeks ago)
 - [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (1 month ago)
 - [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (1 month ago)
 - [spatie/ping](https://github.com/spatie/ping) - Run an ICMP ping and get structured results (1 month ago)
