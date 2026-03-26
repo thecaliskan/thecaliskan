@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [php/pie](https://github.com/php/pie) ([1.4.0-alpha.3](https://github.com/php/pie/releases/tag/1.4.0-alpha.3), today) - 🥧 The PHP Installer for Extensions
-- [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.2.0](https://github.com/spatie/laravel-backup-server/releases/tag/4.2.0), today) - Backup multiple servers
-- [spatie/crawler](https://github.com/spatie/crawler) ([9.2.1](https://github.com/spatie/crawler/releases/tag/9.2.1), 5 days ago) - https://spatie.be/docs/crawler
-- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.2.0](https://github.com/spatie/laravel-backup/releases/tag/10.2.0), 6 days ago) - A package to backup your Laravel app
-- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([4.1.0](https://github.com/spatie/db-dumper/releases/tag/4.1.0), 6 days ago) - Dump the contents of a database
+- [php/pie](https://github.com/php/pie) ([1.4.0-alpha.3](https://github.com/php/pie/releases/tag/1.4.0-alpha.3), 1 day ago) - 🥧 The PHP Installer for Extensions
+- [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.2.0](https://github.com/spatie/laravel-backup-server/releases/tag/4.2.0), 1 day ago) - Backup multiple servers
+- [spatie/crawler](https://github.com/spatie/crawler) ([9.2.1](https://github.com/spatie/crawler/releases/tag/9.2.1), 6 days ago) - https://spatie.be/docs/crawler
+- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.2.0](https://github.com/spatie/laravel-backup/releases/tag/10.2.0), 1 week ago) - A package to backup your Laravel app
+- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([4.1.0](https://github.com/spatie/db-dumper/releases/tag/4.1.0), 1 week ago) - Dump the contents of a database
 
 #### 👷 Check out what I'm currently working on
 
