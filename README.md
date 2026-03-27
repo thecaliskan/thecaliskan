@@ -4,15 +4,15 @@
 
 - [Wars of Symfony Runtimes: A Performance Odyssey](https://medium.com/beyn-technology/wars-of-symfony-runtimes-a-performance-odyssey-7b0120e8f9e1?source=rss-cf41ab240584------2) (2 years ago)
 - [Hola FrankenPHP! Laravel Octane Servers Comparison: Pushing the Boundaries of Performance](https://medium.com/beyn-technology/hola-frankenphp-laravel-octane-servers-comparison-pushing-the-boundaries-of-performance-d3e7ad8e652c?source=rss-cf41ab240584------2) (2 years ago)
-- [Is Nginx dead? Is Traefik v3 20% faster than Traefik v2?](https://medium.com/beyn-technology/is-nginx-dead-is-traefik-v3-20-faster-than-traefik-v2-f28ffb7eed3e?source=rss-cf41ab240584------2) (2 years ago)
+- [Is Nginx dead? Is Traefik v3 20% faster than Traefik v2?](https://medium.com/beyn-technology/is-nginx-dead-is-traefik-v3-20-faster-than-traefik-v2-f28ffb7eed3e?source=rss-cf41ab240584------2) (3 years ago)
 - [Serving High Performance the Symfony App with Swoole/Docker](https://medium.com/beyn-technology/serving-high-performance-the-symfony-app-with-swoole-docker-758d8f176889?source=rss-cf41ab240584------2) (3 years ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.2.1](https://github.com/spatie/laravel-backup/releases/tag/10.2.1), today) - A package to backup your Laravel app
-- [php/pie](https://github.com/php/pie) ([1.4.0-alpha.3](https://github.com/php/pie/releases/tag/1.4.0-alpha.3), 1 day ago) - 🥧 The PHP Installer for Extensions
-- [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.2.0](https://github.com/spatie/laravel-backup-server/releases/tag/4.2.0), 1 day ago) - Backup multiple servers
-- [spatie/crawler](https://github.com/spatie/crawler) ([9.2.1](https://github.com/spatie/crawler/releases/tag/9.2.1), 6 days ago) - https://spatie.be/docs/crawler
+- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.2.1](https://github.com/spatie/laravel-backup/releases/tag/10.2.1), 1 day ago) - A package to backup your Laravel app
+- [php/pie](https://github.com/php/pie) ([1.4.0-alpha.3](https://github.com/php/pie/releases/tag/1.4.0-alpha.3), 2 days ago) - 🥧 The PHP Installer for Extensions
+- [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.2.0](https://github.com/spatie/laravel-backup-server/releases/tag/4.2.0), 2 days ago) - Backup multiple servers
+- [spatie/crawler](https://github.com/spatie/crawler) ([9.2.1](https://github.com/spatie/crawler/releases/tag/9.2.1), 1 week ago) - https://spatie.be/docs/crawler
 - [spatie/db-dumper](https://github.com/spatie/db-dumper) ([4.1.0](https://github.com/spatie/db-dumper/releases/tag/4.1.0), 1 week ago) - Dump the contents of a database
 
 #### 👷 Check out what I'm currently working on
