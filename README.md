@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.4.36](https://github.com/symfony/symfony/releases/tag/v6.4.36), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.8](https://github.com/symfony/symfony/releases/tag/v8.0.8), today) - The Symfony PHP framework
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.8](https://github.com/symfony/http-foundation/releases/tag/v8.0.8), today) - Defines an object-oriented layer for the HTTP specification
 - [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.2.1](https://github.com/spatie/laravel-backup/releases/tag/10.2.1), 5 days ago) - A package to backup your Laravel app
 - [php/pie](https://github.com/php/pie) ([1.4.0-alpha.3](https://github.com/php/pie/releases/tag/1.4.0-alpha.3), 6 days ago) - 🥧 The PHP Installer for Extensions
 - [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.2.0](https://github.com/spatie/laravel-backup-server/releases/tag/4.2.0), 6 days ago) - Backup multiple servers
-- [spatie/crawler](https://github.com/spatie/crawler) ([9.2.1](https://github.com/spatie/crawler/releases/tag/9.2.1), 1 week ago) - https://spatie.be/docs/crawler
 
 #### 👷 Check out what I'm currently working on
 
