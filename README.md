@@ -9,8 +9,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/pie](https://github.com/php/pie) ([1.4.0](https://github.com/php/pie/releases/tag/1.4.0), today) - 🥧 The PHP Installer for Extensions
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.0](https://github.com/swoole/swoole-src/releases/tag/v6.2.0), 1 day ago) - 🚀 Coroutine-based concurrency library for PHP
-- [php/pie](https://github.com/php/pie) ([1.4.0-rc.1](https://github.com/php/pie/releases/tag/1.4.0-rc.1), 5 days ago) - 🥧 The PHP Installer for Extensions
 - [laravel/horizon](https://github.com/laravel/horizon) ([v5.45.5](https://github.com/laravel/horizon/releases/tag/v5.45.5), 1 week ago) - Dashboard and code-driven configuration for Laravel queues.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.8](https://github.com/symfony/symfony/releases/tag/v8.0.8), 1 week ago) - The Symfony PHP framework
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.0.8](https://github.com/symfony/http-foundation/releases/tag/v8.0.8), 1 week ago) - Defines an object-oriented layer for the HTTP specification
