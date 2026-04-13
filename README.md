@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.8.0](https://github.com/php/php-windows-builder/releases/tag/1.8.0), 1 day ago) - Tooling to build PHP and extensions on Windows
-- [php/php-src](https://github.com/php/php-src) ([php-8.4.20](https://github.com/php/php-src/releases/tag/php-8.4.20), 3 days ago) - The PHP Interpreter
-- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([2.8.0](https://github.com/spatie/laravel-flare/releases/tag/2.8.0), 4 days ago) - Send Laravel errors to Flare
-- [php/pie](https://github.com/php/pie) ([1.4.0](https://github.com/php/pie/releases/tag/1.4.0), 4 days ago) - 🥧 The PHP Installer for Extensions
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.0](https://github.com/swoole/swoole-src/releases/tag/v6.2.0), 5 days ago) - 🚀 Coroutine-based concurrency library for PHP
+- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.8.0](https://github.com/php/php-windows-builder/releases/tag/1.8.0), 2 days ago) - Tooling to build PHP and extensions on Windows
+- [php/php-src](https://github.com/php/php-src) ([php-8.4.20](https://github.com/php/php-src/releases/tag/php-8.4.20), 4 days ago) - The PHP Interpreter
+- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([2.8.0](https://github.com/spatie/laravel-flare/releases/tag/2.8.0), 5 days ago) - Send Laravel errors to Flare
+- [php/pie](https://github.com/php/pie) ([1.4.0](https://github.com/php/pie/releases/tag/1.4.0), 5 days ago) - 🥧 The PHP Installer for Extensions
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.0](https://github.com/swoole/swoole-src/releases/tag/v6.2.0), 6 days ago) - 🚀 Coroutine-based concurrency library for PHP
 
 #### 👷 Check out what I'm currently working on
 
