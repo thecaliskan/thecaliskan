@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/pie](https://github.com/php/pie) ([1.4.1](https://github.com/php/pie/releases/tag/1.4.1), today) - 🥧 The PHP Installer for Extensions
 - [spatie/holidays](https://github.com/spatie/holidays) ([2.0.1](https://github.com/spatie/holidays/releases/tag/2.0.1), 1 day ago) - Calculate which days you don&#39;t have to work!
 - [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.8.1](https://github.com/php/php-windows-builder/releases/tag/1.8.1), 1 day ago) - Tooling to build PHP and extensions on Windows
 - [php/php-src](https://github.com/php/php-src) ([php-8.4.20](https://github.com/php/php-src/releases/tag/php-8.4.20), 5 days ago) - The PHP Interpreter
 - [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([2.8.0](https://github.com/spatie/laravel-flare/releases/tag/2.8.0), 6 days ago) - Send Laravel errors to Flare
-- [php/pie](https://github.com/php/pie) ([1.4.0](https://github.com/php/pie/releases/tag/1.4.0), 6 days ago) - 🥧 The PHP Installer for Extensions
 
 #### 👷 Check out what I'm currently working on
 
