@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/holidays](https://github.com/spatie/holidays) ([2.0.3](https://github.com/spatie/holidays/releases/tag/2.0.3), today) - Calculate which days you don&#39;t have to work!
-- [spatie/crawler](https://github.com/spatie/crawler) ([9.3.0](https://github.com/spatie/crawler/releases/tag/9.3.0), today) - https://spatie.be/docs/crawler
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.45.6](https://github.com/laravel/horizon/releases/tag/v5.45.6), 1 day ago) - Dashboard and code-driven configuration for Laravel queues.
-- [php/pie](https://github.com/php/pie) ([1.4.1](https://github.com/php/pie/releases/tag/1.4.1), 1 day ago) - 🥧 The PHP Installer for Extensions
-- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.8.1](https://github.com/php/php-windows-builder/releases/tag/1.8.1), 2 days ago) - Tooling to build PHP and extensions on Windows
+- [spatie/holidays](https://github.com/spatie/holidays) ([2.0.3](https://github.com/spatie/holidays/releases/tag/2.0.3), 1 day ago) - Calculate which days you don&#39;t have to work!
+- [spatie/crawler](https://github.com/spatie/crawler) ([9.3.0](https://github.com/spatie/crawler/releases/tag/9.3.0), 1 day ago) - https://spatie.be/docs/crawler
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.45.6](https://github.com/laravel/horizon/releases/tag/v5.45.6), 2 days ago) - Dashboard and code-driven configuration for Laravel queues.
+- [php/pie](https://github.com/php/pie) ([1.4.1](https://github.com/php/pie/releases/tag/1.4.1), 2 days ago) - 🥧 The PHP Installer for Extensions
+- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.8.1](https://github.com/php/php-windows-builder/releases/tag/1.8.1), 3 days ago) - Tooling to build PHP and extensions on Windows
 
 #### 👷 Check out what I'm currently working on
 
