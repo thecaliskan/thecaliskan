@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.4.1](https://github.com/spatie/php-structure-discoverer/releases/tag/2.4.1), today) - Automatically discover classes within your PHP application
 - [spatie/holidays](https://github.com/spatie/holidays) ([2.0.3](https://github.com/spatie/holidays/releases/tag/2.0.3), 2 days ago) - Calculate which days you don&#39;t have to work!
 - [spatie/crawler](https://github.com/spatie/crawler) ([9.3.0](https://github.com/spatie/crawler/releases/tag/9.3.0), 2 days ago) - https://spatie.be/docs/crawler
 - [laravel/horizon](https://github.com/laravel/horizon) ([v5.45.6](https://github.com/laravel/horizon/releases/tag/v5.45.6), 3 days ago) - Dashboard and code-driven configuration for Laravel queues.
 - [php/pie](https://github.com/php/pie) ([1.4.1](https://github.com/php/pie/releases/tag/1.4.1), 3 days ago) - 🥧 The PHP Installer for Extensions
-- [php/php-windows-builder](https://github.com/php/php-windows-builder) ([1.8.1](https://github.com/php/php-windows-builder/releases/tag/1.8.1), 4 days ago) - Tooling to build PHP and extensions on Windows
 
 #### 👷 Check out what I'm currently working on
 
