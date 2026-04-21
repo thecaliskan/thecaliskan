@@ -9,10 +9,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.46.0](https://github.com/laravel/horizon/releases/tag/v5.46.0), today) - Dashboard and code-driven configuration for Laravel queues.
 - [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.4.1](https://github.com/spatie/php-structure-discoverer/releases/tag/2.4.1), 4 days ago) - Automatically discover classes within your PHP application
 - [spatie/holidays](https://github.com/spatie/holidays) ([2.0.3](https://github.com/spatie/holidays/releases/tag/2.0.3), 6 days ago) - Calculate which days you don&#39;t have to work!
 - [spatie/crawler](https://github.com/spatie/crawler) ([9.3.0](https://github.com/spatie/crawler/releases/tag/9.3.0), 6 days ago) - https://spatie.be/docs/crawler
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.45.6](https://github.com/laravel/horizon/releases/tag/v5.45.6), 1 week ago) - Dashboard and code-driven configuration for Laravel queues.
 - [php/pie](https://github.com/php/pie) ([1.4.1](https://github.com/php/pie/releases/tag/1.4.1), 1 week ago) - 🥧 The PHP Installer for Extensions
 
 #### 👷 Check out what I'm currently working on
