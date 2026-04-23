@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.21.1](https://github.com/spatie/laravel-medialibrary/releases/tag/11.21.1), today) - Associate files with Eloquent models
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.46.0](https://github.com/laravel/horizon/releases/tag/v5.46.0), 1 day ago) - Dashboard and code-driven configuration for Laravel queues.
-- [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.4.1](https://github.com/spatie/php-structure-discoverer/releases/tag/2.4.1), 5 days ago) - Automatically discover classes within your PHP application
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.21.1](https://github.com/spatie/laravel-medialibrary/releases/tag/11.21.1), 1 day ago) - Associate files with Eloquent models
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.46.0](https://github.com/laravel/horizon/releases/tag/v5.46.0), 2 days ago) - Dashboard and code-driven configuration for Laravel queues.
+- [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.4.1](https://github.com/spatie/php-structure-discoverer/releases/tag/2.4.1), 6 days ago) - Automatically discover classes within your PHP application
 - [spatie/holidays](https://github.com/spatie/holidays) ([2.0.3](https://github.com/spatie/holidays/releases/tag/2.0.3), 1 week ago) - Calculate which days you don&#39;t have to work!
 - [spatie/crawler](https://github.com/spatie/crawler) ([9.3.0](https://github.com/spatie/crawler/releases/tag/9.3.0), 1 week ago) - https://spatie.be/docs/crawler
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (6 days ago)
+- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (1 week ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (1 month ago)
 - [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (2 months ago)
 - [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (2 months ago)
