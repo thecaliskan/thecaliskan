@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/pie](https://github.com/php/pie) ([1.4.2](https://github.com/php/pie/releases/tag/1.4.2), today) - 🥧 The PHP Installer for Extensions
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.39.2](https://github.com/spatie/laravel-health/releases/tag/1.39.2), 1 day ago) - Check the health of your Laravel app
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.21.2](https://github.com/spatie/laravel-medialibrary/releases/tag/11.21.2), 1 day ago) - Associate files with Eloquent models
 - [laravel/horizon](https://github.com/laravel/horizon) ([v5.46.0](https://github.com/laravel/horizon/releases/tag/v5.46.0), 3 days ago) - Dashboard and code-driven configuration for Laravel queues.
 - [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.4.1](https://github.com/spatie/php-structure-discoverer/releases/tag/2.4.1), 1 week ago) - Automatically discover classes within your PHP application
-- [spatie/holidays](https://github.com/spatie/holidays) ([2.0.3](https://github.com/spatie/holidays/releases/tag/2.0.3), 1 week ago) - Calculate which days you don&#39;t have to work!
 
 #### 👷 Check out what I'm currently working on
 
