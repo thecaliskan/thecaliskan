@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/browsershot](https://github.com/spatie/browsershot) ([5.3.0](https://github.com/spatie/browsershot/releases/tag/5.3.0), today) - Convert HTML to an image, PDF or string
 - [php/pie](https://github.com/php/pie) ([1.4.2](https://github.com/php/pie/releases/tag/1.4.2), 3 days ago) - 🥧 The PHP Installer for Extensions
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.39.2](https://github.com/spatie/laravel-health/releases/tag/1.39.2), 4 days ago) - Check the health of your Laravel app
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.21.2](https://github.com/spatie/laravel-medialibrary/releases/tag/11.21.2), 4 days ago) - Associate files with Eloquent models
 - [laravel/horizon](https://github.com/laravel/horizon) ([v5.46.0](https://github.com/laravel/horizon/releases/tag/v5.46.0), 6 days ago) - Dashboard and code-driven configuration for Laravel queues.
-- [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.4.1](https://github.com/spatie/php-structure-discoverer/releases/tag/2.4.1), 1 week ago) - Automatically discover classes within your PHP application
 
 #### 👷 Check out what I'm currently working on
 
