@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.4.2](https://github.com/spatie/php-structure-discoverer/releases/tag/2.4.2), today) - Automatically discover classes within your PHP application
 - [spatie/shiki-php](https://github.com/spatie/shiki-php) ([2.4.0](https://github.com/spatie/shiki-php/releases/tag/2.4.0), 1 day ago) - Code highlighting with Shiki in PHP
 - [spatie/browsershot](https://github.com/spatie/browsershot) ([5.3.0](https://github.com/spatie/browsershot/releases/tag/5.3.0), 1 day ago) - Convert HTML to an image, PDF or string
 - [php/pie](https://github.com/php/pie) ([1.4.2](https://github.com/php/pie/releases/tag/1.4.2), 4 days ago) - 🥧 The PHP Installer for Extensions
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.39.2](https://github.com/spatie/laravel-health/releases/tag/1.39.2), 5 days ago) - Check the health of your Laravel app
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.21.2](https://github.com/spatie/laravel-medialibrary/releases/tag/11.21.2), 5 days ago) - Associate files with Eloquent models
 
 #### 👷 Check out what I'm currently working on
 
