@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.8](https://github.com/swoole/swoole-src/releases/tag/v6.1.8), today) - 🚀 Coroutine-based concurrency library for PHP
-- [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) ([5.7.1](https://github.com/spatie/laravel-analytics/releases/tag/5.7.1), today) - A Laravel package to retrieve pageviews and other data from Google Analytics
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.22.0](https://github.com/spatie/laravel-medialibrary/releases/tag/11.22.0), today) - Associate files with Eloquent models
-- [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.4.2](https://github.com/spatie/php-structure-discoverer/releases/tag/2.4.2), today) - Automatically discover classes within your PHP application
-- [spatie/shiki-php](https://github.com/spatie/shiki-php) ([2.4.0](https://github.com/spatie/shiki-php/releases/tag/2.4.0), 1 day ago) - Code highlighting with Shiki in PHP
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.8](https://github.com/swoole/swoole-src/releases/tag/v6.1.8), 1 day ago) - 🚀 Coroutine-based concurrency library for PHP
+- [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) ([5.7.1](https://github.com/spatie/laravel-analytics/releases/tag/5.7.1), 1 day ago) - A Laravel package to retrieve pageviews and other data from Google Analytics
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.22.0](https://github.com/spatie/laravel-medialibrary/releases/tag/11.22.0), 1 day ago) - Associate files with Eloquent models
+- [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.4.2](https://github.com/spatie/php-structure-discoverer/releases/tag/2.4.2), 1 day ago) - Automatically discover classes within your PHP application
+- [spatie/shiki-php](https://github.com/spatie/shiki-php) ([2.4.0](https://github.com/spatie/shiki-php/releases/tag/2.4.0), 2 days ago) - Code highlighting with Shiki in PHP
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (4 days ago)
+- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (5 days ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (1 month ago)
 - [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (2 months ago)
 - [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (2 months ago)
