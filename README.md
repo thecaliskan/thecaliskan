@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-blade-comments](https://github.com/spatie/laravel-blade-comments) ([2.0.3](https://github.com/spatie/laravel-blade-comments/releases/tag/2.0.3), today) - Add debug comments to your rendered output
+- [curl/curl](https://github.com/curl/curl) ([curl-8_20_0](https://github.com/curl/curl/releases/tag/curl-8_20_0), today) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.8](https://github.com/swoole/swoole-src/releases/tag/v6.1.8), 1 day ago) - 🚀 Coroutine-based concurrency library for PHP
 - [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) ([5.7.1](https://github.com/spatie/laravel-analytics/releases/tag/5.7.1), 1 day ago) - A Laravel package to retrieve pageviews and other data from Google Analytics
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.22.0](https://github.com/spatie/laravel-medialibrary/releases/tag/11.22.0), 1 day ago) - Associate files with Eloquent models
-- [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.4.2](https://github.com/spatie/php-structure-discoverer/releases/tag/2.4.2), 1 day ago) - Automatically discover classes within your PHP application
-- [spatie/shiki-php](https://github.com/spatie/shiki-php) ([2.4.0](https://github.com/spatie/shiki-php/releases/tag/2.4.0), 2 days ago) - Code highlighting with Shiki in PHP
 
 #### 👷 Check out what I'm currently working on
 
