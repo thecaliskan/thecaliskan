@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.22.1](https://github.com/spatie/laravel-medialibrary/releases/tag/11.22.1), today) - Associate files with Eloquent models
+- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([4.1.1](https://github.com/spatie/db-dumper/releases/tag/4.1.1), today) - Dump the contents of a database
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.9](https://github.com/symfony/symfony/releases/tag/v8.0.9), 3 days ago) - The Symfony PHP framework
 - [spatie/laravel-blade-comments](https://github.com/spatie/laravel-blade-comments) ([2.0.3](https://github.com/spatie/laravel-blade-comments/releases/tag/2.0.3), 5 days ago) - Add debug comments to your rendered output
 - [curl/curl](https://github.com/curl/curl) ([curl-8_20_0](https://github.com/curl/curl/releases/tag/curl-8_20_0), 5 days ago) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.8](https://github.com/swoole/swoole-src/releases/tag/v6.1.8), 6 days ago) - 🚀 Coroutine-based concurrency library for PHP
-- [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) ([5.7.1](https://github.com/spatie/laravel-analytics/releases/tag/5.7.1), 6 days ago) - A Laravel package to retrieve pageviews and other data from Google Analytics
 
 #### 👷 Check out what I'm currently working on
 
