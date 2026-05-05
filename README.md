@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.0.0-rc.1](https://github.com/spatie/flare-client-php/releases/tag/3.0.0-rc.1), today) - Send PHP errors to Flare
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.22.1](https://github.com/spatie/laravel-medialibrary/releases/tag/11.22.1), 1 day ago) - Associate files with Eloquent models
 - [spatie/db-dumper](https://github.com/spatie/db-dumper) ([4.1.1](https://github.com/spatie/db-dumper/releases/tag/4.1.1), 1 day ago) - Dump the contents of a database
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.9](https://github.com/symfony/symfony/releases/tag/v8.0.9), 4 days ago) - The Symfony PHP framework
 - [spatie/laravel-blade-comments](https://github.com/spatie/laravel-blade-comments) ([2.0.3](https://github.com/spatie/laravel-blade-comments/releases/tag/2.0.3), 6 days ago) - Add debug comments to your rendered output
-- [curl/curl](https://github.com/curl/curl) ([curl-8_20_0](https://github.com/curl/curl/releases/tag/curl-8_20_0), 6 days ago) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 
 #### 👷 Check out what I'm currently working on
 
