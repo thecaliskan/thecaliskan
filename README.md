@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.0.0-rc.1](https://github.com/spatie/laravel-flare/releases/tag/3.0.0-rc.1), today) - Send Laravel errors to Flare
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.4.38](https://github.com/symfony/symfony/releases/tag/v6.4.38), today) - The Symfony PHP framework
+- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.0.0-rc.2](https://github.com/spatie/laravel-flare/releases/tag/3.0.0-rc.2), today) - Send Laravel errors to Flare
 - [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.0.0-rc.1](https://github.com/spatie/flare-client-php/releases/tag/3.0.0-rc.1), 1 day ago) - Send PHP errors to Flare
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.22.1](https://github.com/spatie/laravel-medialibrary/releases/tag/11.22.1), 2 days ago) - Associate files with Eloquent models
 - [spatie/db-dumper](https://github.com/spatie/db-dumper) ([4.1.1](https://github.com/spatie/db-dumper/releases/tag/4.1.1), 2 days ago) - Dump the contents of a database
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.9](https://github.com/symfony/symfony/releases/tag/v8.0.9), 5 days ago) - The Symfony PHP framework
 
 #### 👷 Check out what I'm currently working on
 
