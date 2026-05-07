@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [php/php-src](https://github.com/php/php-src) ([php-8.3.31](https://github.com/php/php-src/releases/tag/php-8.3.31), today) - The PHP Interpreter
+- [php/php-src](https://github.com/php/php-src) ([php-8.5.6](https://github.com/php/php-src/releases/tag/php-8.5.6), today) - The PHP Interpreter
 - [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.0.0-rc.2](https://github.com/spatie/flare-client-php/releases/tag/3.0.0-rc.2), today) - Send PHP errors to Flare
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA1), 1 day ago) - The Symfony PHP framework
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.0-BETA1](https://github.com/symfony/http-foundation/releases/tag/v8.1.0-BETA1), 1 day ago) - Defines an object-oriented layer for the HTTP specification
