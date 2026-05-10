@@ -9,18 +9,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) ([3.2.0](https://github.com/spatie/typescript-transformer/releases/tag/3.2.0), 1 day ago) - Transform PHP types to TypeScript
-- [php/php-src](https://github.com/php/php-src) ([php-8.5.6](https://github.com/php/php-src/releases/tag/php-8.5.6), 2 days ago) - The PHP Interpreter
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.0.0-rc.2](https://github.com/spatie/flare-client-php/releases/tag/3.0.0-rc.2), 2 days ago) - Send PHP errors to Flare
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA1), 3 days ago) - The Symfony PHP framework
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.0-BETA1](https://github.com/symfony/http-foundation/releases/tag/v8.1.0-BETA1), 3 days ago) - Defines an object-oriented layer for the HTTP specification
+- [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) ([3.2.0](https://github.com/spatie/typescript-transformer/releases/tag/3.2.0), 2 days ago) - Transform PHP types to TypeScript
+- [php/php-src](https://github.com/php/php-src) ([php-8.5.6](https://github.com/php/php-src/releases/tag/php-8.5.6), 3 days ago) - The PHP Interpreter
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.0.0-rc.2](https://github.com/spatie/flare-client-php/releases/tag/3.0.0-rc.2), 3 days ago) - Send PHP errors to Flare
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA1), 4 days ago) - The Symfony PHP framework
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.0-BETA1](https://github.com/symfony/http-foundation/releases/tag/v8.1.0-BETA1), 4 days ago) - Defines an object-oriented layer for the HTTP specification
 
 #### 👷 Check out what I'm currently working on
 
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (2 weeks ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (2 months ago)
-- [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (2 months ago)
-- [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (2 months ago)
+- [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (3 months ago)
+- [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (3 months ago)
 - [spatie/ping](https://github.com/spatie/ping) - Run an ICMP ping and get structured results (3 months ago)
 
 #### 🌱 My latest projects
