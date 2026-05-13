@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.39.3](https://github.com/spatie/laravel-health/releases/tag/1.39.3), today) - Check the health of your Laravel app
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA2), today) - The Symfony PHP framework
 - [php/pie](https://github.com/php/pie) ([1.4.4](https://github.com/php/pie/releases/tag/1.4.4), today) - 🥧 The PHP Installer for Extensions
 - [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.2.1](https://github.com/spatie/laravel-backup-server/releases/tag/4.2.1), 2 days ago) - Backup multiple servers
 - [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) ([3.2.0](https://github.com/spatie/typescript-transformer/releases/tag/3.2.0), 5 days ago) - Transform PHP types to TypeScript
-- [php/php-src](https://github.com/php/php-src) ([php-8.5.6](https://github.com/php/php-src/releases/tag/php-8.5.6), 6 days ago) - The PHP Interpreter
 
 #### 👷 Check out what I'm currently working on
 
