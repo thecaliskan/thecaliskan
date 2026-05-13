@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [php/pie](https://github.com/php/pie) ([1.4.3](https://github.com/php/pie/releases/tag/1.4.3), today) - 🥧 The PHP Installer for Extensions
-- [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.2.1](https://github.com/spatie/laravel-backup-server/releases/tag/4.2.1), 1 day ago) - Backup multiple servers
-- [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) ([3.2.0](https://github.com/spatie/typescript-transformer/releases/tag/3.2.0), 4 days ago) - Transform PHP types to TypeScript
-- [php/php-src](https://github.com/php/php-src) ([php-8.5.6](https://github.com/php/php-src/releases/tag/php-8.5.6), 5 days ago) - The PHP Interpreter
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.0.0-rc.2](https://github.com/spatie/flare-client-php/releases/tag/3.0.0-rc.2), 5 days ago) - Send PHP errors to Flare
+- [php/pie](https://github.com/php/pie) ([1.4.3](https://github.com/php/pie/releases/tag/1.4.3), 1 day ago) - 🥧 The PHP Installer for Extensions
+- [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.2.1](https://github.com/spatie/laravel-backup-server/releases/tag/4.2.1), 2 days ago) - Backup multiple servers
+- [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) ([3.2.0](https://github.com/spatie/typescript-transformer/releases/tag/3.2.0), 5 days ago) - Transform PHP types to TypeScript
+- [php/php-src](https://github.com/php/php-src) ([php-8.5.6](https://github.com/php/php-src/releases/tag/php-8.5.6), 6 days ago) - The PHP Interpreter
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.0.0-rc.2](https://github.com/spatie/flare-client-php/releases/tag/3.0.0-rc.2), 6 days ago) - Send PHP errors to Flare
 
 #### 👷 Check out what I'm currently working on
 
