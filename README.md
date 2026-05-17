@@ -19,8 +19,8 @@
 
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (3 weeks ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (2 months ago)
-- [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (3 months ago)
 - [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (3 months ago)
+- [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (3 months ago)
 - [spatie/ping](https://github.com/spatie/ping) - Run an ICMP ping and get structured results (3 months ago)
 
 #### 🌱 My latest projects
