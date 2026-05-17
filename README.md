@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([1.11.1](https://github.com/spatie/flare-client-php/releases/tag/1.11.1), 1 day ago) - Send PHP errors to Flare
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.1](https://github.com/swoole/swoole-src/releases/tag/v6.2.1), 1 day ago) - 🚀 Coroutine-based concurrency library for PHP
-- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.39.3](https://github.com/spatie/laravel-health/releases/tag/1.39.3), 3 days ago) - Check the health of your Laravel app
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA2), 3 days ago) - The Symfony PHP framework
-- [php/pie](https://github.com/php/pie) ([1.4.4](https://github.com/php/pie/releases/tag/1.4.4), 3 days ago) - 🥧 The PHP Installer for Extensions
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([1.11.1](https://github.com/spatie/flare-client-php/releases/tag/1.11.1), 2 days ago) - Send PHP errors to Flare
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.1](https://github.com/swoole/swoole-src/releases/tag/v6.2.1), 2 days ago) - 🚀 Coroutine-based concurrency library for PHP
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.39.3](https://github.com/spatie/laravel-health/releases/tag/1.39.3), 4 days ago) - Check the health of your Laravel app
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA2), 4 days ago) - The Symfony PHP framework
+- [php/pie](https://github.com/php/pie) ([1.4.4](https://github.com/php/pie/releases/tag/1.4.4), 4 days ago) - 🥧 The PHP Installer for Extensions
 
 #### 👷 Check out what I'm currently working on
 
