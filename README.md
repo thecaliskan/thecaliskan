@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/crawler](https://github.com/spatie/crawler) ([9.3.1](https://github.com/spatie/crawler/releases/tag/9.3.1), today) - https://spatie.be/docs/crawler
 - [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([1.11.1](https://github.com/spatie/flare-client-php/releases/tag/1.11.1), 3 days ago) - Send PHP errors to Flare
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.1](https://github.com/swoole/swoole-src/releases/tag/v6.2.1), 3 days ago) - 🚀 Coroutine-based concurrency library for PHP
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.39.3](https://github.com/spatie/laravel-health/releases/tag/1.39.3), 5 days ago) - Check the health of your Laravel app
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA2), 5 days ago) - The Symfony PHP framework
-- [php/pie](https://github.com/php/pie) ([1.4.4](https://github.com/php/pie/releases/tag/1.4.4), 5 days ago) - 🥧 The PHP Installer for Extensions
 
 #### 👷 Check out what I'm currently working on
 
