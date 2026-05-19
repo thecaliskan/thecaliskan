@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.47.0](https://github.com/laravel/horizon/releases/tag/v5.47.0), today) - Dashboard and code-driven configuration for Laravel queues.
 - [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.0.0-rc.3](https://github.com/spatie/laravel-flare/releases/tag/3.0.0-rc.3), today) - Send Laravel errors to Flare
 - [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.0.0-rc.3](https://github.com/spatie/flare-client-php/releases/tag/3.0.0-rc.3), today) - Send PHP errors to Flare
 - [spatie/holidays](https://github.com/spatie/holidays) ([2.1.0](https://github.com/spatie/holidays/releases/tag/2.1.0), today) - Calculate which days you don&#39;t have to work!
 - [spatie/crawler](https://github.com/spatie/crawler) ([9.3.1](https://github.com/spatie/crawler/releases/tag/9.3.1), 1 day ago) - https://spatie.be/docs/crawler
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.1](https://github.com/swoole/swoole-src/releases/tag/v6.2.1), 4 days ago) - 🚀 Coroutine-based concurrency library for PHP
 
 #### 👷 Check out what I'm currently working on
 
