@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.0.0-rc.3](https://github.com/spatie/laravel-flare/releases/tag/3.0.0-rc.3), today) - Send Laravel errors to Flare
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.0.0-rc.3](https://github.com/spatie/flare-client-php/releases/tag/3.0.0-rc.3), today) - Send PHP errors to Flare
+- [spatie/holidays](https://github.com/spatie/holidays) ([2.1.0](https://github.com/spatie/holidays/releases/tag/2.1.0), today) - Calculate which days you don&#39;t have to work!
 - [spatie/crawler](https://github.com/spatie/crawler) ([9.3.1](https://github.com/spatie/crawler/releases/tag/9.3.1), 1 day ago) - https://spatie.be/docs/crawler
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([1.11.1](https://github.com/spatie/flare-client-php/releases/tag/1.11.1), 4 days ago) - Send PHP errors to Flare
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.1](https://github.com/swoole/swoole-src/releases/tag/v6.2.1), 4 days ago) - 🚀 Coroutine-based concurrency library for PHP
-- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.39.3](https://github.com/spatie/laravel-health/releases/tag/1.39.3), 6 days ago) - Check the health of your Laravel app
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA2), 6 days ago) - The Symfony PHP framework
 
 #### 👷 Check out what I'm currently working on
 
