@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.52](https://github.com/symfony/symfony/releases/tag/v5.4.52), today) - The Symfony PHP framework
 - [laravel/horizon](https://github.com/laravel/horizon) ([v5.47.0](https://github.com/laravel/horizon/releases/tag/v5.47.0), 1 day ago) - Dashboard and code-driven configuration for Laravel queues.
 - [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.0.0-rc.3](https://github.com/spatie/laravel-flare/releases/tag/3.0.0-rc.3), 1 day ago) - Send Laravel errors to Flare
 - [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.0.0-rc.3](https://github.com/spatie/flare-client-php/releases/tag/3.0.0-rc.3), 1 day ago) - Send PHP errors to Flare
 - [spatie/holidays](https://github.com/spatie/holidays) ([2.1.0](https://github.com/spatie/holidays/releases/tag/2.1.0), 1 day ago) - Calculate which days you don&#39;t have to work!
-- [spatie/crawler](https://github.com/spatie/crawler) ([9.3.1](https://github.com/spatie/crawler/releases/tag/9.3.1), 2 days ago) - https://spatie.be/docs/crawler
 
 #### 👷 Check out what I'm currently working on
 
