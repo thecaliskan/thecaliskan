@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.0-BETA3](https://github.com/symfony/http-foundation/releases/tag/v8.1.0-BETA3), today) - Defines an object-oriented layer for the HTTP specification
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA3](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA3), today) - The Symfony PHP framework
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.47.0](https://github.com/laravel/horizon/releases/tag/v5.47.0), 1 day ago) - Dashboard and code-driven configuration for Laravel queues.
-- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.0.0-rc.3](https://github.com/spatie/laravel-flare/releases/tag/3.0.0-rc.3), 1 day ago) - Send Laravel errors to Flare
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.0.0-rc.3](https://github.com/spatie/flare-client-php/releases/tag/3.0.0-rc.3), 1 day ago) - Send PHP errors to Flare
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.0-BETA3](https://github.com/symfony/http-foundation/releases/tag/v8.1.0-BETA3), 1 day ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA3](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA3), 1 day ago) - The Symfony PHP framework
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.47.0](https://github.com/laravel/horizon/releases/tag/v5.47.0), 2 days ago) - Dashboard and code-driven configuration for Laravel queues.
+- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.0.0-rc.3](https://github.com/spatie/laravel-flare/releases/tag/3.0.0-rc.3), 2 days ago) - Send Laravel errors to Flare
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.0.0-rc.3](https://github.com/spatie/flare-client-php/releases/tag/3.0.0-rc.3), 2 days ago) - Send PHP errors to Flare
 
 #### 👷 Check out what I'm currently working on
 
