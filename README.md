@@ -9,10 +9,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.0.1](https://github.com/spatie/flare-client-php/releases/tag/3.0.1), today) - Send PHP errors to Flare
 - [spatie/ping](https://github.com/spatie/ping) ([1.2.2](https://github.com/spatie/ping/releases/tag/1.2.2), 2 days ago) - Run an ICMP ping and get structured results
 - [spatie/dns](https://github.com/spatie/dns) ([2.8.0](https://github.com/spatie/dns/releases/tag/2.8.0), 2 days ago) - Retrieve DNS records
 - [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.0.0](https://github.com/spatie/laravel-flare/releases/tag/3.0.0), 3 days ago) - Send Laravel errors to Flare
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.0.0](https://github.com/spatie/flare-client-php/releases/tag/3.0.0), 3 days ago) - Send PHP errors to Flare
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v8.1.0-BETA3](https://github.com/symfony/http-foundation/releases/tag/v8.1.0-BETA3), 4 days ago) - Defines an object-oriented layer for the HTTP specification
 
 #### 👷 Check out what I'm currently working on
