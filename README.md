@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/holidays](https://github.com/spatie/holidays) ([2.2.0](https://github.com/spatie/holidays/releases/tag/2.2.0), today) - Calculate which days you don&#39;t have to work!
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.0.1](https://github.com/spatie/flare-client-php/releases/tag/3.0.1), today) - Send PHP errors to Flare
-- [spatie/ping](https://github.com/spatie/ping) ([1.2.2](https://github.com/spatie/ping/releases/tag/1.2.2), 2 days ago) - Run an ICMP ping and get structured results
-- [spatie/dns](https://github.com/spatie/dns) ([2.8.0](https://github.com/spatie/dns/releases/tag/2.8.0), 2 days ago) - Retrieve DNS records
-- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.0.0](https://github.com/spatie/laravel-flare/releases/tag/3.0.0), 3 days ago) - Send Laravel errors to Flare
+- [spatie/holidays](https://github.com/spatie/holidays) ([2.2.0](https://github.com/spatie/holidays/releases/tag/2.2.0), 1 day ago) - Calculate which days you don&#39;t have to work!
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.0.1](https://github.com/spatie/flare-client-php/releases/tag/3.0.1), 1 day ago) - Send PHP errors to Flare
+- [spatie/ping](https://github.com/spatie/ping) ([1.2.2](https://github.com/spatie/ping/releases/tag/1.2.2), 3 days ago) - Run an ICMP ping and get structured results
+- [spatie/dns](https://github.com/spatie/dns) ([2.8.0](https://github.com/spatie/dns/releases/tag/2.8.0), 3 days ago) - Retrieve DNS records
+- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.0.0](https://github.com/spatie/laravel-flare/releases/tag/3.0.0), 4 days ago) - Send Laravel errors to Flare
 
 #### 👷 Check out what I'm currently working on
 
