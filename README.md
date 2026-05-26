@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/pie](https://github.com/php/pie) ([1.4.5](https://github.com/php/pie/releases/tag/1.4.5), today) - 🥧 The PHP Installer for Extensions
+- [spatie/browsershot](https://github.com/spatie/browsershot) ([5.4.0](https://github.com/spatie/browsershot/releases/tag/5.4.0), today) - Convert HTML to an image, PDF or string
 - [spatie/holidays](https://github.com/spatie/holidays) ([2.2.0](https://github.com/spatie/holidays/releases/tag/2.2.0), 2 days ago) - Calculate which days you don&#39;t have to work!
 - [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.0.1](https://github.com/spatie/flare-client-php/releases/tag/3.0.1), 2 days ago) - Send PHP errors to Flare
 - [spatie/ping](https://github.com/spatie/ping) ([1.2.2](https://github.com/spatie/ping/releases/tag/1.2.2), 4 days ago) - Run an ICMP ping and get structured results
-- [spatie/dns](https://github.com/spatie/dns) ([2.8.0](https://github.com/spatie/dns/releases/tag/2.8.0), 4 days ago) - Retrieve DNS records
-- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.0.0](https://github.com/spatie/laravel-flare/releases/tag/3.0.0), 5 days ago) - Send Laravel errors to Flare
 
 #### 👷 Check out what I'm currently working on
 
@@ -33,11 +33,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [scabarcas17](https://github.com/scabarcas17)
 - [klc](https://github.com/klc)
 - [eislambey](https://github.com/eislambey)
 - [rodrigogalura](https://github.com/rodrigogalura)
 - [Neustradamus](https://github.com/Neustradamus)
+- [devback-nexance](https://github.com/devback-nexance)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/thecaliskan) (thank you!)
 
