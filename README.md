@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.0.1](https://github.com/spatie/laravel-flare/releases/tag/3.0.1), today) - Send Laravel errors to Flare
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.47.1](https://github.com/laravel/horizon/releases/tag/v5.47.1), today) - Dashboard and code-driven configuration for Laravel queues.
-- [php/pie](https://github.com/php/pie) ([1.4.5](https://github.com/php/pie/releases/tag/1.4.5), 1 day ago) - 🥧 The PHP Installer for Extensions
-- [spatie/browsershot](https://github.com/spatie/browsershot) ([5.4.0](https://github.com/spatie/browsershot/releases/tag/5.4.0), 1 day ago) - Convert HTML to an image, PDF or string
-- [spatie/holidays](https://github.com/spatie/holidays) ([2.2.0](https://github.com/spatie/holidays/releases/tag/2.2.0), 3 days ago) - Calculate which days you don&#39;t have to work!
+- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.0.1](https://github.com/spatie/laravel-flare/releases/tag/3.0.1), 1 day ago) - Send Laravel errors to Flare
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.47.1](https://github.com/laravel/horizon/releases/tag/v5.47.1), 1 day ago) - Dashboard and code-driven configuration for Laravel queues.
+- [php/pie](https://github.com/php/pie) ([1.4.5](https://github.com/php/pie/releases/tag/1.4.5), 2 days ago) - 🥧 The PHP Installer for Extensions
+- [spatie/browsershot](https://github.com/spatie/browsershot) ([5.4.0](https://github.com/spatie/browsershot/releases/tag/5.4.0), 2 days ago) - Convert HTML to an image, PDF or string
+- [spatie/holidays](https://github.com/spatie/holidays) ([2.2.0](https://github.com/spatie/holidays/releases/tag/2.2.0), 4 days ago) - Calculate which days you don&#39;t have to work!
 
 #### 👷 Check out what I'm currently working on
 
