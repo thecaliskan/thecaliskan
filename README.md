@@ -9,19 +9,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.1.0](https://github.com/spatie/flare-client-php/releases/tag/3.1.0), today) - Send PHP errors to Flare
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.0](https://github.com/spatie/laravel-health/releases/tag/1.40.0), today) - Check the health of your Laravel app
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.0](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.0), today) - Associate files with Eloquent models
 - [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.0.1](https://github.com/spatie/laravel-flare/releases/tag/3.0.1), 1 day ago) - Send Laravel errors to Flare
 - [laravel/horizon](https://github.com/laravel/horizon) ([v5.47.1](https://github.com/laravel/horizon/releases/tag/v5.47.1), 1 day ago) - Dashboard and code-driven configuration for Laravel queues.
-- [php/pie](https://github.com/php/pie) ([1.4.5](https://github.com/php/pie/releases/tag/1.4.5), 2 days ago) - 🥧 The PHP Installer for Extensions
-- [spatie/browsershot](https://github.com/spatie/browsershot) ([5.4.0](https://github.com/spatie/browsershot/releases/tag/5.4.0), 2 days ago) - Convert HTML to an image, PDF or string
 
 #### 👷 Check out what I'm currently working on
 
+- [prasanthc41m/ping-extension](https://github.com/prasanthc41m/ping-extension) - A GNOME Shell extension that pings. (2 weeks ago)
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (1 month ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (2 months ago)
-- [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (3 months ago)
 - [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (3 months ago)
-- [spatie/ping](https://github.com/spatie/ping) - Run an ICMP ping and get structured results (3 months ago)
+- [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (3 months ago)
 
 #### 🌱 My latest projects
 
