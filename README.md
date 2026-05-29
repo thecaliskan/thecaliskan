@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.1.0](https://github.com/spatie/flare-client-php/releases/tag/3.1.0), today) - Send PHP errors to Flare
-- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.0](https://github.com/spatie/laravel-health/releases/tag/1.40.0), today) - Check the health of your Laravel app
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.0](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.0), today) - Associate files with Eloquent models
-- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.0.1](https://github.com/spatie/laravel-flare/releases/tag/3.0.1), 1 day ago) - Send Laravel errors to Flare
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.47.1](https://github.com/laravel/horizon/releases/tag/v5.47.1), 1 day ago) - Dashboard and code-driven configuration for Laravel queues.
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.1.0](https://github.com/spatie/flare-client-php/releases/tag/3.1.0), 1 day ago) - Send PHP errors to Flare
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.0](https://github.com/spatie/laravel-health/releases/tag/1.40.0), 1 day ago) - Check the health of your Laravel app
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.0](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.0), 1 day ago) - Associate files with Eloquent models
+- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.0.1](https://github.com/spatie/laravel-flare/releases/tag/3.0.1), 2 days ago) - Send Laravel errors to Flare
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.47.1](https://github.com/laravel/horizon/releases/tag/v5.47.1), 2 days ago) - Dashboard and code-driven configuration for Laravel queues.
 
 #### 👷 Check out what I'm currently working on
 
