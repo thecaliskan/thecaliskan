@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/emoji](https://github.com/spatie/emoji) ([4.1.3](https://github.com/spatie/emoji/releases/tag/4.1.3), today) - Programatically work with emoji characters
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.1.0](https://github.com/spatie/flare-client-php/releases/tag/3.1.0), 2 days ago) - Send PHP errors to Flare
-- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.0](https://github.com/spatie/laravel-health/releases/tag/1.40.0), 2 days ago) - Check the health of your Laravel app
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.0](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.0), 2 days ago) - Associate files with Eloquent models
-- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.0.1](https://github.com/spatie/laravel-flare/releases/tag/3.0.1), 3 days ago) - Send Laravel errors to Flare
+- [spatie/emoji](https://github.com/spatie/emoji) ([4.1.3](https://github.com/spatie/emoji/releases/tag/4.1.3), 1 day ago) - Programatically work with emoji characters
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.1.0](https://github.com/spatie/flare-client-php/releases/tag/3.1.0), 3 days ago) - Send PHP errors to Flare
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.0](https://github.com/spatie/laravel-health/releases/tag/1.40.0), 3 days ago) - Check the health of your Laravel app
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.0](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.0), 3 days ago) - Associate files with Eloquent models
+- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.0.1](https://github.com/spatie/laravel-flare/releases/tag/3.0.1), 4 days ago) - Send Laravel errors to Flare
 
 #### 👷 Check out what I'm currently working on
 
