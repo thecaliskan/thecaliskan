@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.2.2](https://github.com/spatie/laravel-backup/releases/tag/10.2.2), 1 day ago) - A package to backup your Laravel app
-- [spatie/emoji](https://github.com/spatie/emoji) ([4.1.3](https://github.com/spatie/emoji/releases/tag/4.1.3), 3 days ago) - Programatically work with emoji characters
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.1.0](https://github.com/spatie/flare-client-php/releases/tag/3.1.0), 5 days ago) - Send PHP errors to Flare
-- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.0](https://github.com/spatie/laravel-health/releases/tag/1.40.0), 5 days ago) - Check the health of your Laravel app
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.0](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.0), 5 days ago) - Associate files with Eloquent models
+- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.2.2](https://github.com/spatie/laravel-backup/releases/tag/10.2.2), 2 days ago) - A package to backup your Laravel app
+- [spatie/emoji](https://github.com/spatie/emoji) ([4.1.3](https://github.com/spatie/emoji/releases/tag/4.1.3), 4 days ago) - Programatically work with emoji characters
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.1.0](https://github.com/spatie/flare-client-php/releases/tag/3.1.0), 6 days ago) - Send PHP errors to Flare
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.0](https://github.com/spatie/laravel-health/releases/tag/1.40.0), 6 days ago) - Check the health of your Laravel app
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.0](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.0), 6 days ago) - Associate files with Eloquent models
 
 #### 👷 Check out what I'm currently working on
 
-- [prasanthc41m/ping-extension](https://github.com/prasanthc41m/ping-extension) - A GNOME Shell extension that pings. (2 weeks ago)
+- [prasanthc41m/ping-extension](https://github.com/prasanthc41m/ping-extension) - A GNOME Shell extension that pings. (3 weeks ago)
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (1 month ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (2 months ago)
 - [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (3 months ago)
