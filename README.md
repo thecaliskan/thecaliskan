@@ -9,9 +9,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [php/php-src](https://github.com/php/php-src) ([php-8.4.22](https://github.com/php/php-src/releases/tag/php-8.4.22), 2 days ago) - The PHP Interpreter
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.47.2](https://github.com/laravel/horizon/releases/tag/v5.47.2), 3 days ago) - Dashboard and code-driven configuration for Laravel queues.
-- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.2.2](https://github.com/spatie/laravel-backup/releases/tag/10.2.2), 5 days ago) - A package to backup your Laravel app
+- [php/php-src](https://github.com/php/php-src) ([php-8.4.22](https://github.com/php/php-src/releases/tag/php-8.4.22), 3 days ago) - The PHP Interpreter
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.47.2](https://github.com/laravel/horizon/releases/tag/v5.47.2), 4 days ago) - Dashboard and code-driven configuration for Laravel queues.
+- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.2.2](https://github.com/spatie/laravel-backup/releases/tag/10.2.2), 6 days ago) - A package to backup your Laravel app
 - [spatie/emoji](https://github.com/spatie/emoji) ([4.1.3](https://github.com/spatie/emoji/releases/tag/4.1.3), 1 week ago) - Programatically work with emoji characters
 - [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.1.0](https://github.com/spatie/flare-client-php/releases/tag/3.1.0), 1 week ago) - Send PHP errors to Flare
 
