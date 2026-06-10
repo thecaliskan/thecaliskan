@@ -9,10 +9,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.3.0](https://github.com/spatie/laravel-backup/releases/tag/10.3.0), today) - A package to backup your Laravel app
 - [spatie/holidays](https://github.com/spatie/holidays) ([2.3.0](https://github.com/spatie/holidays/releases/tag/2.3.0), 2 days ago) - Calculate which days you don&#39;t have to work!
 - [php/php-src](https://github.com/php/php-src) ([php-8.4.22](https://github.com/php/php-src/releases/tag/php-8.4.22), 6 days ago) - The PHP Interpreter
 - [laravel/horizon](https://github.com/laravel/horizon) ([v5.47.2](https://github.com/laravel/horizon/releases/tag/v5.47.2), 1 week ago) - Dashboard and code-driven configuration for Laravel queues.
-- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.2.2](https://github.com/spatie/laravel-backup/releases/tag/10.2.2), 1 week ago) - A package to backup your Laravel app
 - [spatie/emoji](https://github.com/spatie/emoji) ([4.1.3](https://github.com/spatie/emoji/releases/tag/4.1.3), 1 week ago) - Programatically work with emoji characters
 
 #### 👷 Check out what I'm currently working on
