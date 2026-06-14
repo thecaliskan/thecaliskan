@@ -9,9 +9,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/crawler](https://github.com/spatie/crawler) ([9.3.2](https://github.com/spatie/crawler/releases/tag/9.3.2), 1 day ago) - https://spatie.be/docs/crawler
-- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.3.0](https://github.com/spatie/laravel-backup/releases/tag/10.3.0), 3 days ago) - A package to backup your Laravel app
-- [spatie/holidays](https://github.com/spatie/holidays) ([2.3.0](https://github.com/spatie/holidays/releases/tag/2.3.0), 5 days ago) - Calculate which days you don&#39;t have to work!
+- [spatie/crawler](https://github.com/spatie/crawler) ([9.3.2](https://github.com/spatie/crawler/releases/tag/9.3.2), 2 days ago) - https://spatie.be/docs/crawler
+- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.3.0](https://github.com/spatie/laravel-backup/releases/tag/10.3.0), 4 days ago) - A package to backup your Laravel app
+- [spatie/holidays](https://github.com/spatie/holidays) ([2.3.0](https://github.com/spatie/holidays/releases/tag/2.3.0), 6 days ago) - Calculate which days you don&#39;t have to work!
 - [php/php-src](https://github.com/php/php-src) ([php-8.4.22](https://github.com/php/php-src/releases/tag/php-8.4.22), 1 week ago) - The PHP Interpreter
 - [laravel/horizon](https://github.com/laravel/horizon) ([v5.47.2](https://github.com/laravel/horizon/releases/tag/v5.47.2), 1 week ago) - Dashboard and code-driven configuration for Laravel queues.
 
