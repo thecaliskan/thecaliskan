@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/dns](https://github.com/spatie/dns) ([2.8.1](https://github.com/spatie/dns/releases/tag/2.8.1), today) - Retrieve DNS records
 - [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.4.4](https://github.com/spatie/php-structure-discoverer/releases/tag/2.4.4), 1 day ago) - Automatically discover classes within your PHP application
 - [spatie/crawler](https://github.com/spatie/crawler) ([9.3.2](https://github.com/spatie/crawler/releases/tag/9.3.2), 4 days ago) - https://spatie.be/docs/crawler
 - [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.3.0](https://github.com/spatie/laravel-backup/releases/tag/10.3.0), 6 days ago) - A package to backup your Laravel app
 - [spatie/holidays](https://github.com/spatie/holidays) ([2.3.0](https://github.com/spatie/holidays/releases/tag/2.3.0), 1 week ago) - Calculate which days you don&#39;t have to work!
-- [php/php-src](https://github.com/php/php-src) ([php-8.4.22](https://github.com/php/php-src/releases/tag/php-8.4.22), 1 week ago) - The PHP Interpreter
 
 #### 👷 Check out what I'm currently working on
 
