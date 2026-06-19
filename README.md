@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) ([3.3.0](https://github.com/spatie/typescript-transformer/releases/tag/3.3.0), today) - Transform PHP types to TypeScript
 - [spatie/image](https://github.com/spatie/image) ([3.9.5](https://github.com/spatie/image/releases/tag/3.9.5), today) - https://spatie.be/docs/image/v3/introduction
 - [php/pie](https://github.com/php/pie) ([1.4.6](https://github.com/php/pie/releases/tag/1.4.6), 2 days ago) - 🥧 The PHP Installer for Extensions
 - [spatie/dns](https://github.com/spatie/dns) ([2.8.1](https://github.com/spatie/dns/releases/tag/2.8.1), 3 days ago) - Retrieve DNS records
 - [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.4.4](https://github.com/spatie/php-structure-discoverer/releases/tag/2.4.4), 4 days ago) - Automatically discover classes within your PHP application
-- [spatie/crawler](https://github.com/spatie/crawler) ([9.3.2](https://github.com/spatie/crawler/releases/tag/9.3.2), 1 week ago) - https://spatie.be/docs/crawler
 
 #### 👷 Check out what I'm currently working on
 
