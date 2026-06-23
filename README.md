@@ -9,16 +9,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) ([3.3.0](https://github.com/spatie/typescript-transformer/releases/tag/3.3.0), 3 days ago) - Transform PHP types to TypeScript
-- [spatie/image](https://github.com/spatie/image) ([3.9.5](https://github.com/spatie/image/releases/tag/3.9.5), 3 days ago) - https://spatie.be/docs/image/v3/introduction
-- [php/pie](https://github.com/php/pie) ([1.4.6](https://github.com/php/pie/releases/tag/1.4.6), 5 days ago) - 🥧 The PHP Installer for Extensions
-- [spatie/dns](https://github.com/spatie/dns) ([2.8.1](https://github.com/spatie/dns/releases/tag/2.8.1), 6 days ago) - Retrieve DNS records
+- [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) ([3.3.0](https://github.com/spatie/typescript-transformer/releases/tag/3.3.0), 4 days ago) - Transform PHP types to TypeScript
+- [spatie/image](https://github.com/spatie/image) ([3.9.5](https://github.com/spatie/image/releases/tag/3.9.5), 4 days ago) - https://spatie.be/docs/image/v3/introduction
+- [php/pie](https://github.com/php/pie) ([1.4.6](https://github.com/php/pie/releases/tag/1.4.6), 6 days ago) - 🥧 The PHP Installer for Extensions
+- [spatie/dns](https://github.com/spatie/dns) ([2.8.1](https://github.com/spatie/dns/releases/tag/2.8.1), 1 week ago) - Retrieve DNS records
 - [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.4.4](https://github.com/spatie/php-structure-discoverer/releases/tag/2.4.4), 1 week ago) - Automatically discover classes within your PHP application
 
 #### 👷 Check out what I'm currently working on
 
 - [prasanthc41m/ping-extension](https://github.com/prasanthc41m/ping-extension) - A GNOME Shell extension that pings. (1 month ago)
-- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (1 month ago)
+- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (2 months ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (3 months ago)
 - [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (4 months ago)
 - [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (4 months ago)
