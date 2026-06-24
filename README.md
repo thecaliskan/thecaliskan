@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) ([8.2.0](https://github.com/spatie/laravel-sitemap/releases/tag/8.2.0), today) - Create and generate sitemaps with ease
+- [curl/curl](https://github.com/curl/curl) ([curl-8_21_0](https://github.com/curl/curl/releases/tag/curl-8_21_0), today) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) ([3.3.0](https://github.com/spatie/typescript-transformer/releases/tag/3.3.0), 5 days ago) - Transform PHP types to TypeScript
 - [spatie/image](https://github.com/spatie/image) ([3.9.5](https://github.com/spatie/image/releases/tag/3.9.5), 5 days ago) - https://spatie.be/docs/image/v3/introduction
 - [php/pie](https://github.com/php/pie) ([1.4.6](https://github.com/php/pie/releases/tag/1.4.6), 1 week ago) - 🥧 The PHP Installer for Extensions
-- [spatie/dns](https://github.com/spatie/dns) ([2.8.1](https://github.com/spatie/dns/releases/tag/2.8.1), 1 week ago) - Retrieve DNS records
-- [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.4.4](https://github.com/spatie/php-structure-discoverer/releases/tag/2.4.4), 1 week ago) - Automatically discover classes within your PHP application
 
 #### 👷 Check out what I'm currently working on
 
