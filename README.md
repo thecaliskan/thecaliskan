@@ -9,9 +9,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) ([3.3.0](https://github.com/spatie/typescript-transformer/releases/tag/3.3.0), 4 days ago) - Transform PHP types to TypeScript
-- [spatie/image](https://github.com/spatie/image) ([3.9.5](https://github.com/spatie/image/releases/tag/3.9.5), 4 days ago) - https://spatie.be/docs/image/v3/introduction
-- [php/pie](https://github.com/php/pie) ([1.4.6](https://github.com/php/pie/releases/tag/1.4.6), 6 days ago) - 🥧 The PHP Installer for Extensions
+- [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) ([3.3.0](https://github.com/spatie/typescript-transformer/releases/tag/3.3.0), 5 days ago) - Transform PHP types to TypeScript
+- [spatie/image](https://github.com/spatie/image) ([3.9.5](https://github.com/spatie/image/releases/tag/3.9.5), 5 days ago) - https://spatie.be/docs/image/v3/introduction
+- [php/pie](https://github.com/php/pie) ([1.4.6](https://github.com/php/pie/releases/tag/1.4.6), 1 week ago) - 🥧 The PHP Installer for Extensions
 - [spatie/dns](https://github.com/spatie/dns) ([2.8.1](https://github.com/spatie/dns/releases/tag/2.8.1), 1 week ago) - Retrieve DNS records
 - [spatie/php-structure-discoverer](https://github.com/spatie/php-structure-discoverer) ([2.4.4](https://github.com/spatie/php-structure-discoverer/releases/tag/2.4.4), 1 week ago) - Automatically discover classes within your PHP application
 
