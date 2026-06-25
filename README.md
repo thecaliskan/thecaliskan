@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.1](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.1), today) - Associate files with Eloquent models
-- [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) ([8.2.0](https://github.com/spatie/laravel-sitemap/releases/tag/8.2.0), today) - Create and generate sitemaps with ease
-- [curl/curl](https://github.com/curl/curl) ([curl-8_21_0](https://github.com/curl/curl/releases/tag/curl-8_21_0), today) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
-- [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) ([3.3.0](https://github.com/spatie/typescript-transformer/releases/tag/3.3.0), 5 days ago) - Transform PHP types to TypeScript
-- [spatie/image](https://github.com/spatie/image) ([3.9.5](https://github.com/spatie/image/releases/tag/3.9.5), 5 days ago) - https://spatie.be/docs/image/v3/introduction
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.1](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.1), 1 day ago) - Associate files with Eloquent models
+- [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) ([8.2.0](https://github.com/spatie/laravel-sitemap/releases/tag/8.2.0), 1 day ago) - Create and generate sitemaps with ease
+- [curl/curl](https://github.com/curl/curl) ([curl-8_21_0](https://github.com/curl/curl/releases/tag/curl-8_21_0), 1 day ago) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
+- [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) ([3.3.0](https://github.com/spatie/typescript-transformer/releases/tag/3.3.0), 6 days ago) - Transform PHP types to TypeScript
+- [spatie/image](https://github.com/spatie/image) ([3.9.5](https://github.com/spatie/image/releases/tag/3.9.5), 6 days ago) - https://spatie.be/docs/image/v3/introduction
 
 #### 👷 Check out what I'm currently working on
 
