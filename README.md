@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/image-optimizer](https://github.com/spatie/image-optimizer) ([1.9.0](https://github.com/spatie/image-optimizer/releases/tag/1.9.0), today) - Easily optimize images using PHP
-- [php/pie](https://github.com/php/pie) ([1.4.7](https://github.com/php/pie/releases/tag/1.4.7), today) - 🥧 The PHP Installer for Extensions
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.1](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.1), 1 day ago) - Associate files with Eloquent models
-- [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) ([8.2.0](https://github.com/spatie/laravel-sitemap/releases/tag/8.2.0), 1 day ago) - Create and generate sitemaps with ease
-- [curl/curl](https://github.com/curl/curl) ([curl-8_21_0](https://github.com/curl/curl/releases/tag/curl-8_21_0), 1 day ago) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
+- [spatie/image-optimizer](https://github.com/spatie/image-optimizer) ([1.9.0](https://github.com/spatie/image-optimizer/releases/tag/1.9.0), 1 day ago) - Easily optimize images using PHP
+- [php/pie](https://github.com/php/pie) ([1.4.7](https://github.com/php/pie/releases/tag/1.4.7), 1 day ago) - 🥧 The PHP Installer for Extensions
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.1](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.1), 2 days ago) - Associate files with Eloquent models
+- [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) ([8.2.0](https://github.com/spatie/laravel-sitemap/releases/tag/8.2.0), 2 days ago) - Create and generate sitemaps with ease
+- [curl/curl](https://github.com/curl/curl) ([curl-8_21_0](https://github.com/curl/curl/releases/tag/curl-8_21_0), 2 days ago) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 
 #### 👷 Check out what I'm currently working on
 
