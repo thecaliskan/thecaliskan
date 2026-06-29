@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/image-optimizer](https://github.com/spatie/image-optimizer) ([1.9.0](https://github.com/spatie/image-optimizer/releases/tag/1.9.0), 4 days ago) - Easily optimize images using PHP
+- [spatie/image-optimizer](https://github.com/spatie/image-optimizer) ([1.10.0](https://github.com/spatie/image-optimizer/releases/tag/1.10.0), today) - Easily optimize images using PHP
 - [php/pie](https://github.com/php/pie) ([1.4.7](https://github.com/php/pie/releases/tag/1.4.7), 4 days ago) - 🥧 The PHP Installer for Extensions
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.1](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.1), 5 days ago) - Associate files with Eloquent models
 - [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) ([8.2.0](https://github.com/spatie/laravel-sitemap/releases/tag/8.2.0), 5 days ago) - Create and generate sitemaps with ease
