@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.1.0](https://github.com/spatie/laravel-flare/releases/tag/3.1.0), 1 day ago) - Send Laravel errors to Flare
+- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.1.1](https://github.com/spatie/laravel-flare/releases/tag/3.1.1), today) - Send Laravel errors to Flare
 - [spatie/image-optimizer](https://github.com/spatie/image-optimizer) ([1.10.0](https://github.com/spatie/image-optimizer/releases/tag/1.10.0), 2 days ago) - Easily optimize images using PHP
 - [php/pie](https://github.com/php/pie) ([1.4.7](https://github.com/php/pie/releases/tag/1.4.7), 6 days ago) - 🥧 The PHP Installer for Extensions
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.1](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.1), 1 week ago) - Associate files with Eloquent models
