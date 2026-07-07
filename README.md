@@ -9,10 +9,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [php/pie](https://github.com/php/pie) ([1.4.8](https://github.com/php/pie/releases/tag/1.4.8), today) - 🥧 The PHP Installer for Extensions
-- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.2.1](https://github.com/spatie/laravel-flare/releases/tag/3.2.1), 3 days ago) - Send Laravel errors to Flare
-- [php/php-src](https://github.com/php/php-src) ([php-8.3.32](https://github.com/php/php-src/releases/tag/php-8.3.32), 3 days ago) - The PHP Interpreter
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.2.1](https://github.com/spatie/flare-client-php/releases/tag/3.2.1), 3 days ago) - Send PHP errors to Flare
+- [php/pie](https://github.com/php/pie) ([1.4.8](https://github.com/php/pie/releases/tag/1.4.8), 1 day ago) - 🥧 The PHP Installer for Extensions
+- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.2.1](https://github.com/spatie/laravel-flare/releases/tag/3.2.1), 4 days ago) - Send Laravel errors to Flare
+- [php/php-src](https://github.com/php/php-src) ([php-8.3.32](https://github.com/php/php-src/releases/tag/php-8.3.32), 4 days ago) - The PHP Interpreter
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.2.1](https://github.com/spatie/flare-client-php/releases/tag/3.2.1), 4 days ago) - Send PHP errors to Flare
 - [spatie/image-optimizer](https://github.com/spatie/image-optimizer) ([1.10.0](https://github.com/spatie/image-optimizer/releases/tag/1.10.0), 1 week ago) - Easily optimize images using PHP
 
 #### 👷 Check out what I'm currently working on
