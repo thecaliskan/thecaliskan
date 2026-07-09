@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.2](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.2), today) - Associate files with Eloquent models
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.2](https://github.com/swoole/swoole-src/releases/tag/v6.2.2), 1 day ago) - 🚀 Coroutine-based concurrency library for PHP
 - [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.2.1](https://github.com/spatie/laravel-flare/releases/tag/3.2.1), 6 days ago) - Send Laravel errors to Flare
 - [php/php-src](https://github.com/php/php-src) ([php-8.3.32](https://github.com/php/php-src/releases/tag/php-8.3.32), 6 days ago) - The PHP Interpreter
 - [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.2.1](https://github.com/spatie/flare-client-php/releases/tag/3.2.1), 6 days ago) - Send PHP errors to Flare
-- [spatie/image-optimizer](https://github.com/spatie/image-optimizer) ([1.10.0](https://github.com/spatie/image-optimizer/releases/tag/1.10.0), 1 week ago) - Easily optimize images using PHP
 
 #### 👷 Check out what I'm currently working on
 
