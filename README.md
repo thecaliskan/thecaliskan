@@ -9,10 +9,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.2](https://github.com/swoole/swoole-src/releases/tag/v6.2.2), today) - 🚀 Coroutine-based concurrency library for PHP
-- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.2.1](https://github.com/spatie/laravel-flare/releases/tag/3.2.1), 5 days ago) - Send Laravel errors to Flare
-- [php/php-src](https://github.com/php/php-src) ([php-8.3.32](https://github.com/php/php-src/releases/tag/php-8.3.32), 5 days ago) - The PHP Interpreter
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.2.1](https://github.com/spatie/flare-client-php/releases/tag/3.2.1), 5 days ago) - Send PHP errors to Flare
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.2](https://github.com/swoole/swoole-src/releases/tag/v6.2.2), 1 day ago) - 🚀 Coroutine-based concurrency library for PHP
+- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.2.1](https://github.com/spatie/laravel-flare/releases/tag/3.2.1), 6 days ago) - Send Laravel errors to Flare
+- [php/php-src](https://github.com/php/php-src) ([php-8.3.32](https://github.com/php/php-src/releases/tag/php-8.3.32), 6 days ago) - The PHP Interpreter
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.2.1](https://github.com/spatie/flare-client-php/releases/tag/3.2.1), 6 days ago) - Send PHP errors to Flare
 - [spatie/image-optimizer](https://github.com/spatie/image-optimizer) ([1.10.0](https://github.com/spatie/image-optimizer/releases/tag/1.10.0), 1 week ago) - Easily optimize images using PHP
 
 #### 👷 Check out what I'm currently working on
@@ -20,8 +20,8 @@
 - [prasanthc41m/ping-extension](https://github.com/prasanthc41m/ping-extension) - A GNOME Shell extension that pings. (1 month ago)
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (2 months ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (4 months ago)
-- [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (4 months ago)
-- [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (4 months ago)
+- [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (5 months ago)
+- [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (5 months ago)
 
 #### 🌱 My latest projects
 
