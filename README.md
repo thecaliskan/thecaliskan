@@ -20,8 +20,8 @@
 - [prasanthc41m/ping-extension](https://github.com/prasanthc41m/ping-extension) - A GNOME Shell extension that pings. (2 months ago)
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (2 months ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (4 months ago)
-- [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (5 months ago)
 - [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (5 months ago)
+- [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (5 months ago)
 
 #### 🌱 My latest projects
 
