@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.2](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.2), 2 days ago) - Associate files with Eloquent models
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.2](https://github.com/swoole/swoole-src/releases/tag/v6.2.2), 3 days ago) - 🚀 Coroutine-based concurrency library for PHP
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.2](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.2), 3 days ago) - Associate files with Eloquent models
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.2](https://github.com/swoole/swoole-src/releases/tag/v6.2.2), 4 days ago) - 🚀 Coroutine-based concurrency library for PHP
 - [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.2.1](https://github.com/spatie/laravel-flare/releases/tag/3.2.1), 1 week ago) - Send Laravel errors to Flare
 - [php/php-src](https://github.com/php/php-src) ([php-8.3.32](https://github.com/php/php-src/releases/tag/php-8.3.32), 1 week ago) - The PHP Interpreter
 - [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.2.1](https://github.com/spatie/flare-client-php/releases/tag/3.2.1), 1 week ago) - Send PHP errors to Flare
 
 #### 👷 Check out what I'm currently working on
 
-- [prasanthc41m/ping-extension](https://github.com/prasanthc41m/ping-extension) - A GNOME Shell extension that pings. (1 month ago)
+- [prasanthc41m/ping-extension](https://github.com/prasanthc41m/ping-extension) - A GNOME Shell extension that pings. (2 months ago)
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (2 months ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (4 months ago)
 - [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (5 months ago)
