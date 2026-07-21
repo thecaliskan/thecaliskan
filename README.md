@@ -9,10 +9,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/crawler](https://github.com/spatie/crawler) ([9.4.0](https://github.com/spatie/crawler/releases/tag/9.4.0), today) - https://spatie.be/docs/crawler
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.48.1](https://github.com/laravel/horizon/releases/tag/v5.48.1), today) - Dashboard and code-driven configuration for Laravel queues.
-- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.3.0](https://github.com/spatie/laravel-flare/releases/tag/3.3.0), 5 days ago) - Send Laravel errors to Flare
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.3.0](https://github.com/spatie/flare-client-php/releases/tag/3.3.0), 5 days ago) - Send PHP errors to Flare
+- [spatie/crawler](https://github.com/spatie/crawler) ([9.4.0](https://github.com/spatie/crawler/releases/tag/9.4.0), 1 day ago) - https://spatie.be/docs/crawler
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.48.1](https://github.com/laravel/horizon/releases/tag/v5.48.1), 1 day ago) - Dashboard and code-driven configuration for Laravel queues.
+- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.3.0](https://github.com/spatie/laravel-flare/releases/tag/3.3.0), 6 days ago) - Send Laravel errors to Flare
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.3.0](https://github.com/spatie/flare-client-php/releases/tag/3.3.0), 6 days ago) - Send PHP errors to Flare
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.2](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.2), 1 week ago) - Associate files with Eloquent models
 
 #### 👷 Check out what I'm currently working on
