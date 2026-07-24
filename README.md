@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/ssh](https://github.com/spatie/ssh) ([1.13.2](https://github.com/spatie/ssh/releases/tag/1.13.2), today) - A lightweight package to execute commands over an SSH connection
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.3](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.3), 2 days ago) - Associate files with Eloquent models
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.1](https://github.com/spatie/laravel-health/releases/tag/1.40.1), 2 days ago) - Check the health of your Laravel app
 - [spatie/crawler](https://github.com/spatie/crawler) ([9.4.1](https://github.com/spatie/crawler/releases/tag/9.4.1), 2 days ago) - https://spatie.be/docs/crawler
 - [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.3.1](https://github.com/spatie/flare-client-php/releases/tag/3.3.1), 2 days ago) - Send PHP errors to Flare
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.48.1](https://github.com/laravel/horizon/releases/tag/v5.48.1), 4 days ago) - Dashboard and code-driven configuration for Laravel queues.
 
 #### 👷 Check out what I'm currently working on
 
