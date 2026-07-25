@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/symfony-ignition-bundle](https://github.com/spatie/symfony-ignition-bundle) ([1.3.1](https://github.com/spatie/symfony-ignition-bundle/releases/tag/1.3.1), today) - A beautiful error page for Symfony apps
 - [spatie/ssh](https://github.com/spatie/ssh) ([1.13.2](https://github.com/spatie/ssh/releases/tag/1.13.2), 1 day ago) - A lightweight package to execute commands over an SSH connection
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.3](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.3), 3 days ago) - Associate files with Eloquent models
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.1](https://github.com/spatie/laravel-health/releases/tag/1.40.1), 3 days ago) - Check the health of your Laravel app
 - [spatie/crawler](https://github.com/spatie/crawler) ([9.4.1](https://github.com/spatie/crawler/releases/tag/9.4.1), 3 days ago) - https://spatie.be/docs/crawler
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.3.1](https://github.com/spatie/flare-client-php/releases/tag/3.3.1), 3 days ago) - Send PHP errors to Flare
 
 #### 👷 Check out what I'm currently working on
 
