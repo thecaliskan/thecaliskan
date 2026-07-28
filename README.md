@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/holidays](https://github.com/spatie/holidays) ([2.4.0](https://github.com/spatie/holidays/releases/tag/2.4.0), today) - Calculate which days you don&#39;t have to work!
 - [spatie/symfony-ignition-bundle](https://github.com/spatie/symfony-ignition-bundle) ([1.3.1](https://github.com/spatie/symfony-ignition-bundle/releases/tag/1.3.1), 3 days ago) - A beautiful error page for Symfony apps
 - [spatie/ssh](https://github.com/spatie/ssh) ([1.13.2](https://github.com/spatie/ssh/releases/tag/1.13.2), 4 days ago) - A lightweight package to execute commands over an SSH connection
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.3](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.3), 6 days ago) - Associate files with Eloquent models
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.1](https://github.com/spatie/laravel-health/releases/tag/1.40.1), 6 days ago) - Check the health of your Laravel app
-- [spatie/crawler](https://github.com/spatie/crawler) ([9.4.1](https://github.com/spatie/crawler/releases/tag/9.4.1), 6 days ago) - https://spatie.be/docs/crawler
 
 #### 👷 Check out what I'm currently working on
 
