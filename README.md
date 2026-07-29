@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-server-monitor](https://github.com/spatie/laravel-server-monitor) ([1.10.3](https://github.com/spatie/laravel-server-monitor/releases/tag/1.10.3), today) - Don&#39;t let your servers just melt down
-- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.3.1](https://github.com/spatie/laravel-backup/releases/tag/10.3.1), today) - A package to backup your Laravel app
-- [spatie/holidays](https://github.com/spatie/holidays) ([2.4.0](https://github.com/spatie/holidays/releases/tag/2.4.0), today) - Calculate which days you don&#39;t have to work!
-- [spatie/symfony-ignition-bundle](https://github.com/spatie/symfony-ignition-bundle) ([1.3.1](https://github.com/spatie/symfony-ignition-bundle/releases/tag/1.3.1), 3 days ago) - A beautiful error page for Symfony apps
-- [spatie/ssh](https://github.com/spatie/ssh) ([1.13.2](https://github.com/spatie/ssh/releases/tag/1.13.2), 4 days ago) - A lightweight package to execute commands over an SSH connection
+- [spatie/laravel-server-monitor](https://github.com/spatie/laravel-server-monitor) ([1.10.3](https://github.com/spatie/laravel-server-monitor/releases/tag/1.10.3), 1 day ago) - Don&#39;t let your servers just melt down
+- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.3.1](https://github.com/spatie/laravel-backup/releases/tag/10.3.1), 1 day ago) - A package to backup your Laravel app
+- [spatie/holidays](https://github.com/spatie/holidays) ([2.4.0](https://github.com/spatie/holidays/releases/tag/2.4.0), 1 day ago) - Calculate which days you don&#39;t have to work!
+- [spatie/symfony-ignition-bundle](https://github.com/spatie/symfony-ignition-bundle) ([1.3.1](https://github.com/spatie/symfony-ignition-bundle/releases/tag/1.3.1), 4 days ago) - A beautiful error page for Symfony apps
+- [spatie/ssh](https://github.com/spatie/ssh) ([1.13.2](https://github.com/spatie/ssh/releases/tag/1.13.2), 5 days ago) - A lightweight package to execute commands over an SSH connection
 
 #### 👷 Check out what I'm currently working on
 
