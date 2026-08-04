@@ -9,9 +9,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-server-monitor](https://github.com/spatie/laravel-server-monitor) ([1.10.3](https://github.com/spatie/laravel-server-monitor/releases/tag/1.10.3), 6 days ago) - Don&#39;t let your servers just melt down
-- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.3.1](https://github.com/spatie/laravel-backup/releases/tag/10.3.1), 6 days ago) - A package to backup your Laravel app
-- [spatie/holidays](https://github.com/spatie/holidays) ([2.4.0](https://github.com/spatie/holidays/releases/tag/2.4.0), 6 days ago) - Calculate which days you don&#39;t have to work!
+- [spatie/laravel-server-monitor](https://github.com/spatie/laravel-server-monitor) ([1.10.3](https://github.com/spatie/laravel-server-monitor/releases/tag/1.10.3), 1 week ago) - Don&#39;t let your servers just melt down
+- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.3.1](https://github.com/spatie/laravel-backup/releases/tag/10.3.1), 1 week ago) - A package to backup your Laravel app
+- [spatie/holidays](https://github.com/spatie/holidays) ([2.4.0](https://github.com/spatie/holidays/releases/tag/2.4.0), 1 week ago) - Calculate which days you don&#39;t have to work!
 - [spatie/symfony-ignition-bundle](https://github.com/spatie/symfony-ignition-bundle) ([1.3.1](https://github.com/spatie/symfony-ignition-bundle/releases/tag/1.3.1), 1 week ago) - A beautiful error page for Symfony apps
 - [spatie/ssh](https://github.com/spatie/ssh) ([1.13.2](https://github.com/spatie/ssh/releases/tag/1.13.2), 1 week ago) - A lightweight package to execute commands over an SSH connection
 
