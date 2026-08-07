@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.48.2](https://github.com/laravel/horizon/releases/tag/v5.48.2), 2 days ago) - Dashboard and code-driven configuration for Laravel queues.
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.48.2](https://github.com/laravel/horizon/releases/tag/v5.48.2), 3 days ago) - Dashboard and code-driven configuration for Laravel queues.
 - [spatie/laravel-server-monitor](https://github.com/spatie/laravel-server-monitor) ([1.10.3](https://github.com/spatie/laravel-server-monitor/releases/tag/1.10.3), 1 week ago) - Don&#39;t let your servers just melt down
 - [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.3.1](https://github.com/spatie/laravel-backup/releases/tag/10.3.1), 1 week ago) - A package to backup your Laravel app
 - [spatie/holidays](https://github.com/spatie/holidays) ([2.4.0](https://github.com/spatie/holidays/releases/tag/2.4.0), 1 week ago) - Calculate which days you don&#39;t have to work!
@@ -19,7 +19,7 @@
 
 - [prasanthc41m/ping-extension](https://github.com/prasanthc41m/ping-extension) - A GNOME Shell extension that pings. (2 months ago)
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (3 months ago)
-- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (4 months ago)
+- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (5 months ago)
 - [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (5 months ago)
 - [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (5 months ago)
 
