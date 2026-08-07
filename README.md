@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/crawler](https://github.com/spatie/crawler) ([9.4.2](https://github.com/spatie/crawler/releases/tag/9.4.2), today) - https://spatie.be/docs/crawler
 - [laravel/horizon](https://github.com/laravel/horizon) ([v5.48.2](https://github.com/laravel/horizon/releases/tag/v5.48.2), 3 days ago) - Dashboard and code-driven configuration for Laravel queues.
 - [spatie/laravel-server-monitor](https://github.com/spatie/laravel-server-monitor) ([1.10.3](https://github.com/spatie/laravel-server-monitor/releases/tag/1.10.3), 1 week ago) - Don&#39;t let your servers just melt down
 - [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.3.1](https://github.com/spatie/laravel-backup/releases/tag/10.3.1), 1 week ago) - A package to backup your Laravel app
 - [spatie/holidays](https://github.com/spatie/holidays) ([2.4.0](https://github.com/spatie/holidays/releases/tag/2.4.0), 1 week ago) - Calculate which days you don&#39;t have to work!
-- [spatie/symfony-ignition-bundle](https://github.com/spatie/symfony-ignition-bundle) ([1.3.1](https://github.com/spatie/symfony-ignition-bundle/releases/tag/1.3.1), 1 week ago) - A beautiful error page for Symfony apps
 
 #### 👷 Check out what I'm currently working on
 
