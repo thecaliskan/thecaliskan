@@ -9,19 +9,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.3.0](https://github.com/spatie/laravel-backup-server/releases/tag/4.3.0), today) - Backup multiple servers
-- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.2](https://github.com/spatie/laravel-health/releases/tag/1.40.2), today) - Check the health of your Laravel app
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.4](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.4), today) - Associate files with Eloquent models
-- [spatie/global-ray](https://github.com/spatie/global-ray) ([1.2.5](https://github.com/spatie/global-ray/releases/tag/1.2.5), today) - Enable Ray in all PHP files on your system
-- [spatie/crawler](https://github.com/spatie/crawler) ([9.4.2](https://github.com/spatie/crawler/releases/tag/9.4.2), today) - https://spatie.be/docs/crawler
+- [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.3.0](https://github.com/spatie/laravel-backup-server/releases/tag/4.3.0), 1 day ago) - Backup multiple servers
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.2](https://github.com/spatie/laravel-health/releases/tag/1.40.2), 1 day ago) - Check the health of your Laravel app
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.4](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.4), 1 day ago) - Associate files with Eloquent models
+- [spatie/global-ray](https://github.com/spatie/global-ray) ([1.2.5](https://github.com/spatie/global-ray/releases/tag/1.2.5), 1 day ago) - Enable Ray in all PHP files on your system
+- [spatie/crawler](https://github.com/spatie/crawler) ([9.4.2](https://github.com/spatie/crawler/releases/tag/9.4.2), 1 day ago) - https://spatie.be/docs/crawler
 
 #### 👷 Check out what I'm currently working on
 
 - [prasanthc41m/ping-extension](https://github.com/prasanthc41m/ping-extension) - A GNOME Shell extension that pings. (2 months ago)
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (3 months ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (5 months ago)
-- [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (5 months ago)
-- [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (5 months ago)
+- [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (6 months ago)
+- [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (6 months ago)
 
 #### 🌱 My latest projects
 
