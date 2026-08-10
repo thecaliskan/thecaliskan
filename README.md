@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.3.0](https://github.com/spatie/laravel-backup-server/releases/tag/4.3.0), 2 days ago) - Backup multiple servers
-- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.2](https://github.com/spatie/laravel-health/releases/tag/1.40.2), 2 days ago) - Check the health of your Laravel app
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.4](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.4), 2 days ago) - Associate files with Eloquent models
-- [spatie/global-ray](https://github.com/spatie/global-ray) ([1.2.5](https://github.com/spatie/global-ray/releases/tag/1.2.5), 2 days ago) - Enable Ray in all PHP files on your system
-- [spatie/crawler](https://github.com/spatie/crawler) ([9.4.2](https://github.com/spatie/crawler/releases/tag/9.4.2), 2 days ago) - https://spatie.be/docs/crawler
+- [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.3.0](https://github.com/spatie/laravel-backup-server/releases/tag/4.3.0), 3 days ago) - Backup multiple servers
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.2](https://github.com/spatie/laravel-health/releases/tag/1.40.2), 3 days ago) - Check the health of your Laravel app
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.4](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.4), 3 days ago) - Associate files with Eloquent models
+- [spatie/global-ray](https://github.com/spatie/global-ray) ([1.2.5](https://github.com/spatie/global-ray/releases/tag/1.2.5), 3 days ago) - Enable Ray in all PHP files on your system
+- [spatie/crawler](https://github.com/spatie/crawler) ([9.4.2](https://github.com/spatie/crawler/releases/tag/9.4.2), 3 days ago) - https://spatie.be/docs/crawler
 
 #### 👷 Check out what I'm currently working on
 
