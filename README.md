@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.48.3](https://github.com/laravel/horizon/releases/tag/v5.48.3), today) - Dashboard and code-driven configuration for Laravel queues.
 - [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.15.1](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.15.1), 1 day ago) - The easiest way to get started with event sourcing in Laravel
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.5](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.5), 1 day ago) - Associate files with Eloquent models
 - [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.3.0](https://github.com/spatie/laravel-backup-server/releases/tag/4.3.0), 4 days ago) - Backup multiple servers
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.2](https://github.com/spatie/laravel-health/releases/tag/1.40.2), 4 days ago) - Check the health of your Laravel app
-- [spatie/global-ray](https://github.com/spatie/global-ray) ([1.2.5](https://github.com/spatie/global-ray/releases/tag/1.2.5), 4 days ago) - Enable Ray in all PHP files on your system
 
 #### 👷 Check out what I'm currently working on
 
