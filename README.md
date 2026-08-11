@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.15.1](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.15.1), today) - The easiest way to get started with event sourcing in Laravel
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.5](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.5), today) - Associate files with Eloquent models
-- [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.3.0](https://github.com/spatie/laravel-backup-server/releases/tag/4.3.0), 3 days ago) - Backup multiple servers
-- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.2](https://github.com/spatie/laravel-health/releases/tag/1.40.2), 3 days ago) - Check the health of your Laravel app
-- [spatie/global-ray](https://github.com/spatie/global-ray) ([1.2.5](https://github.com/spatie/global-ray/releases/tag/1.2.5), 3 days ago) - Enable Ray in all PHP files on your system
+- [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.15.1](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.15.1), 1 day ago) - The easiest way to get started with event sourcing in Laravel
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.5](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.5), 1 day ago) - Associate files with Eloquent models
+- [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.3.0](https://github.com/spatie/laravel-backup-server/releases/tag/4.3.0), 4 days ago) - Backup multiple servers
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.2](https://github.com/spatie/laravel-health/releases/tag/1.40.2), 4 days ago) - Check the health of your Laravel app
+- [spatie/global-ray](https://github.com/spatie/global-ray) ([1.2.5](https://github.com/spatie/global-ray/releases/tag/1.2.5), 4 days ago) - Enable Ray in all PHP files on your system
 
 #### 👷 Check out what I'm currently working on
 
-- [prasanthc41m/ping-extension](https://github.com/prasanthc41m/ping-extension) - A GNOME Shell extension that pings. (2 months ago)
+- [prasanthc41m/ping-extension](https://github.com/prasanthc41m/ping-extension) - A GNOME Shell extension that pings. (3 months ago)
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (3 months ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (5 months ago)
 - [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (6 months ago)
