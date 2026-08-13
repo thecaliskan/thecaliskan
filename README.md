@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.48.3](https://github.com/laravel/horizon/releases/tag/v5.48.3), 1 day ago) - Dashboard and code-driven configuration for Laravel queues.
-- [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.15.1](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.15.1), 2 days ago) - The easiest way to get started with event sourcing in Laravel
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.5](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.5), 2 days ago) - Associate files with Eloquent models
-- [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.3.0](https://github.com/spatie/laravel-backup-server/releases/tag/4.3.0), 5 days ago) - Backup multiple servers
-- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.2](https://github.com/spatie/laravel-health/releases/tag/1.40.2), 5 days ago) - Check the health of your Laravel app
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.48.3](https://github.com/laravel/horizon/releases/tag/v5.48.3), 2 days ago) - Dashboard and code-driven configuration for Laravel queues.
+- [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.15.1](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.15.1), 3 days ago) - The easiest way to get started with event sourcing in Laravel
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.5](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.5), 3 days ago) - Associate files with Eloquent models
+- [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.3.0](https://github.com/spatie/laravel-backup-server/releases/tag/4.3.0), 6 days ago) - Backup multiple servers
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.2](https://github.com/spatie/laravel-health/releases/tag/1.40.2), 6 days ago) - Check the health of your Laravel app
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (1 day ago)
+- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (2 days ago)
 - [prasanthc41m/ping-extension](https://github.com/prasanthc41m/ping-extension) - A GNOME Shell extension that pings. (3 months ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (5 months ago)
 - [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (6 months ago)
