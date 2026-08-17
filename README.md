@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.3.1](https://github.com/spatie/laravel-backup-server/releases/tag/4.3.1), today) - Backup multiple servers
 - [spatie/holidays](https://github.com/spatie/holidays) ([2.5.0](https://github.com/spatie/holidays/releases/tag/2.5.0), today) - Calculate which days you don&#39;t have to work!
 - [laravel/horizon](https://github.com/laravel/horizon) ([v5.48.3](https://github.com/laravel/horizon/releases/tag/v5.48.3), 6 days ago) - Dashboard and code-driven configuration for Laravel queues.
 - [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.15.1](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.15.1), 1 week ago) - The easiest way to get started with event sourcing in Laravel
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.5](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.5), 1 week ago) - Associate files with Eloquent models
-- [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.3.0](https://github.com/spatie/laravel-backup-server/releases/tag/4.3.0), 1 week ago) - Backup multiple servers
 
 #### 👷 Check out what I'm currently working on
 
