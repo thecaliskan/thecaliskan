@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.3.1](https://github.com/spatie/laravel-backup-server/releases/tag/4.3.1), today) - Backup multiple servers
-- [spatie/holidays](https://github.com/spatie/holidays) ([2.5.0](https://github.com/spatie/holidays/releases/tag/2.5.0), today) - Calculate which days you don&#39;t have to work!
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.48.3](https://github.com/laravel/horizon/releases/tag/v5.48.3), 6 days ago) - Dashboard and code-driven configuration for Laravel queues.
+- [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.3.1](https://github.com/spatie/laravel-backup-server/releases/tag/4.3.1), 1 day ago) - Backup multiple servers
+- [spatie/holidays](https://github.com/spatie/holidays) ([2.5.0](https://github.com/spatie/holidays/releases/tag/2.5.0), 1 day ago) - Calculate which days you don&#39;t have to work!
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.48.3](https://github.com/laravel/horizon/releases/tag/v5.48.3), 1 week ago) - Dashboard and code-driven configuration for Laravel queues.
 - [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.15.1](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.15.1), 1 week ago) - The easiest way to get started with event sourcing in Laravel
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.5](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.5), 1 week ago) - Associate files with Eloquent models
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (6 days ago)
+- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (1 week ago)
 - [prasanthc41m/ping-extension](https://github.com/prasanthc41m/ping-extension) - A GNOME Shell extension that pings. (3 months ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (5 months ago)
 - [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (6 months ago)
