@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.3.2](https://github.com/spatie/laravel-backup/releases/tag/10.3.2), 4 days ago) - A package to backup your Laravel app
-- [spatie/image](https://github.com/spatie/image) ([3.9.6](https://github.com/spatie/image/releases/tag/3.9.6), 6 days ago) - https://spatie.be/docs/image/v3/introduction
+- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.3.2](https://github.com/spatie/laravel-backup/releases/tag/10.3.2), 5 days ago) - A package to backup your Laravel app
+- [spatie/image](https://github.com/spatie/image) ([3.9.6](https://github.com/spatie/image/releases/tag/3.9.6), 1 week ago) - https://spatie.be/docs/image/v3/introduction
 - [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.3.1](https://github.com/spatie/laravel-backup-server/releases/tag/4.3.1), 1 week ago) - Backup multiple servers
 - [spatie/holidays](https://github.com/spatie/holidays) ([2.5.0](https://github.com/spatie/holidays/releases/tag/2.5.0), 1 week ago) - Calculate which days you don&#39;t have to work!
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.48.3](https://github.com/laravel/horizon/releases/tag/v5.48.3), 1 week ago) - Dashboard and code-driven configuration for Laravel queues.
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.48.3](https://github.com/laravel/horizon/releases/tag/v5.48.3), 2 weeks ago) - Dashboard and code-driven configuration for Laravel queues.
 
 #### 👷 Check out what I'm currently working on
 
