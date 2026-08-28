@@ -9,16 +9,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.4.0](https://github.com/spatie/laravel-flare/releases/tag/3.4.0), today) - Send Laravel errors to Flare
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.4.1](https://github.com/spatie/flare-client-php/releases/tag/3.4.1), today) - Send PHP errors to Flare
+- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.4.0](https://github.com/spatie/laravel-flare/releases/tag/3.4.0), 1 day ago) - Send Laravel errors to Flare
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.4.1](https://github.com/spatie/flare-client-php/releases/tag/3.4.1), 1 day ago) - Send PHP errors to Flare
 - [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.3.2](https://github.com/spatie/laravel-backup/releases/tag/10.3.2), 1 week ago) - A package to backup your Laravel app
 - [spatie/image](https://github.com/spatie/image) ([3.9.6](https://github.com/spatie/image/releases/tag/3.9.6), 1 week ago) - https://spatie.be/docs/image/v3/introduction
 - [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.3.1](https://github.com/spatie/laravel-backup-server/releases/tag/4.3.1), 1 week ago) - Backup multiple servers
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (2 days ago)
-- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (2 days ago)
+- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (3 days ago)
+- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (3 days ago)
 - [prasanthc41m/ping-extension](https://github.com/prasanthc41m/ping-extension) - A GNOME Shell extension that pings. (3 months ago)
 - [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (6 months ago)
 - [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (6 months ago)
