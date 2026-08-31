@@ -17,8 +17,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (6 days ago)
-- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (6 days ago)
+- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (today)
+- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (today)
 - [prasanthc41m/ping-extension](https://github.com/prasanthc41m/ping-extension) - A GNOME Shell extension that pings. (3 months ago)
 - [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (6 months ago)
 - [spatie/backtrace](https://github.com/spatie/backtrace) - A better backtrace (6 months ago)
