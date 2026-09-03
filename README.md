@@ -9,17 +9,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.4.2](https://github.com/spatie/flare-client-php/releases/tag/3.4.2), today) - Send PHP errors to Flare
-- [curl/curl](https://github.com/curl/curl) ([curl-8_22_0](https://github.com/curl/curl/releases/tag/curl-8_22_0), today) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.6](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.6), 1 day ago) - Associate files with Eloquent models
-- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.4.1](https://github.com/spatie/laravel-flare/releases/tag/3.4.1), 2 days ago) - Send Laravel errors to Flare
-- [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) ([3.3.1](https://github.com/spatie/typescript-transformer/releases/tag/3.3.1), 5 days ago) - Transform PHP types to TypeScript
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.4.2](https://github.com/spatie/flare-client-php/releases/tag/3.4.2), 1 day ago) - Send PHP errors to Flare
+- [curl/curl](https://github.com/curl/curl) ([curl-8_22_0](https://github.com/curl/curl/releases/tag/curl-8_22_0), 1 day ago) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.6](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.6), 2 days ago) - Associate files with Eloquent models
+- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.4.1](https://github.com/spatie/laravel-flare/releases/tag/3.4.1), 3 days ago) - Send Laravel errors to Flare
+- [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) ([3.3.1](https://github.com/spatie/typescript-transformer/releases/tag/3.3.1), 6 days ago) - Transform PHP types to TypeScript
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/olympus](https://github.com/thecaliskan/olympus) -  (1 day ago)
-- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (2 days ago)
-- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (2 days ago)
+- [thecaliskan/olympus](https://github.com/thecaliskan/olympus) -  (2 days ago)
+- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (3 days ago)
+- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (3 days ago)
 - [prasanthc41m/ping-extension](https://github.com/prasanthc41m/ping-extension) - A GNOME Shell extension that pings. (3 months ago)
 - [spatie/visit](https://github.com/spatie/visit) - See the response of any URL in a beautiful way (6 months ago)
 
