@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/holidays](https://github.com/spatie/holidays) ([2.5.1](https://github.com/spatie/holidays/releases/tag/2.5.1), today) - Calculate which days you don&#39;t have to work!
 - [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.5.0](https://github.com/spatie/laravel-flare/releases/tag/3.5.0), 1 day ago) - Send Laravel errors to Flare
 - [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.4.4](https://github.com/spatie/flare-client-php/releases/tag/3.4.4), 1 day ago) - Send PHP errors to Flare
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.7](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.7), 5 days ago) - Associate files with Eloquent models
 - [curl/curl](https://github.com/curl/curl) ([curl-8_22_0](https://github.com/curl/curl/releases/tag/curl-8_22_0), 6 days ago) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
-- [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) ([3.3.1](https://github.com/spatie/typescript-transformer/releases/tag/3.3.1), 1 week ago) - Transform PHP types to TypeScript
 
 #### 👷 Check out what I'm currently working on
 
