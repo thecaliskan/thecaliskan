@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.3.3](https://github.com/spatie/laravel-backup/releases/tag/10.3.3), today) - A package to backup your Laravel app
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.8](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.8), today) - Associate files with Eloquent models
 - [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.6.1](https://github.com/spatie/laravel-flare/releases/tag/3.6.1), 5 days ago) - Send Laravel errors to Flare
 - [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.5.1](https://github.com/spatie/flare-client-php/releases/tag/3.5.1), 5 days ago) - Send PHP errors to Flare
 - [laravel/horizon](https://github.com/laravel/horizon) ([v5.49.0](https://github.com/laravel/horizon/releases/tag/v5.49.0), 6 days ago) - Dashboard and code-driven configuration for Laravel queues.
-- [spatie/holidays](https://github.com/spatie/holidays) ([2.5.1](https://github.com/spatie/holidays/releases/tag/2.5.1), 6 days ago) - Calculate which days you don&#39;t have to work!
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.7](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.7), 1 week ago) - Associate files with Eloquent models
 
 #### 👷 Check out what I'm currently working on
 
