@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.10](https://github.com/swoole/swoole-src/releases/tag/v6.1.10), today) - 🚀 Coroutine-based concurrency library for PHP
 - [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.3.3](https://github.com/spatie/laravel-backup/releases/tag/10.3.3), 1 day ago) - A package to backup your Laravel app
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.8](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.8), 1 day ago) - Associate files with Eloquent models
 - [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.6.1](https://github.com/spatie/laravel-flare/releases/tag/3.6.1), 6 days ago) - Send Laravel errors to Flare
 - [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.5.1](https://github.com/spatie/flare-client-php/releases/tag/3.5.1), 6 days ago) - Send PHP errors to Flare
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.49.0](https://github.com/laravel/horizon/releases/tag/v5.49.0), 1 week ago) - Dashboard and code-driven configuration for Laravel queues.
 
 #### 👷 Check out what I'm currently working on
 
