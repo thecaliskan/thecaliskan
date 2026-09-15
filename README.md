@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.3.3](https://github.com/spatie/laravel-backup/releases/tag/10.3.3), today) - A package to backup your Laravel app
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.8](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.8), today) - Associate files with Eloquent models
-- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.6.1](https://github.com/spatie/laravel-flare/releases/tag/3.6.1), 5 days ago) - Send Laravel errors to Flare
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.5.1](https://github.com/spatie/flare-client-php/releases/tag/3.5.1), 5 days ago) - Send PHP errors to Flare
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.49.0](https://github.com/laravel/horizon/releases/tag/v5.49.0), 6 days ago) - Dashboard and code-driven configuration for Laravel queues.
+- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.3.3](https://github.com/spatie/laravel-backup/releases/tag/10.3.3), 1 day ago) - A package to backup your Laravel app
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.8](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.8), 1 day ago) - Associate files with Eloquent models
+- [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.6.1](https://github.com/spatie/laravel-flare/releases/tag/3.6.1), 6 days ago) - Send Laravel errors to Flare
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.5.1](https://github.com/spatie/flare-client-php/releases/tag/3.5.1), 6 days ago) - Send PHP errors to Flare
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.49.0](https://github.com/laravel/horizon/releases/tag/v5.49.0), 1 week ago) - Dashboard and code-driven configuration for Laravel queues.
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/olympus](https://github.com/thecaliskan/olympus) -  (1 week ago)
+- [thecaliskan/olympus](https://github.com/thecaliskan/olympus) -  (2 weeks ago)
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (2 weeks ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (2 weeks ago)
 - [prasanthc41m/ping-extension](https://github.com/prasanthc41m/ping-extension) - A GNOME Shell extension that pings. (4 months ago)
