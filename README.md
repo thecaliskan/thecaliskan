@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/emoji](https://github.com/spatie/emoji) ([4.2.0](https://github.com/spatie/emoji/releases/tag/4.2.0), today) - Programatically work with emoji characters
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.10](https://github.com/swoole/swoole-src/releases/tag/v6.1.10), 3 days ago) - 🚀 Coroutine-based concurrency library for PHP
 - [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.3.3](https://github.com/spatie/laravel-backup/releases/tag/10.3.3), 4 days ago) - A package to backup your Laravel app
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.8](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.8), 4 days ago) - Associate files with Eloquent models
 - [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.6.1](https://github.com/spatie/laravel-flare/releases/tag/3.6.1), 1 week ago) - Send Laravel errors to Flare
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.5.1](https://github.com/spatie/flare-client-php/releases/tag/3.5.1), 1 week ago) - Send PHP errors to Flare
 
 #### 👷 Check out what I'm currently working on
 
