@@ -9,10 +9,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/emoji](https://github.com/spatie/emoji) ([4.2.0](https://github.com/spatie/emoji/releases/tag/4.2.0), 1 day ago) - Programatically work with emoji characters
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.10](https://github.com/swoole/swoole-src/releases/tag/v6.1.10), 4 days ago) - 🚀 Coroutine-based concurrency library for PHP
-- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.3.3](https://github.com/spatie/laravel-backup/releases/tag/10.3.3), 5 days ago) - A package to backup your Laravel app
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.8](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.8), 5 days ago) - Associate files with Eloquent models
+- [spatie/emoji](https://github.com/spatie/emoji) ([4.2.0](https://github.com/spatie/emoji/releases/tag/4.2.0), 2 days ago) - Programatically work with emoji characters
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.10](https://github.com/swoole/swoole-src/releases/tag/v6.1.10), 5 days ago) - 🚀 Coroutine-based concurrency library for PHP
+- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.3.3](https://github.com/spatie/laravel-backup/releases/tag/10.3.3), 6 days ago) - A package to backup your Laravel app
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.8](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.8), 6 days ago) - Associate files with Eloquent models
 - [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.6.1](https://github.com/spatie/laravel-flare/releases/tag/3.6.1), 1 week ago) - Send Laravel errors to Flare
 
 #### 👷 Check out what I'm currently working on
