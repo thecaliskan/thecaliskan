@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/emoji](https://github.com/spatie/emoji) ([4.2.0](https://github.com/spatie/emoji/releases/tag/4.2.0), 3 days ago) - Programatically work with emoji characters
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.10](https://github.com/swoole/swoole-src/releases/tag/v6.1.10), 6 days ago) - 🚀 Coroutine-based concurrency library for PHP
+- [spatie/emoji](https://github.com/spatie/emoji) ([4.2.0](https://github.com/spatie/emoji/releases/tag/4.2.0), 4 days ago) - Programatically work with emoji characters
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.10](https://github.com/swoole/swoole-src/releases/tag/v6.1.10), 1 week ago) - 🚀 Coroutine-based concurrency library for PHP
 - [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.3.3](https://github.com/spatie/laravel-backup/releases/tag/10.3.3), 1 week ago) - A package to backup your Laravel app
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.8](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.8), 1 week ago) - Associate files with Eloquent models
 - [spatie/laravel-flare](https://github.com/spatie/laravel-flare) ([3.6.1](https://github.com/spatie/laravel-flare/releases/tag/3.6.1), 1 week ago) - Send Laravel errors to Flare
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/olympus](https://github.com/thecaliskan/olympus) -  (2 weeks ago)
+- [thecaliskan/olympus](https://github.com/thecaliskan/olympus) -  (3 weeks ago)
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (3 weeks ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (3 weeks ago)
 - [prasanthc41m/ping-extension](https://github.com/prasanthc41m/ping-extension) - A GNOME Shell extension that pings. (4 months ago)
