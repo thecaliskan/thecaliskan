@@ -9,8 +9,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.3.0-rc1](https://github.com/swoole/swoole-src/releases/tag/v6.3.0-rc1), today) - 🚀 Coroutine-based concurrency library for PHP
 - [laravel/horizon](https://github.com/laravel/horizon) ([v5.50.0](https://github.com/laravel/horizon/releases/tag/v5.50.0), 3 days ago) - Dashboard and code-driven configuration for Laravel queues.
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.3](https://github.com/swoole/swoole-src/releases/tag/v6.2.3), 3 days ago) - 🚀 Coroutine-based concurrency library for PHP
 - [spatie/emoji](https://github.com/spatie/emoji) ([4.2.0](https://github.com/spatie/emoji/releases/tag/4.2.0), 1 week ago) - Programatically work with emoji characters
 - [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.3.3](https://github.com/spatie/laravel-backup/releases/tag/10.3.3), 1 week ago) - A package to backup your Laravel app
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.8](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.8), 1 week ago) - Associate files with Eloquent models
