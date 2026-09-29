@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.3.0-rc1](https://github.com/swoole/swoole-src/releases/tag/v6.3.0-rc1), 3 days ago) - 🚀 Coroutine-based concurrency library for PHP
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.50.0](https://github.com/laravel/horizon/releases/tag/v5.50.0), 6 days ago) - Dashboard and code-driven configuration for Laravel queues.
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.3.0-rc1](https://github.com/swoole/swoole-src/releases/tag/v6.3.0-rc1), 4 days ago) - 🚀 Coroutine-based concurrency library for PHP
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.50.0](https://github.com/laravel/horizon/releases/tag/v5.50.0), 1 week ago) - Dashboard and code-driven configuration for Laravel queues.
 - [spatie/emoji](https://github.com/spatie/emoji) ([4.2.0](https://github.com/spatie/emoji/releases/tag/4.2.0), 1 week ago) - Programatically work with emoji characters
 - [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.3.3](https://github.com/spatie/laravel-backup/releases/tag/10.3.3), 2 weeks ago) - A package to backup your Laravel app
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.8](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.8), 2 weeks ago) - Associate files with Eloquent models
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/olympus](https://github.com/thecaliskan/olympus) -  (3 weeks ago)
+- [thecaliskan/olympus](https://github.com/thecaliskan/olympus) -  (4 weeks ago)
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (4 weeks ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (4 weeks ago)
 - [prasanthc41m/ping-extension](https://github.com/prasanthc41m/ping-extension) - A GNOME Shell extension that pings. (4 months ago)
