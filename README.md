@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/image](https://github.com/spatie/image) ([3.9.7](https://github.com/spatie/image/releases/tag/3.9.7), today) - https://spatie.be/docs/image/v3/introduction
-- [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) ([5.7.2](https://github.com/spatie/laravel-analytics/releases/tag/5.7.2), 1 day ago) - A Laravel package to retrieve pageviews and other data from Google Analytics
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.3.0-rc1](https://github.com/swoole/swoole-src/releases/tag/v6.3.0-rc1), 5 days ago) - 🚀 Coroutine-based concurrency library for PHP
+- [spatie/image](https://github.com/spatie/image) ([3.9.7](https://github.com/spatie/image/releases/tag/3.9.7), 1 day ago) - https://spatie.be/docs/image/v3/introduction
+- [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) ([5.7.2](https://github.com/spatie/laravel-analytics/releases/tag/5.7.2), 2 days ago) - A Laravel package to retrieve pageviews and other data from Google Analytics
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.3.0-rc1](https://github.com/swoole/swoole-src/releases/tag/v6.3.0-rc1), 6 days ago) - 🚀 Coroutine-based concurrency library for PHP
 - [laravel/horizon](https://github.com/laravel/horizon) ([v5.50.0](https://github.com/laravel/horizon/releases/tag/v5.50.0), 1 week ago) - Dashboard and code-driven configuration for Laravel queues.
 - [spatie/emoji](https://github.com/spatie/emoji) ([4.2.0](https://github.com/spatie/emoji/releases/tag/4.2.0), 1 week ago) - Programatically work with emoji characters
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/olympus](https://github.com/thecaliskan/olympus) -  (4 weeks ago)
+- [thecaliskan/olympus](https://github.com/thecaliskan/olympus) -  (1 month ago)
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (1 month ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (1 month ago)
 - [prasanthc41m/ping-extension](https://github.com/prasanthc41m/ping-extension) - A GNOME Shell extension that pings. (4 months ago)
