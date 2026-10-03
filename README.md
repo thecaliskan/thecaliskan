@@ -9,8 +9,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/image](https://github.com/spatie/image) ([3.9.7](https://github.com/spatie/image/releases/tag/3.9.7), 2 days ago) - https://spatie.be/docs/image/v3/introduction
-- [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) ([5.7.2](https://github.com/spatie/laravel-analytics/releases/tag/5.7.2), 3 days ago) - A Laravel package to retrieve pageviews and other data from Google Analytics
+- [spatie/image](https://github.com/spatie/image) ([3.9.7](https://github.com/spatie/image/releases/tag/3.9.7), 3 days ago) - https://spatie.be/docs/image/v3/introduction
+- [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) ([5.7.2](https://github.com/spatie/laravel-analytics/releases/tag/5.7.2), 4 days ago) - A Laravel package to retrieve pageviews and other data from Google Analytics
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.3.0-rc1](https://github.com/swoole/swoole-src/releases/tag/v6.3.0-rc1), 1 week ago) - 🚀 Coroutine-based concurrency library for PHP
 - [laravel/horizon](https://github.com/laravel/horizon) ([v5.50.0](https://github.com/laravel/horizon/releases/tag/v5.50.0), 1 week ago) - Dashboard and code-driven configuration for Laravel queues.
 - [spatie/emoji](https://github.com/spatie/emoji) ([4.2.0](https://github.com/spatie/emoji/releases/tag/4.2.0), 2 weeks ago) - Programatically work with emoji characters
