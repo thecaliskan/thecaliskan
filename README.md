@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.9](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.9), 5 days ago) - Associate files with Eloquent models
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.9](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.9), 6 days ago) - Associate files with Eloquent models
 - [spatie/image](https://github.com/spatie/image) ([3.9.7](https://github.com/spatie/image/releases/tag/3.9.7), 1 week ago) - https://spatie.be/docs/image/v3/introduction
 - [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) ([5.7.2](https://github.com/spatie/laravel-analytics/releases/tag/5.7.2), 1 week ago) - A Laravel package to retrieve pageviews and other data from Google Analytics
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.3.0-rc1](https://github.com/swoole/swoole-src/releases/tag/v6.3.0-rc1), 2 weeks ago) - 🚀 Coroutine-based concurrency library for PHP
