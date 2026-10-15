@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.3.2](https://github.com/spatie/laravel-backup-server/releases/tag/4.3.2), today) - Backup multiple servers
 - [laravel/horizon](https://github.com/laravel/horizon) ([v5.50.1](https://github.com/laravel/horizon/releases/tag/v5.50.1), 2 days ago) - Dashboard and code-driven configuration for Laravel queues.
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.9](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.9), 1 week ago) - Associate files with Eloquent models
 - [spatie/image](https://github.com/spatie/image) ([3.9.7](https://github.com/spatie/image/releases/tag/3.9.7), 2 weeks ago) - https://spatie.be/docs/image/v3/introduction
 - [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) ([5.7.2](https://github.com/spatie/laravel-analytics/releases/tag/5.7.2), 2 weeks ago) - A Laravel package to retrieve pageviews and other data from Google Analytics
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.3.0-rc1](https://github.com/swoole/swoole-src/releases/tag/v6.3.0-rc1), 2 weeks ago) - 🚀 Coroutine-based concurrency library for PHP
 
 #### 👷 Check out what I'm currently working on
 
