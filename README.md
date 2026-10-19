@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.3.2](https://github.com/spatie/laravel-backup-server/releases/tag/4.3.2), 3 days ago) - Backup multiple servers
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.50.1](https://github.com/laravel/horizon/releases/tag/v5.50.1), 5 days ago) - Dashboard and code-driven configuration for Laravel queues.
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.9](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.9), 1 week ago) - Associate files with Eloquent models
-- [spatie/image](https://github.com/spatie/image) ([3.9.7](https://github.com/spatie/image/releases/tag/3.9.7), 2 weeks ago) - https://spatie.be/docs/image/v3/introduction
-- [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) ([5.7.2](https://github.com/spatie/laravel-analytics/releases/tag/5.7.2), 2 weeks ago) - A Laravel package to retrieve pageviews and other data from Google Analytics
+- [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) ([4.4.0](https://github.com/spatie/laravel-backup-server/releases/tag/4.4.0), today) - Backup multiple servers
+- [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) ([5.8.0](https://github.com/spatie/laravel-analytics/releases/tag/5.8.0), today) - A Laravel package to retrieve pageviews and other data from Google Analytics
+- [spatie/holidays](https://github.com/spatie/holidays) ([2.5.2](https://github.com/spatie/holidays/releases/tag/2.5.2), today) - Calculate which days you don&#39;t have to work!
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.50.1](https://github.com/laravel/horizon/releases/tag/v5.50.1), 6 days ago) - Dashboard and code-driven configuration for Laravel queues.
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.9](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.9), 2 weeks ago) - Associate files with Eloquent models
 
 #### 👷 Check out what I'm currently working on
 
