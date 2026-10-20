@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) ([2.12.1](https://github.com/spatie/laravel-ignition/releases/tag/2.12.1), today) - A beautiful error page for Laravel apps
-- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.3](https://github.com/spatie/laravel-health/releases/tag/1.40.3), today) - Check the health of your Laravel app
-- [spatie/once](https://github.com/spatie/once) ([3.1.3](https://github.com/spatie/once/releases/tag/3.1.3), today) - A magic memoization function
-- [spatie/dns](https://github.com/spatie/dns) ([2.9.0](https://github.com/spatie/dns/releases/tag/2.9.0), today) - Retrieve DNS records
-- [spatie/holidays](https://github.com/spatie/holidays) ([2.7.2](https://github.com/spatie/holidays/releases/tag/2.7.2), today) - Calculate which days you don&#39;t have to work!
+- [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) ([2.12.1](https://github.com/spatie/laravel-ignition/releases/tag/2.12.1), 1 day ago) - A beautiful error page for Laravel apps
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.3](https://github.com/spatie/laravel-health/releases/tag/1.40.3), 1 day ago) - Check the health of your Laravel app
+- [spatie/once](https://github.com/spatie/once) ([3.1.3](https://github.com/spatie/once/releases/tag/3.1.3), 1 day ago) - A magic memoization function
+- [spatie/dns](https://github.com/spatie/dns) ([2.9.0](https://github.com/spatie/dns/releases/tag/2.9.0), 1 day ago) - Retrieve DNS records
+- [spatie/holidays](https://github.com/spatie/holidays) ([2.7.2](https://github.com/spatie/holidays/releases/tag/2.7.2), 1 day ago) - Calculate which days you don&#39;t have to work!
 
 #### 👷 Check out what I'm currently working on
 
