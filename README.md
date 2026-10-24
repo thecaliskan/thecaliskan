@@ -33,11 +33,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [pouchanana6-a11y](https://github.com/pouchanana6-a11y)
 - [liesbethbelmokhtar203-source](https://github.com/liesbethbelmokhtar203-source)
 - [klc](https://github.com/klc)
 - [eislambey](https://github.com/eislambey)
 - [rodrigogalura](https://github.com/rodrigogalura)
-- [Neustradamus](https://github.com/Neustradamus)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/thecaliskan) (thank you!)
 
