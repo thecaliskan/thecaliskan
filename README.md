@@ -9,16 +9,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.4](https://github.com/swoole/swoole-src/releases/tag/v6.2.4), today) - 🚀 Coroutine-based concurrency library for PHP
-- [spatie/image](https://github.com/spatie/image) ([3.9.9](https://github.com/spatie/image/releases/tag/3.9.9), 5 days ago) - https://spatie.be/docs/image/v3/introduction
-- [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) ([2.12.1](https://github.com/spatie/laravel-ignition/releases/tag/2.12.1), 6 days ago) - A beautiful error page for Laravel apps
-- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.3](https://github.com/spatie/laravel-health/releases/tag/1.40.3), 6 days ago) - Check the health of your Laravel app
-- [spatie/once](https://github.com/spatie/once) ([3.1.3](https://github.com/spatie/once/releases/tag/3.1.3), 6 days ago) - A magic memoization function
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.4](https://github.com/swoole/swoole-src/releases/tag/v6.2.4), 1 day ago) - 🚀 Coroutine-based concurrency library for PHP
+- [spatie/image](https://github.com/spatie/image) ([3.9.9](https://github.com/spatie/image/releases/tag/3.9.9), 6 days ago) - https://spatie.be/docs/image/v3/introduction
+- [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) ([2.12.1](https://github.com/spatie/laravel-ignition/releases/tag/2.12.1), 1 week ago) - A beautiful error page for Laravel apps
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.3](https://github.com/spatie/laravel-health/releases/tag/1.40.3), 1 week ago) - Check the health of your Laravel app
+- [spatie/once](https://github.com/spatie/once) ([3.1.3](https://github.com/spatie/once/releases/tag/3.1.3), 1 week ago) - A magic memoization function
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (4 days ago)
-- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (4 days ago)
+- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (5 days ago)
+- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (5 days ago)
 - [thecaliskan/olympus](https://github.com/thecaliskan/olympus) -  (1 month ago)
 - [php/pecl-networking-ssh2](https://github.com/php/pecl-networking-ssh2) - Bindings for the libssh2 library (2 months ago)
 - [prasanthc41m/ping-extension](https://github.com/prasanthc41m/ping-extension) - A GNOME Shell extension that pings. (5 months ago)
