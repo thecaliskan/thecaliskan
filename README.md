@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/holidays](https://github.com/spatie/holidays) ([2.8.1](https://github.com/spatie/holidays/releases/tag/2.8.1), today) - Calculate which days you don&#39;t have to work!
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.4](https://github.com/swoole/swoole-src/releases/tag/v6.2.4), 1 day ago) - 🚀 Coroutine-based concurrency library for PHP
 - [spatie/image](https://github.com/spatie/image) ([3.9.9](https://github.com/spatie/image/releases/tag/3.9.9), 6 days ago) - https://spatie.be/docs/image/v3/introduction
 - [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) ([2.12.1](https://github.com/spatie/laravel-ignition/releases/tag/2.12.1), 1 week ago) - A beautiful error page for Laravel apps
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.3](https://github.com/spatie/laravel-health/releases/tag/1.40.3), 1 week ago) - Check the health of your Laravel app
-- [spatie/once](https://github.com/spatie/once) ([3.1.3](https://github.com/spatie/once/releases/tag/3.1.3), 1 week ago) - A magic memoization function
 
 #### 👷 Check out what I'm currently working on
 
