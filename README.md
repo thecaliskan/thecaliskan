@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.4](https://github.com/spatie/laravel-health/releases/tag/1.40.4), today) - Check the health of your Laravel app
+- [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.15.3](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.15.3), today) - The easiest way to get started with event sourcing in Laravel
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.11](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.11), today) - Associate files with Eloquent models
+- [spatie/browsershot](https://github.com/spatie/browsershot) ([5.4.2](https://github.com/spatie/browsershot/releases/tag/5.4.2), today) - Convert HTML to an image, PDF or string
 - [spatie/holidays](https://github.com/spatie/holidays) ([2.8.1](https://github.com/spatie/holidays/releases/tag/2.8.1), today) - Calculate which days you don&#39;t have to work!
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.4](https://github.com/swoole/swoole-src/releases/tag/v6.2.4), 1 day ago) - 🚀 Coroutine-based concurrency library for PHP
-- [spatie/image](https://github.com/spatie/image) ([3.9.9](https://github.com/spatie/image/releases/tag/3.9.9), 6 days ago) - https://spatie.be/docs/image/v3/introduction
-- [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) ([2.12.1](https://github.com/spatie/laravel-ignition/releases/tag/2.12.1), 1 week ago) - A beautiful error page for Laravel apps
-- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.3](https://github.com/spatie/laravel-health/releases/tag/1.40.3), 1 week ago) - Check the health of your Laravel app
 
 #### 👷 Check out what I'm currently working on
 
