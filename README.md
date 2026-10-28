@@ -9,16 +9,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.4](https://github.com/spatie/laravel-health/releases/tag/1.40.4), 1 day ago) - Check the health of your Laravel app
-- [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.15.3](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.15.3), 1 day ago) - The easiest way to get started with event sourcing in Laravel
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.11](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.11), 1 day ago) - Associate files with Eloquent models
-- [spatie/browsershot](https://github.com/spatie/browsershot) ([5.4.2](https://github.com/spatie/browsershot/releases/tag/5.4.2), 1 day ago) - Convert HTML to an image, PDF or string
-- [spatie/holidays](https://github.com/spatie/holidays) ([2.8.1](https://github.com/spatie/holidays/releases/tag/2.8.1), 1 day ago) - Calculate which days you don&#39;t have to work!
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.4](https://github.com/spatie/laravel-health/releases/tag/1.40.4), 2 days ago) - Check the health of your Laravel app
+- [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.15.3](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.15.3), 2 days ago) - The easiest way to get started with event sourcing in Laravel
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.11](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.11), 2 days ago) - Associate files with Eloquent models
+- [spatie/browsershot](https://github.com/spatie/browsershot) ([5.4.2](https://github.com/spatie/browsershot/releases/tag/5.4.2), 2 days ago) - Convert HTML to an image, PDF or string
+- [spatie/holidays](https://github.com/spatie/holidays) ([2.8.1](https://github.com/spatie/holidays/releases/tag/2.8.1), 2 days ago) - Calculate which days you don&#39;t have to work!
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (6 days ago)
-- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (6 days ago)
+- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (1 week ago)
+- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (1 week ago)
 - [thecaliskan/olympus](https://github.com/thecaliskan/olympus) -  (1 month ago)
 - [php/pecl-networking-ssh2](https://github.com/php/pecl-networking-ssh2) - Bindings for the libssh2 library (2 months ago)
 - [prasanthc41m/ping-extension](https://github.com/prasanthc41m/ping-extension) - A GNOME Shell extension that pings. (5 months ago)
