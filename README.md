@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/dns](https://github.com/spatie/dns) ([2.10.0](https://github.com/spatie/dns/releases/tag/2.10.0), today) - Retrieve DNS records
-- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.4](https://github.com/spatie/laravel-health/releases/tag/1.40.4), 3 days ago) - Check the health of your Laravel app
-- [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.15.3](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.15.3), 3 days ago) - The easiest way to get started with event sourcing in Laravel
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.11](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.11), 3 days ago) - Associate files with Eloquent models
-- [spatie/browsershot](https://github.com/spatie/browsershot) ([5.4.2](https://github.com/spatie/browsershot/releases/tag/5.4.2), 3 days ago) - Convert HTML to an image, PDF or string
+- [spatie/dns](https://github.com/spatie/dns) ([2.10.0](https://github.com/spatie/dns/releases/tag/2.10.0), 1 day ago) - Retrieve DNS records
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.4](https://github.com/spatie/laravel-health/releases/tag/1.40.4), 4 days ago) - Check the health of your Laravel app
+- [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.15.3](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.15.3), 4 days ago) - The easiest way to get started with event sourcing in Laravel
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) ([11.23.11](https://github.com/spatie/laravel-medialibrary/releases/tag/11.23.11), 4 days ago) - Associate files with Eloquent models
+- [spatie/browsershot](https://github.com/spatie/browsershot) ([5.4.2](https://github.com/spatie/browsershot/releases/tag/5.4.2), 4 days ago) - Convert HTML to an image, PDF or string
 
 #### 👷 Check out what I'm currently working on
 
@@ -34,10 +34,10 @@
 #### 👯 Check out some of my recent followers
 
 - [pouchanana6-a11y](https://github.com/pouchanana6-a11y)
-- [liesbethbelmokhtar203-source](https://github.com/liesbethbelmokhtar203-source)
 - [klc](https://github.com/klc)
 - [eislambey](https://github.com/eislambey)
 - [rodrigogalura](https://github.com/rodrigogalura)
+- [Neustradamus](https://github.com/Neustradamus)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/thecaliskan) (thank you!)
 
