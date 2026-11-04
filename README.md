@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/dns](https://github.com/spatie/dns) ([2.10.0](https://github.com/spatie/dns/releases/tag/2.10.0), 5 days ago) - Retrieve DNS records
+- [spatie/dns](https://github.com/spatie/dns) ([2.10.0](https://github.com/spatie/dns/releases/tag/2.10.0), 6 days ago) - Retrieve DNS records
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.4](https://github.com/spatie/laravel-health/releases/tag/1.40.4), 1 week ago) - Check the health of your Laravel app
 - [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.15.3](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.15.3), 1 week ago) - The easiest way to get started with event sourcing in Laravel
 - [spatie/browsershot](https://github.com/spatie/browsershot) ([5.4.2](https://github.com/spatie/browsershot/releases/tag/5.4.2), 1 week ago) - Convert HTML to an image, PDF or string
@@ -17,8 +17,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (3 days ago)
-- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (1 week ago)
+- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (4 days ago)
+- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (2 weeks ago)
 - [thecaliskan/olympus](https://github.com/thecaliskan/olympus) -  (2 months ago)
 - [php/pecl-networking-ssh2](https://github.com/php/pecl-networking-ssh2) - Bindings for the libssh2 library (2 months ago)
 - [prasanthc41m/ping-extension](https://github.com/prasanthc41m/ping-extension) - A GNOME Shell extension that pings. (5 months ago)
