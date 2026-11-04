@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/image](https://github.com/spatie/image) ([3.9.10](https://github.com/spatie/image/releases/tag/3.9.10), today) - https://spatie.be/docs/image/v3/introduction
+- [spatie/image-optimizer](https://github.com/spatie/image-optimizer) ([1.10.1](https://github.com/spatie/image-optimizer/releases/tag/1.10.1), today) - Easily optimize images using PHP
 - [spatie/dns](https://github.com/spatie/dns) ([2.10.0](https://github.com/spatie/dns/releases/tag/2.10.0), 6 days ago) - Retrieve DNS records
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.4](https://github.com/spatie/laravel-health/releases/tag/1.40.4), 1 week ago) - Check the health of your Laravel app
 - [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) ([7.15.3](https://github.com/spatie/laravel-event-sourcing/releases/tag/7.15.3), 1 week ago) - The easiest way to get started with event sourcing in Laravel
-- [spatie/browsershot](https://github.com/spatie/browsershot) ([5.4.2](https://github.com/spatie/browsershot/releases/tag/5.4.2), 1 week ago) - Convert HTML to an image, PDF or string
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.4](https://github.com/swoole/swoole-src/releases/tag/v6.2.4), 1 week ago) - 🚀 Coroutine-based concurrency library for PHP
 
 #### 👷 Check out what I'm currently working on
 
