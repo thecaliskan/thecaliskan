@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) ([2.13.0](https://github.com/spatie/laravel-ignition/releases/tag/2.13.0), today) - A beautiful error page for Laravel apps
 - [spatie/docker](https://github.com/spatie/docker) ([1.14.0](https://github.com/spatie/docker/releases/tag/1.14.0), today) - Manage docker containers with PHP
 - [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.6.0](https://github.com/spatie/flare-client-php/releases/tag/3.6.0), today) - Send PHP errors to Flare
 - [spatie/x-ray](https://github.com/spatie/x-ray) ([1.3.0](https://github.com/spatie/x-ray/releases/tag/1.3.0), today) - Scan source code for calls to ray() and related calls.
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.41.0](https://github.com/spatie/laravel-health/releases/tag/1.41.0), today) - Check the health of your Laravel app
-- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.4.0](https://github.com/spatie/laravel-backup/releases/tag/10.4.0), today) - A package to backup your Laravel app
 
 #### 👷 Check out what I'm currently working on
 
