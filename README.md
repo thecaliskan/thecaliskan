@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.40.6](https://github.com/spatie/laravel-health/releases/tag/1.40.6), 2 days ago) - Check the health of your Laravel app
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([1.11.2](https://github.com/spatie/flare-client-php/releases/tag/1.11.2), 2 days ago) - Send PHP errors to Flare
-- [spatie/image](https://github.com/spatie/image) ([3.9.10](https://github.com/spatie/image/releases/tag/3.9.10), 2 days ago) - https://spatie.be/docs/image/v3/introduction
-- [spatie/image-optimizer](https://github.com/spatie/image-optimizer) ([1.10.1](https://github.com/spatie/image-optimizer/releases/tag/1.10.1), 2 days ago) - Easily optimize images using PHP
-- [spatie/dns](https://github.com/spatie/dns) ([2.10.0](https://github.com/spatie/dns/releases/tag/2.10.0), 1 week ago) - Retrieve DNS records
+- [spatie/docker](https://github.com/spatie/docker) ([1.14.0](https://github.com/spatie/docker/releases/tag/1.14.0), today) - Manage docker containers with PHP
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.6.0](https://github.com/spatie/flare-client-php/releases/tag/3.6.0), today) - Send PHP errors to Flare
+- [spatie/x-ray](https://github.com/spatie/x-ray) ([1.3.0](https://github.com/spatie/x-ray/releases/tag/1.3.0), today) - Scan source code for calls to ray() and related calls.
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.41.0](https://github.com/spatie/laravel-health/releases/tag/1.41.0), today) - Check the health of your Laravel app
+- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.4.0](https://github.com/spatie/laravel-backup/releases/tag/10.4.0), today) - A package to backup your Laravel app
 
 #### 👷 Check out what I'm currently working on
 
