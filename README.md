@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) ([2.13.0](https://github.com/spatie/laravel-ignition/releases/tag/2.13.0), today) - A beautiful error page for Laravel apps
-- [spatie/docker](https://github.com/spatie/docker) ([1.14.0](https://github.com/spatie/docker/releases/tag/1.14.0), today) - Manage docker containers with PHP
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.6.0](https://github.com/spatie/flare-client-php/releases/tag/3.6.0), today) - Send PHP errors to Flare
-- [spatie/x-ray](https://github.com/spatie/x-ray) ([1.3.0](https://github.com/spatie/x-ray/releases/tag/1.3.0), today) - Scan source code for calls to ray() and related calls.
-- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.41.0](https://github.com/spatie/laravel-health/releases/tag/1.41.0), today) - Check the health of your Laravel app
+- [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) ([2.13.0](https://github.com/spatie/laravel-ignition/releases/tag/2.13.0), 1 day ago) - A beautiful error page for Laravel apps
+- [spatie/docker](https://github.com/spatie/docker) ([1.14.0](https://github.com/spatie/docker/releases/tag/1.14.0), 1 day ago) - Manage docker containers with PHP
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.6.0](https://github.com/spatie/flare-client-php/releases/tag/3.6.0), 1 day ago) - Send PHP errors to Flare
+- [spatie/x-ray](https://github.com/spatie/x-ray) ([1.3.0](https://github.com/spatie/x-ray/releases/tag/1.3.0), 1 day ago) - Scan source code for calls to ray() and related calls.
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.41.0](https://github.com/spatie/laravel-health/releases/tag/1.41.0), 1 day ago) - Check the health of your Laravel app
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (6 days ago)
+- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (1 week ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (2 weeks ago)
 - [thecaliskan/olympus](https://github.com/thecaliskan/olympus) -  (2 months ago)
 - [php/pecl-networking-ssh2](https://github.com/php/pecl-networking-ssh2) - Bindings for the libssh2 library (2 months ago)
