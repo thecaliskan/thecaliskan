@@ -9,19 +9,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.5](https://github.com/swoole/swoole-src/releases/tag/v6.2.5), 1 day ago) - 🚀 Coroutine-based concurrency library for PHP
-- [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) ([2.13.0](https://github.com/spatie/laravel-ignition/releases/tag/2.13.0), 2 days ago) - A beautiful error page for Laravel apps
-- [spatie/docker](https://github.com/spatie/docker) ([1.14.0](https://github.com/spatie/docker/releases/tag/1.14.0), 2 days ago) - Manage docker containers with PHP
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.6.0](https://github.com/spatie/flare-client-php/releases/tag/3.6.0), 2 days ago) - Send PHP errors to Flare
-- [spatie/x-ray](https://github.com/spatie/x-ray) ([1.3.0](https://github.com/spatie/x-ray/releases/tag/1.3.0), 2 days ago) - Scan source code for calls to ray() and related calls.
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.5](https://github.com/swoole/swoole-src/releases/tag/v6.2.5), 2 days ago) - 🚀 Coroutine-based concurrency library for PHP
+- [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) ([2.13.0](https://github.com/spatie/laravel-ignition/releases/tag/2.13.0), 3 days ago) - A beautiful error page for Laravel apps
+- [spatie/docker](https://github.com/spatie/docker) ([1.14.0](https://github.com/spatie/docker/releases/tag/1.14.0), 3 days ago) - Manage docker containers with PHP
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.6.0](https://github.com/spatie/flare-client-php/releases/tag/3.6.0), 3 days ago) - Send PHP errors to Flare
+- [spatie/x-ray](https://github.com/spatie/x-ray) ([1.3.0](https://github.com/spatie/x-ray/releases/tag/1.3.0), 3 days ago) - Scan source code for calls to ray() and related calls.
 
 #### 👷 Check out what I'm currently working on
 
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (1 week ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (2 weeks ago)
 - [thecaliskan/olympus](https://github.com/thecaliskan/olympus) -  (2 months ago)
-- [php/pecl-networking-ssh2](https://github.com/php/pecl-networking-ssh2) - Bindings for the libssh2 library (2 months ago)
-- [prasanthc41m/ping-extension](https://github.com/prasanthc41m/ping-extension) - A GNOME Shell extension that pings. (5 months ago)
+- [php/pecl-networking-ssh2](https://github.com/php/pecl-networking-ssh2) - Bindings for the libssh2 library (3 months ago)
+- [prasanthc41m/ping-extension](https://github.com/prasanthc41m/ping-extension) - A GNOME Shell extension that pings. (6 months ago)
 
 #### 🌱 My latest projects
 
