@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [php/pecl-networking-ssh2](https://github.com/php/pecl-networking-ssh2) ([1.6.0](https://github.com/php/pecl-networking-ssh2/releases/tag/1.6.0), 1 day ago) - Bindings for the libssh2 library
+- [php/pecl-networking-ssh2](https://github.com/php/pecl-networking-ssh2) ([1.6.0-1](https://github.com/php/pecl-networking-ssh2/releases/tag/1.6.0-1), 1 day ago) - Bindings for the libssh2 library
 - [laravel/horizon](https://github.com/laravel/horizon) ([v5.51.0](https://github.com/laravel/horizon/releases/tag/v5.51.0), 2 days ago) - Dashboard and code-driven configuration for Laravel queues.
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.5](https://github.com/swoole/swoole-src/releases/tag/v6.2.5), 5 days ago) - 🚀 Coroutine-based concurrency library for PHP
 - [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) ([2.13.0](https://github.com/spatie/laravel-ignition/releases/tag/2.13.0), 6 days ago) - A beautiful error page for Laravel apps
