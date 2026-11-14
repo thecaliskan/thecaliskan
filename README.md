@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.6.1](https://github.com/spatie/flare-client-php/releases/tag/3.6.1), today) - Send PHP errors to Flare
-- [php/pecl-networking-ssh2](https://github.com/php/pecl-networking-ssh2) ([1.6.0-1](https://github.com/php/pecl-networking-ssh2/releases/tag/1.6.0-1), 2 days ago) - Bindings for the libssh2 library
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.51.0](https://github.com/laravel/horizon/releases/tag/v5.51.0), 3 days ago) - Dashboard and code-driven configuration for Laravel queues.
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.5](https://github.com/swoole/swoole-src/releases/tag/v6.2.5), 6 days ago) - 🚀 Coroutine-based concurrency library for PHP
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.6.1](https://github.com/spatie/flare-client-php/releases/tag/3.6.1), 1 day ago) - Send PHP errors to Flare
+- [php/pecl-networking-ssh2](https://github.com/php/pecl-networking-ssh2) ([1.6.0-1](https://github.com/php/pecl-networking-ssh2/releases/tag/1.6.0-1), 3 days ago) - Bindings for the libssh2 library
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.51.0](https://github.com/laravel/horizon/releases/tag/v5.51.0), 4 days ago) - Dashboard and code-driven configuration for Laravel queues.
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.5](https://github.com/swoole/swoole-src/releases/tag/v6.2.5), 1 week ago) - 🚀 Coroutine-based concurrency library for PHP
 - [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) ([2.13.0](https://github.com/spatie/laravel-ignition/releases/tag/2.13.0), 1 week ago) - A beautiful error page for Laravel apps
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (1 week ago)
+- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (2 weeks ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (3 weeks ago)
 - [thecaliskan/olympus](https://github.com/thecaliskan/olympus) -  (2 months ago)
 - [php/pecl-networking-ssh2](https://github.com/php/pecl-networking-ssh2) - Bindings for the libssh2 library (3 months ago)
