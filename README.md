@@ -9,11 +9,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.42.0](https://github.com/spatie/laravel-health/releases/tag/1.42.0), today) - Check the health of your Laravel app
-- [spatie/nova-tail-tool](https://github.com/spatie/nova-tail-tool) ([4.0.0](https://github.com/spatie/nova-tail-tool/releases/tag/4.0.0), today) - A Laravel Nova tool to display the application log
-- [php/pecl-networking-ssh2](https://github.com/php/pecl-networking-ssh2) ([1.6.1](https://github.com/php/pecl-networking-ssh2/releases/tag/1.6.1), 2 days ago) - Bindings for the libssh2 library
-- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.6.1](https://github.com/spatie/flare-client-php/releases/tag/3.6.1), 3 days ago) - Send PHP errors to Flare
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.51.0](https://github.com/laravel/horizon/releases/tag/v5.51.0), 6 days ago) - Dashboard and code-driven configuration for Laravel queues.
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.42.0](https://github.com/spatie/laravel-health/releases/tag/1.42.0), 1 day ago) - Check the health of your Laravel app
+- [spatie/nova-tail-tool](https://github.com/spatie/nova-tail-tool) ([4.0.0](https://github.com/spatie/nova-tail-tool/releases/tag/4.0.0), 1 day ago) - A Laravel Nova tool to display the application log
+- [php/pecl-networking-ssh2](https://github.com/php/pecl-networking-ssh2) ([1.6.1](https://github.com/php/pecl-networking-ssh2/releases/tag/1.6.1), 3 days ago) - Bindings for the libssh2 library
+- [spatie/flare-client-php](https://github.com/spatie/flare-client-php) ([3.6.1](https://github.com/spatie/flare-client-php/releases/tag/3.6.1), 4 days ago) - Send PHP errors to Flare
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.51.0](https://github.com/laravel/horizon/releases/tag/v5.51.0), 1 week ago) - Dashboard and code-driven configuration for Laravel queues.
 
 #### 👷 Check out what I'm currently working on
 
