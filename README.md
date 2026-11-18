@@ -9,16 +9,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.52.0](https://github.com/laravel/horizon/releases/tag/v5.52.0), today) - Dashboard and code-driven configuration for Laravel queues.
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.6](https://github.com/swoole/swoole-src/releases/tag/v6.2.6), today) - 🚀 Coroutine-based concurrency library for PHP
-- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.42.0](https://github.com/spatie/laravel-health/releases/tag/1.42.0), 1 day ago) - Check the health of your Laravel app
-- [spatie/nova-tail-tool](https://github.com/spatie/nova-tail-tool) ([4.0.0](https://github.com/spatie/nova-tail-tool/releases/tag/4.0.0), 1 day ago) - A Laravel Nova tool to display the application log
-- [php/pecl-networking-ssh2](https://github.com/php/pecl-networking-ssh2) ([1.6.1](https://github.com/php/pecl-networking-ssh2/releases/tag/1.6.1), 3 days ago) - Bindings for the libssh2 library
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.52.0](https://github.com/laravel/horizon/releases/tag/v5.52.0), 1 day ago) - Dashboard and code-driven configuration for Laravel queues.
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.2.6](https://github.com/swoole/swoole-src/releases/tag/v6.2.6), 1 day ago) - 🚀 Coroutine-based concurrency library for PHP
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.42.0](https://github.com/spatie/laravel-health/releases/tag/1.42.0), 2 days ago) - Check the health of your Laravel app
+- [spatie/nova-tail-tool](https://github.com/spatie/nova-tail-tool) ([4.0.0](https://github.com/spatie/nova-tail-tool/releases/tag/4.0.0), 2 days ago) - A Laravel Nova tool to display the application log
+- [php/pecl-networking-ssh2](https://github.com/php/pecl-networking-ssh2) ([1.6.1](https://github.com/php/pecl-networking-ssh2/releases/tag/1.6.1), 4 days ago) - Bindings for the libssh2 library
 
 #### 👷 Check out what I'm currently working on
 
 - [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (2 weeks ago)
-- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (3 weeks ago)
+- [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (4 weeks ago)
 - [thecaliskan/olympus](https://github.com/thecaliskan/olympus) -  (2 months ago)
 - [php/pecl-networking-ssh2](https://github.com/php/pecl-networking-ssh2) - Bindings for the libssh2 library (3 months ago)
 - [prasanthc41m/ping-extension](https://github.com/prasanthc41m/ping-extension) - A GNOME Shell extension that pings. (6 months ago)
