@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.5.0](https://github.com/spatie/laravel-backup/releases/tag/10.5.0), 2 days ago) - A package to backup your Laravel app
-- [spatie/ssl-certificate-chain-resolver](https://github.com/spatie/ssl-certificate-chain-resolver) ([3.1.0](https://github.com/spatie/ssl-certificate-chain-resolver/releases/tag/3.1.0), 2 days ago) - SSL certificate chain resolver
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.3.0-rc2](https://github.com/swoole/swoole-src/releases/tag/v6.3.0-rc2), 2 days ago) - 🚀 Coroutine-based concurrency library for PHP
-- [laravel/horizon](https://github.com/laravel/horizon) ([v5.52.0](https://github.com/laravel/horizon/releases/tag/v5.52.0), 3 days ago) - Dashboard and code-driven configuration for Laravel queues.
-- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.42.0](https://github.com/spatie/laravel-health/releases/tag/1.42.0), 4 days ago) - Check the health of your Laravel app
+- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) ([10.5.0](https://github.com/spatie/laravel-backup/releases/tag/10.5.0), 3 days ago) - A package to backup your Laravel app
+- [spatie/ssl-certificate-chain-resolver](https://github.com/spatie/ssl-certificate-chain-resolver) ([3.1.0](https://github.com/spatie/ssl-certificate-chain-resolver/releases/tag/3.1.0), 3 days ago) - SSL certificate chain resolver
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.3.0-rc2](https://github.com/swoole/swoole-src/releases/tag/v6.3.0-rc2), 3 days ago) - 🚀 Coroutine-based concurrency library for PHP
+- [laravel/horizon](https://github.com/laravel/horizon) ([v5.52.0](https://github.com/laravel/horizon/releases/tag/v5.52.0), 4 days ago) - Dashboard and code-driven configuration for Laravel queues.
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) ([1.42.0](https://github.com/spatie/laravel-health/releases/tag/1.42.0), 5 days ago) - Check the health of your Laravel app
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (1 day ago)
+- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (2 days ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (1 month ago)
 - [thecaliskan/olympus](https://github.com/thecaliskan/olympus) -  (2 months ago)
 - [php/pecl-networking-ssh2](https://github.com/php/pecl-networking-ssh2) - Bindings for the libssh2 library (3 months ago)
