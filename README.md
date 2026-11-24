@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spatie/crawler](https://github.com/spatie/crawler) ([9.4.3](https://github.com/spatie/crawler/releases/tag/9.4.3), today) - https://spatie.be/docs/crawler
-- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([4.2.0](https://github.com/spatie/db-dumper/releases/tag/4.2.0), today) - Dump the contents of a database
-- [phpredis/phpredis](https://github.com/phpredis/phpredis) ([6.4.0RC1](https://github.com/phpredis/phpredis/releases/tag/6.4.0RC1), today) - A PHP extension for Redis
-- [spatie/ssl-certificate-chain-resolver](https://github.com/spatie/ssl-certificate-chain-resolver) ([3.1.0](https://github.com/spatie/ssl-certificate-chain-resolver/releases/tag/3.1.0), 5 days ago) - SSL certificate chain resolver
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.3.0-rc2](https://github.com/swoole/swoole-src/releases/tag/v6.3.0-rc2), 5 days ago) - 🚀 Coroutine-based concurrency library for PHP
+- [spatie/crawler](https://github.com/spatie/crawler) ([9.4.3](https://github.com/spatie/crawler/releases/tag/9.4.3), 1 day ago) - https://spatie.be/docs/crawler
+- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([4.2.0](https://github.com/spatie/db-dumper/releases/tag/4.2.0), 1 day ago) - Dump the contents of a database
+- [phpredis/phpredis](https://github.com/phpredis/phpredis) ([6.4.0RC1](https://github.com/phpredis/phpredis/releases/tag/6.4.0RC1), 1 day ago) - A PHP extension for Redis
+- [spatie/ssl-certificate-chain-resolver](https://github.com/spatie/ssl-certificate-chain-resolver) ([3.1.0](https://github.com/spatie/ssl-certificate-chain-resolver/releases/tag/3.1.0), 6 days ago) - SSL certificate chain resolver
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.3.0-rc2](https://github.com/swoole/swoole-src/releases/tag/v6.3.0-rc2), 6 days ago) - 🚀 Coroutine-based concurrency library for PHP
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (4 days ago)
+- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (5 days ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (1 month ago)
 - [thecaliskan/olympus](https://github.com/thecaliskan/olympus) -  (2 months ago)
 - [php/pecl-networking-ssh2](https://github.com/php/pecl-networking-ssh2) - Bindings for the libssh2 library (3 months ago)
