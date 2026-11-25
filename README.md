@@ -9,10 +9,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.3.0](https://github.com/swoole/swoole-src/releases/tag/v6.3.0), today) - 🚀 Coroutine-based concurrency library for PHP
 - [spatie/crawler](https://github.com/spatie/crawler) ([9.4.3](https://github.com/spatie/crawler/releases/tag/9.4.3), 2 days ago) - https://spatie.be/docs/crawler
 - [spatie/db-dumper](https://github.com/spatie/db-dumper) ([4.2.0](https://github.com/spatie/db-dumper/releases/tag/4.2.0), 2 days ago) - Dump the contents of a database
 - [phpredis/phpredis](https://github.com/phpredis/phpredis) ([6.4.0RC1](https://github.com/phpredis/phpredis/releases/tag/6.4.0RC1), 2 days ago) - A PHP extension for Redis
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.3.0-rc2](https://github.com/swoole/swoole-src/releases/tag/v6.3.0-rc2), 1 week ago) - 🚀 Coroutine-based concurrency library for PHP
 - [laravel/horizon](https://github.com/laravel/horizon) ([v5.52.0](https://github.com/laravel/horizon/releases/tag/v5.52.0), 1 week ago) - Dashboard and code-driven configuration for Laravel queues.
 
 #### 👷 Check out what I'm currently working on
