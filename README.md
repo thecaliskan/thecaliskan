@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.3.0](https://github.com/swoole/swoole-src/releases/tag/v6.3.0), 1 day ago) - 🚀 Coroutine-based concurrency library for PHP
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.14](https://github.com/swoole/swoole-src/releases/tag/v6.1.14), today) - 🚀 Coroutine-based concurrency library for PHP
 - [spatie/crawler](https://github.com/spatie/crawler) ([9.4.3](https://github.com/spatie/crawler/releases/tag/9.4.3), 3 days ago) - https://spatie.be/docs/crawler
 - [spatie/db-dumper](https://github.com/spatie/db-dumper) ([4.2.0](https://github.com/spatie/db-dumper/releases/tag/4.2.0), 3 days ago) - Dump the contents of a database
 - [phpredis/phpredis](https://github.com/phpredis/phpredis) ([6.4.0RC1](https://github.com/phpredis/phpredis/releases/tag/6.4.0RC1), 3 days ago) - A PHP extension for Redis
