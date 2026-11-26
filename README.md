@@ -10,10 +10,10 @@
 #### 🔭 Latest releases I've contributed to
 
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.14](https://github.com/swoole/swoole-src/releases/tag/v6.1.14), today) - 🚀 Coroutine-based concurrency library for PHP
-- [spatie/crawler](https://github.com/spatie/crawler) ([9.4.3](https://github.com/spatie/crawler/releases/tag/9.4.3), 3 days ago) - https://spatie.be/docs/crawler
-- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([4.2.0](https://github.com/spatie/db-dumper/releases/tag/4.2.0), 3 days ago) - Dump the contents of a database
 - [phpredis/phpredis](https://github.com/phpredis/phpredis) ([6.4.0RC1](https://github.com/phpredis/phpredis/releases/tag/6.4.0RC1), 3 days ago) - A PHP extension for Redis
 - [laravel/horizon](https://github.com/laravel/horizon) ([v5.52.0](https://github.com/laravel/horizon/releases/tag/v5.52.0), 1 week ago) - Dashboard and code-driven configuration for Laravel queues.
+- [php/pecl-networking-ssh2](https://github.com/php/pecl-networking-ssh2) ([1.6.1](https://github.com/php/pecl-networking-ssh2/releases/tag/1.6.1), 1 week ago) - Bindings for the libssh2 library
+- [spatie/ping](https://github.com/spatie/ping) ([1.2.3](https://github.com/spatie/ping/releases/tag/1.2.3), 1 month ago) - Run an ICMP ping and get structured results
 
 #### 👷 Check out what I'm currently working on
 
