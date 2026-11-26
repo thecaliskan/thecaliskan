@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.3.0](https://github.com/swoole/swoole-src/releases/tag/v6.3.0), today) - 🚀 Coroutine-based concurrency library for PHP
-- [spatie/crawler](https://github.com/spatie/crawler) ([9.4.3](https://github.com/spatie/crawler/releases/tag/9.4.3), 2 days ago) - https://spatie.be/docs/crawler
-- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([4.2.0](https://github.com/spatie/db-dumper/releases/tag/4.2.0), 2 days ago) - Dump the contents of a database
-- [phpredis/phpredis](https://github.com/phpredis/phpredis) ([6.4.0RC1](https://github.com/phpredis/phpredis/releases/tag/6.4.0RC1), 2 days ago) - A PHP extension for Redis
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.3.0](https://github.com/swoole/swoole-src/releases/tag/v6.3.0), 1 day ago) - 🚀 Coroutine-based concurrency library for PHP
+- [spatie/crawler](https://github.com/spatie/crawler) ([9.4.3](https://github.com/spatie/crawler/releases/tag/9.4.3), 3 days ago) - https://spatie.be/docs/crawler
+- [spatie/db-dumper](https://github.com/spatie/db-dumper) ([4.2.0](https://github.com/spatie/db-dumper/releases/tag/4.2.0), 3 days ago) - Dump the contents of a database
+- [phpredis/phpredis](https://github.com/phpredis/phpredis) ([6.4.0RC1](https://github.com/phpredis/phpredis/releases/tag/6.4.0RC1), 3 days ago) - A PHP extension for Redis
 - [laravel/horizon](https://github.com/laravel/horizon) ([v5.52.0](https://github.com/laravel/horizon/releases/tag/v5.52.0), 1 week ago) - Dashboard and code-driven configuration for Laravel queues.
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (1 day ago)
+- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (2 days ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (1 month ago)
 - [thecaliskan/olympus](https://github.com/thecaliskan/olympus) -  (2 months ago)
 - [php/pecl-networking-ssh2](https://github.com/php/pecl-networking-ssh2) - Bindings for the libssh2 library (3 months ago)
