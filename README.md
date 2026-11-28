@@ -9,15 +9,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.14](https://github.com/swoole/swoole-src/releases/tag/v6.1.14), 1 day ago) - 🚀 Coroutine-based concurrency library for PHP
-- [phpredis/phpredis](https://github.com/phpredis/phpredis) ([6.4.0RC1](https://github.com/phpredis/phpredis/releases/tag/6.4.0RC1), 4 days ago) - A PHP extension for Redis
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) ([v6.1.14](https://github.com/swoole/swoole-src/releases/tag/v6.1.14), 2 days ago) - 🚀 Coroutine-based concurrency library for PHP
+- [phpredis/phpredis](https://github.com/phpredis/phpredis) ([6.4.0RC1](https://github.com/phpredis/phpredis/releases/tag/6.4.0RC1), 5 days ago) - A PHP extension for Redis
 - [laravel/horizon](https://github.com/laravel/horizon) ([v5.52.0](https://github.com/laravel/horizon/releases/tag/v5.52.0), 1 week ago) - Dashboard and code-driven configuration for Laravel queues.
-- [php/pecl-networking-ssh2](https://github.com/php/pecl-networking-ssh2) ([1.6.1](https://github.com/php/pecl-networking-ssh2/releases/tag/1.6.1), 1 week ago) - Bindings for the libssh2 library
+- [php/pecl-networking-ssh2](https://github.com/php/pecl-networking-ssh2) ([1.6.1](https://github.com/php/pecl-networking-ssh2/releases/tag/1.6.1), 2 weeks ago) - Bindings for the libssh2 library
 - [spatie/ping](https://github.com/spatie/ping) ([1.2.3](https://github.com/spatie/ping/releases/tag/1.2.3), 1 month ago) - Run an ICMP ping and get structured results
 
 #### 👷 Check out what I'm currently working on
 
-- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (3 days ago)
+- [thecaliskan/oort](https://github.com/thecaliskan/oort) - Lightweight Docker Base Image for PHP Applications (4 days ago)
 - [thecaliskan/oort-docs](https://github.com/thecaliskan/oort-docs) - OORT Documentation (1 month ago)
 - [thecaliskan/olympus](https://github.com/thecaliskan/olympus) -  (2 months ago)
 - [php/pecl-networking-ssh2](https://github.com/php/pecl-networking-ssh2) - Bindings for the libssh2 library (3 months ago)
